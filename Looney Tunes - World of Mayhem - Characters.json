@@ -1,0 +1,1601 @@
+{
+  "toons" : {
+    "Bandito" : [ {
+      "description" : "This little Mouse can do fast attacks and help your team. You'll only hear the breeze, when he comes to steal your cheese!",
+      "name" : "Queso Bandito",
+      "rarity" : "Epic",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Sylvester toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Sylvester"
+      }, {
+        "description" : "At the start of the match, all Outlaw allies gain Attack Up for 3 turns.",
+        "name" : "Outlaw"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 430,
+        "max_defense" : 377,
+        "max_health" : 996,
+        "max_power" : 10327,
+        "max_speed" : 162
+      },
+      "tags" : [ "Mouse", "Outlaw" ]
+    } ],
+    "Bugs" : [ {
+      "description" : "All-around balanced rabbit. Able to deal damage to several foes at once and stun them, he's a handy hare in battle.",
+      "name" : "Bugs Bunny",
+      "rarity" : "Epic",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Porky Pig toon is in the battlefield as an ally.",
+        "name" : "Porky Pig"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 432,
+        "max_defense" : 522,
+        "max_health" : 1570,
+        "max_power" : 11824,
+        "max_speed" : 110
+      },
+      "tags" : [ "Rabbit", "Rural", "Original" ]
+    }, {
+      "description" : "Awesome support. Focuses on keeping his team alive by constantly healing them and clearing negative effects.",
+      "name" : "Barber Bugs",
+      "rarity" : "Rare",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Elmer Fudd toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Elmer Fudd"
+      }, {
+        "description" : "At the start of the match, all Professional allies gain Attack Up for 3 turns.",
+        "name" : "Professional"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 355,
+        "max_defense" : 464,
+        "max_health" : 1150,
+        "max_power" : 9745,
+        "max_speed" : 110
+      },
+      "tags" : [ "Rabbit", "Professional" ]
+    }, {
+      "description" : "Western attacker. The cowboy is excellent when fighting with desert toons.",
+      "name" : "Cowboy Bugs",
+      "rarity" : "Common",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Sheriff Porky is in the battlefield as an ally.",
+        "name" : "Sheriff Porky"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 323,
+        "max_defense" : 359,
+        "max_health" : 899,
+        "max_power" : 8442,
+        "max_speed" : 119
+      },
+      "tags" : [ "Rabbit", "Wild West" ]
+    }, {
+      "description" : "A defender with a special knack for helping out allies and stunning opponents.",
+      "name" : "Holiday Bugs Bunny",
+      "rarity" : "Epic",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Holiday toon is in the battlefield as an ally.",
+        "name" : "Holiday"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 389,
+        "max_defense" : 665,
+        "max_health" : 1565,
+        "max_power" : 11935,
+        "max_speed" : 106
+      },
+      "tags" : [ "Rabbit", "Holiday" ]
+    }, {
+      "description" : "The king rules at stunning his enemies and inflicting them with taunt.",
+      "name" : "King Bugs Bunny",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Royal Page Coyote.",
+        "name" : "Royal Page Coyote"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 432,
+        "max_defense" : 528,
+        "max_health" : 1317,
+        "max_power" : 11379,
+        "max_speed" : 124
+      },
+      "tags" : [ "Rabbit", "King" ]
+    }, {
+      "description" : "The maestro can protect his team and deal large amounts of damage with his gran finale.",
+      "name" : "Leopold",
+      "rarity" : "Rare",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Artist toon is in the battlefield as an ally.",
+        "name" : "Artist"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 344,
+        "max_defense" : 565,
+        "max_health" : 1363,
+        "max_power" : 10489,
+        "max_speed" : 101
+      },
+      "tags" : [ "Rabbit", "Artist" ]
+    }, {
+      "description" : "A rabbit with an invisibility device that allows him to hide from enemy and counter attack if attacked!",
+      "name" : "Martian Bugs",
+      "rarity" : "Rare",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Explorer allies gain Attack Up for 3 turns.",
+        "name" : "Explorer"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 391,
+        "max_defense" : 435,
+        "max_health" : 1089,
+        "max_power" : 9941,
+        "max_speed" : 119
+      },
+      "tags" : [ "Rabbit", "Explorer" ]
+    }, {
+      "description" : "This rabbit debuffs enemies and saves his allies from a bad performance!",
+      "name" : "Show Biz Bugs",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Show Biz Daffy is in the battlefield as an ally.",
+        "name" : "Show Biz Daffy"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking Show Biz Daffy.",
+        "name" : "Show Biz Daffy"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 391,
+        "max_defense" : 422,
+        "max_health" : 1060,
+        "max_power" : 9761,
+        "max_speed" : 114
+      },
+      "tags" : [ "Rabbit", "Artist" ]
+    }, {
+      "description" : "A support valkyrie who can greatly expedite her team's actions and silence her enemies.",
+      "name" : "Valkyrie Bugs",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Siegfried Elmer is in the battlefield as an ally.",
+        "name" : "Siegfried Elmer"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 432,
+        "max_defense" : 641,
+        "max_health" : 1152,
+        "max_power" : 11353,
+        "max_speed" : 114
+      },
+      "tags" : [ "Rabbit", "Magic" ]
+    } ],
+    "Coyote" : [ {
+      "description" : "A volatile servant of the king, he's able to inflict Damage Over Time on several enemies at once.",
+      "name" : "Royal Page Coyote",
+      "rarity" : "Common",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while King Bugs Bunny is in the battlefield as an ally.",
+        "name" : "King Bugs Bunny"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Staff toon is in the battlefield as an ally.",
+        "name" : "Staff"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 331,
+        "max_defense" : 330,
+        "max_health" : 849,
+        "max_power" : 8278,
+        "max_speed" : 119
+      },
+      "tags" : [ "Dog", "Staff" ]
+    }, {
+      "description" : "Risky attacker. The Carnivorous Vulgaris can deal high amounts of damage with some backlash to his allies.",
+      "name" : "Wile E Coyote",
+      "rarity" : "Epic",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Road Runner toon.",
+        "name" : "Road Runner"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Ralph The Wolf toon is in the battlefield as an ally.",
+        "name" : "Ralph Wolf"
+      }, {
+        "description" : "At the start of the match, all Mastermind allies gain Attack Up for 3 turns.",
+        "name" : "Mastermind"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 475,
+        "max_defense" : 430,
+        "max_health" : 1334,
+        "max_power" : 11448,
+        "max_speed" : 124
+      },
+      "tags" : [ "Dog", "Mastermind", "Original" ]
+    }, {
+      "description" : "Risky, but very damaging attacker who thrives against Damage Over Time.",
+      "name" : "Rocket Coyote",
+      "rarity" : "Epic",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Rocket Sylvester is in the battlefield as an ally.",
+        "name" : "Rocket Sylvester"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 508,
+        "max_defense" : 528,
+        "max_health" : 979,
+        "max_power" : 11448,
+        "max_speed" : 134
+      },
+      "tags" : [ "Dog", "Holiday" ]
+    } ],
+    "Daffy" : [ {
+      "description" : "High damage fowl. With a very low health, he focuses on finishing off enemies quickly with his strong attacks, relying on dodge to survive.",
+      "name" : "Daffy Duck",
+      "rarity" : "Epic",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Elmer Fudd toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Elmer Fudd"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking any Porky Pig toon.",
+        "name" : "Porky Pig"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Daffy Duck toon is in the battlefield as an ally.",
+        "name" : "Daffy Duck"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 460,
+        "max_defense" : 462,
+        "max_health" : 1414,
+        "max_power" : 11572,
+        "max_speed" : 119
+      },
+      "tags" : [ "Bird", "Rural", "Original" ]
+    }, {
+      "description" : "Robbing the rich and giving it to himself, Daffy Hood excels at finishing off weakened enemies and speeding up his allies.",
+      "name" : "Daffy Hood",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Porky Pig toon.",
+        "name" : "Porky Pig"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 460,
+        "max_defense" : 482,
+        "max_health" : 1218,
+        "max_power" : 11177,
+        "max_speed" : 119
+      },
+      "tags" : [ "Bird", "Hero" ]
+    }, {
+      "description" : "A powerful attacker who can reduce the cooldown of his special skill to deal massive amounts of damage!",
+      "name" : "Duck Dodgers",
+      "rarity" : "Epic",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Space Cadet is in the battlefield as an ally.",
+        "name" : "Space Cadet"
+      }, {
+        "description" : "At the start of the match, if K'Chutha Sa'am is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "K'Chutha Sa'am"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking any Marvin toon.",
+        "name" : "Marvin"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 499,
+        "max_defense" : 734,
+        "max_health" : 1038,
+        "max_power" : 12117,
+        "max_speed" : 109
+      },
+      "tags" : [ "Bird", "Hero" ]
+    }, {
+      "description" : "A supporter duck who can turn bad effects into good.",
+      "name" : "Elf Daffy Duck",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Holiday allies gain Attack Up for 3 turns.",
+        "name" : "Holiday"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 353,
+        "max_defense" : 462,
+        "max_health" : 1116,
+        "max_power" : 9674,
+        "max_speed" : 114
+      },
+      "tags" : [ "Bird", "Holiday" ]
+    }, {
+      "description" : "A high striker who's able to cause damage over time and counter attack.",
+      "name" : "Joe Monday",
+      "rarity" : "Common",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Cop toon is in the battlefield as an ally.",
+        "name" : "Cop"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 361,
+        "max_defense" : 339,
+        "max_health" : 855,
+        "max_power" : 8591,
+        "max_speed" : 114
+      },
+      "tags" : [ "Bird", "Cop" ]
+    }, {
+      "description" : "This duck thrives from stunning his enemies with his team's performance!",
+      "name" : "Show Biz Daffy",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Show Biz Bugs is in the battlefield as an ally.",
+        "name" : "Show Biz Bugs"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking Show Biz Bugs.",
+        "name" : "Show Biz Bugs"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 419,
+        "max_defense" : 385,
+        "max_health" : 980,
+        "max_power" : 9858,
+        "max_speed" : 129
+      },
+      "tags" : [ "Bird", "Artist" ]
+    }, {
+      "description" : "Multipurpose duck. This persistent duck can eat through taunt enemies with his guaranteed criticals.",
+      "name" : "Salesduck Daffy",
+      "rarity" : "Common",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Barber Bugs is in the battlefield as an ally.",
+        "name" : "Barber Bugs"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Professional toon is in the battlefield as an ally.",
+        "name" : "Professional"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 357,
+        "max_defense" : 296,
+        "max_health" : 766,
+        "max_power" : 8200,
+        "max_speed" : 119
+      },
+      "tags" : [ "Bird", "Professional" ]
+    }, {
+      "description" : "Critical striker. Dealing high amounts of damage through his critical skills, he's able to quickly defeat his foes.",
+      "name" : "Western Type Hero",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Wild West toon is in the battlefield as an ally.",
+        "name" : "Wild West"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 353,
+        "max_defense" : 625,
+        "max_health" : 1079,
+        "max_power" : 10283,
+        "max_speed" : 114
+      },
+      "tags" : [ "Bird", "Wild West" ]
+    }, {
+      "description" : "The Scarlet Pumpernickel specializes in hidden away striking his enemies with enormous strength.",
+      "name" : "Scarlet Pumpernickel",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Hero toon is in the battlefield as an ally.",
+        "name" : "Hero"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking Grand Duke Sylvester.",
+        "name" : "Grand Duke Sylvester"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 475,
+        "max_defense" : 679,
+        "max_health" : 1209,
+        "max_power" : 12050,
+        "max_speed" : 109
+      },
+      "tags" : [ "Bird", "Hero" ]
+    }, {
+      "description" : "Awesome avenger. The Masked Avenger brings justice straight to his enemies' health, attacking quickly and decisively.",
+      "name" : "Masked Avenger",
+      "rarity" : "Rare",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Outlaw toon.",
+        "name" : "Outlaw"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 391,
+        "max_defense" : 496,
+        "max_health" : 908,
+        "max_power" : 9919,
+        "max_speed" : 134
+      },
+      "tags" : [ "Bird", "Hero" ]
+    } ],
+    "Dawg" : [ {
+      "description" : "Great supporter. Excellent at giving critical hits to his team and healing his allies in danger.",
+      "name" : "Dr. Dawgstein",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Monster Foghorn is in the battlefield as an ally.",
+        "name" : "Monster Foghorn"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 408,
+        "max_defense" : 437,
+        "max_health" : 1092,
+        "max_power" : 10007,
+        "max_speed" : 107
+      },
+      "tags" : [ "Dog", "Mastermind" ]
+    }, {
+      "description" : "Sneaky attacker. Able to hide away from danger and unleash a strong attack on the enemies.",
+      "name" : "Barnyard Dawg",
+      "rarity" : "Rare",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Foghorn Leghorn toon.",
+        "name" : "Foghorn Leghorn"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 382,
+        "max_defense" : 459,
+        "max_health" : 1377,
+        "max_power" : 10486,
+        "max_speed" : 103
+      },
+      "tags" : [ "Dog", "Rural", "Original" ]
+    } ],
+    "Elmer" : [ {
+      "description" : "Balanced defender. Focuses on attacking a single enemy at a time, healing himself as result.",
+      "name" : "Elmer Fudd",
+      "rarity" : "Rare",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Bugs Bunny.",
+        "name" : "Bugs Bunny"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking Daffy Duck.",
+        "name" : "Daffy Duck"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Hunter toon is in the battlefield as an ally.",
+        "name" : "Hunter"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 380,
+        "max_defense" : 654,
+        "max_health" : 1145,
+        "max_power" : 10712,
+        "max_speed" : 101
+      },
+      "tags" : [ "Human", "Hunter", "Original" ]
+    }, {
+      "description" : "The waiter supports his team by healing and empowering his allies, especially good when fighting rabbits.",
+      "name" : "Waiter Elmer",
+      "rarity" : "Common",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Bugs Bunny toon.",
+        "name" : "Bugs Bunny"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 282,
+        "max_defense" : 432,
+        "max_health" : 1049,
+        "max_power" : 8642,
+        "max_speed" : 114
+      },
+      "tags" : [ "Human", "Staff" ]
+    }, {
+      "description" : "Calling thunder, he's able to dish out heavy damage to all foes while standing in the front lines protecting his team.",
+      "name" : "Siegfried Elmer",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Valkyrie Bugs.",
+        "name" : "Valkyrie Bugs"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Valkyrie Bugs is in the battlefield as an ally.",
+        "name" : "Valkyrie Bugs"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 475,
+        "max_defense" : 723,
+        "max_health" : 1479,
+        "max_power" : 12720,
+        "max_speed" : 92
+      },
+      "tags" : [ "Human", "Hero" ]
+    } ],
+    "Foghorn" : [ {
+      "description" : "Strong defender. Protects his team from enemies, especially when team members are low on health.",
+      "name" : "Foghorn Leghorn",
+      "rarity" : "Epic",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Barnyard Dawg toon.",
+        "name" : "Barnyard Dawg"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Rural toon is in the battlefield as an ally.",
+        "name" : "Rural"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 460,
+        "max_defense" : 612,
+        "max_health" : 1798,
+        "max_power" : 12805,
+        "max_speed" : 86
+      },
+      "tags" : [ "Bird", "Rural", "Original" ]
+    }, {
+      "description" : "Lifestealer defender. Steals a lot of health from his target and jumps in front of danger to save his allies.",
+      "name" : "Monster Foghorn",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Dr. Dawgstein.",
+        "name" : "Dr. Dawgstein"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Ralph the Vampire is in the battlefield as an ally.",
+        "name" : "Ralph the Vampire"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 419,
+        "max_defense" : 543,
+        "max_health" : 1525,
+        "max_power" : 11339,
+        "max_speed" : 79
+      },
+      "tags" : [ "Monster", "Villain" ]
+    }, {
+      "description" : "Counterattack specialist. The Mystery Man can counter attacks and stop his enemies from countering, also.",
+      "name" : "Outlaw Foghorn",
+      "rarity" : "Common",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Outlaw Sylvester is in the battlefield as an ally.",
+        "name" : "Outlaw Sylvester"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 357,
+        "max_defense" : 434,
+        "max_health" : 1059,
+        "max_power" : 9159,
+        "max_speed" : 86
+      },
+      "tags" : [ "Bird", "Outlaw" ]
+    }, {
+      "description" : "Scout defender. His slow attacks hide a very powerful punch able to stun his enemies.",
+      "name" : "Scout Foghorn",
+      "rarity" : "Common",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Scout Leader Granny is in the battlefield as an ally.",
+        "name" : "Scout Leader Granny"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 350,
+        "max_defense" : 549,
+        "max_health" : 1029,
+        "max_power" : 9431,
+        "max_speed" : 79
+      },
+      "tags" : [ "Bird", "Scout" ]
+    } ],
+    "Gossamer" : [ {
+      "description" : "This scary tank specializes in greatly slowing down his enemies and ignoring his target's defense.",
+      "name" : "Gossamer",
+      "rarity" : "Rare",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Villain toon is in the battlefield as an ally.",
+        "name" : "Villain"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Hero toon is in the battlefield as an ally.",
+        "name" : "Hero"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 415,
+        "max_defense" : 531,
+        "max_health" : 1556,
+        "max_power" : 11312,
+        "max_speed" : 78
+      },
+      "tags" : [ "Monster", "Villain", "Original" ]
+    } ],
+    "Granny" : [ {
+      "description" : "A senior healer, able to empower her allies and weaken her enemies.",
+      "name" : "Granny",
+      "rarity" : "Epic",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Hector toon is in the battlefield as an ally.",
+        "name" : "Hector"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Sylvester toon is in the battlefield as an ally.",
+        "name" : "Sylvester"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 376,
+        "max_defense" : 615,
+        "max_health" : 1494,
+        "max_power" : 11294,
+        "max_speed" : 95
+      },
+      "tags" : [ "Human", "Citizen", "Original" ]
+    }, {
+      "description" : "Support cowgirl. Helps her team by providing a lot of critical chance and counter attack chance.",
+      "name" : "Cowgirl Granny",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Wild West allies gain Attack Up for 3 turns.",
+        "name" : "Wild West"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 320,
+        "max_defense" : 462,
+        "max_health" : 1145,
+        "max_power" : 9232,
+        "max_speed" : 98
+      },
+      "tags" : [ "Human", "Wild West" ]
+    }, {
+      "description" : "This healing assistant is an expert at Healing Over Time and cleansing her allies.",
+      "name" : "Handmaiden Granny",
+      "rarity" : "Common",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Staff allies gain Attack Up for 3 turns.",
+        "name" : "Staff"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 282,
+        "max_defense" : 369,
+        "max_health" : 917,
+        "max_power" : 7879,
+        "max_speed" : 98
+      },
+      "tags" : [ "Human", "Staff" ]
+    }, {
+      "description" : "Support scout. This tough granny can heal her allies and demoralize her enemies.",
+      "name" : "Scout Leader Granny",
+      "rarity" : "Common",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Scout allies gain Attack Up for 3 turns.",
+        "name" : "Scout"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 238,
+        "max_defense" : 457,
+        "max_health" : 1075,
+        "max_power" : 8100,
+        "max_speed" : 90
+      },
+      "tags" : [ "Human", "Scout" ]
+    }, {
+      "description" : "Support settler. Able to heal her allies and cleanse their wounds.",
+      "name" : "Settler Granny",
+      "rarity" : "Common",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Sheriff Porky is in the battlefield as an ally.",
+        "name" : "Sheriff Porky"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 255,
+        "max_defense" : 508,
+        "max_health" : 897,
+        "max_power" : 8113,
+        "max_speed" : 95
+      },
+      "tags" : [ "Human", "Wild West" ]
+    }, {
+      "description" : "Granny's invisibility cloak allows her to speed up her allies actions, giving them an edge on the battle!",
+      "name" : "Space Explorer Granny",
+      "rarity" : "Common",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Explorer toon is in the battlefield as an ally.",
+        "name" : "Explorer"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 338,
+        "max_defense" : 457,
+        "max_health" : 897,
+        "max_power" : 8663,
+        "max_speed" : 86
+      },
+      "tags" : [ "Human", "Explorer" ]
+    } ],
+    "Hector" : [ {
+      "description" : "This very resistant tank steps into the front lines to defend his team and reveal hidden enemies.",
+      "name" : "Hector",
+      "rarity" : "Rare",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Sylvester toon.",
+        "name" : "Sylvester"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Granny toon is in the battlefield as an ally.",
+        "name" : "Granny"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 367,
+        "max_defense" : 484,
+        "max_health" : 1435,
+        "max_power" : 10558,
+        "max_speed" : 101
+      },
+      "tags" : [ "Dog", "Citizen", "Original" ]
+    }, {
+      "description" : "A strong attacker able to tear down enemies who are taunting and remove their positive effects!",
+      "name" : "Astronaut Hector",
+      "rarity" : "Common",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Astronaut Sylvester is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Astronaut Sylvester"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Space Explorer Granny is in the battlefield as an ally.",
+        "name" : "Space Explorer Granny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 338,
+        "max_defense" : 522,
+        "max_health" : 919,
+        "max_power" : 9112,
+        "max_speed" : 97
+      },
+      "tags" : [ "Dog", "Explorer" ]
+    }, {
+      "description" : "Stout defender. Good against high defense defenders and cats.",
+      "name" : "Farmer Hector",
+      "rarity" : "Common",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Farmer toon is in the battlefield as an ally.",
+        "name" : "Farmer"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 380,
+        "max_defense" : 654,
+        "max_health" : 1145,
+        "max_power" : 10712,
+        "max_speed" : 101
+      },
+      "tags" : [ "Dog", "Farmer" ]
+    }, {
+      "description" : "Defensive police dog. Able to soak in a lot of damage and protect his allies while also helping them get ahead in the battle.",
+      "name" : "Police Dog Hector",
+      "rarity" : "Common",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Officer Yosemite is in the battlefield as an ally.",
+        "name" : "Officer Yosemite"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 303,
+        "max_defense" : 522,
+        "max_health" : 1075,
+        "max_power" : 9077,
+        "max_speed" : 92
+      },
+      "tags" : [ "Dog", "Cop" ]
+    } ],
+    "Marvin" : [ {
+      "description" : "The martian who started it all is armed to the teeth with powerful weapons",
+      "name" : "Marvin",
+      "rarity" : "Epic",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Duck Dodgers is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Duck Dodgers"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Mastermind toon is in the battlefield as an ally.",
+        "name" : "Mastermind"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking any Bugs Bunny toon.",
+        "name" : "Bugs Bunny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 546,
+        "max_defense" : 470,
+        "max_health" : 1192,
+        "max_power" : 11820,
+        "max_speed" : 106
+      },
+      "tags" : [ "Alien", "Mastermind", "Original" ]
+    }, {
+      "description" : "Amazing attacker. Be it zapping a single enemy or disintegrating the whole team, he's one angry Martian to be dealt with.",
+      "name" : "Marvin Fudd",
+      "rarity" : "Rare",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Bugs Bunny is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Bugs Bunny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 513,
+        "max_defense" : 363,
+        "max_health" : 937,
+        "max_power" : 10276,
+        "max_speed" : 95
+      },
+      "tags" : [ "Alien", "Hunter" ]
+    } ],
+    "Penelope" : [ {
+      "description" : "Evasive attacker. This wary cat can remove Taunt while avoiding almost every attack.",
+      "name" : "Penelope",
+      "rarity" : "Epic",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Pepe Le Pew toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Pepe Le Pew"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Sylvester toon is in the battlefield as an ally.",
+        "name" : "Sylvester"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 404,
+        "max_defense" : 491,
+        "max_health" : 1491,
+        "max_power" : 11397,
+        "max_speed" : 128
+      },
+      "tags" : [ "Cat", "Citizen", "Original" ]
+    } ],
+    "Pepe" : [ {
+      "description" : "The bard uses his songs to heavily boost and heal his allies in battle.",
+      "name" : "Pepe Le Bard",
+      "rarity" : "Rare",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Friar Porky is in the battlefield as an ally.",
+        "name" : "Friar Porky"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 367,
+        "max_defense" : 422,
+        "max_health" : 1063,
+        "max_power" : 9572,
+        "max_speed" : 119
+      },
+      "tags" : [ "Skunk", "Artist" ]
+    }, {
+      "description" : "Resilient skunk. Persistent, he uses his stench to damage all of his foes and weaken them.",
+      "name" : "Pepe Le Pew",
+      "rarity" : "Rare",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Penelope toon is in the battlefield as an ally.",
+        "name" : "Penelope"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 367,
+        "max_defense" : 432,
+        "max_health" : 1302,
+        "max_power" : 10147,
+        "max_speed" : 114
+      },
+      "tags" : [ "Skunk", "Citizen", "Original" ]
+    } ],
+    "Porky" : [ {
+      "description" : "Balanced support swine. This friendly swine can heal his allies and dish out some damage to his enemies.",
+      "name" : "Porky Pig",
+      "rarity" : "Epic",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Daffy Duck toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Daffy Duck"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Bugs Bunny toon is in the battlefield as an ally.",
+        "name" : "Bugs Bunny"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Daffy Duck toon is in the battlefield as an ally.",
+        "name" : "Daffy Duck"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 389,
+        "max_defense" : 522,
+        "max_health" : 1570,
+        "max_power" : 11376,
+        "max_speed" : 110
+      },
+      "tags" : [ "Pig", "Citizen", "Original" ]
+    }, {
+      "description" : "A support swine who's able to give counter chance to his allies and heal them.",
+      "name" : "Chamberlain Porky",
+      "rarity" : "Rare",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Scarlet Pumpernickel.",
+        "name" : "Scarlet Pumpernickel"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Grand Duke Sylvester is in the battlefield as an ally.",
+        "name" : "Grand Duke Sylvester"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 342,
+        "max_defense" : 523,
+        "max_health" : 1271,
+        "max_power" : 10063,
+        "max_speed" : 101
+      },
+      "tags" : [ "Pig", "Staff" ]
+    }, {
+      "description" : "The fastest chauffeur in the city, able to speed up his allies and give them an edge in battle.",
+      "name" : "Chauffeur Porky",
+      "rarity" : "Common",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Leopold is in the battlefield as an ally.",
+        "name" : "Leopold"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 246,
+        "max_defense" : 432,
+        "max_health" : 1025,
+        "max_power" : 8124,
+        "max_speed" : 106
+      },
+      "tags" : [ "Pig", "Staff" ]
+    }, {
+      "description" : "Support farmer. Helps his team by healing them and weakening the enemies.",
+      "name" : "Farmer Porky",
+      "rarity" : "Common",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Miss Prissy is in the battlefield as an ally.",
+        "name" : "Miss Prissy"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 291,
+        "max_defense" : 383,
+        "max_health" : 1099,
+        "max_power" : 8510,
+        "max_speed" : 101
+      },
+      "tags" : [ "Pig", "Farmer" ]
+    }, {
+      "description" : "This laughing tank protects his team by greatly slowing down his enemies.",
+      "name" : "Friar Porky",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Daffy Hood.",
+        "name" : "Daffy Hood"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Magic toon is in the battlefield as an ally.",
+        "name" : "Magic"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 363,
+        "max_defense" : 665,
+        "max_health" : 1602,
+        "max_power" : 11702,
+        "max_speed" : 101
+      },
+      "tags" : [ "Pig", "Professional" ]
+    }, {
+      "description" : "A support toon able to give his allies lots of defense and heal his tanks!",
+      "name" : "Space Cadet",
+      "rarity" : "Rare",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Hero allies gain Attack Up for 3 turns.",
+        "name" : "Hero"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Duck Dodgers is in the battlefield as an ally.",
+        "name" : "Duck Dodgers"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 331,
+        "max_defense" : 435,
+        "max_health" : 1089,
+        "max_power" : 9263,
+        "max_speed" : 114
+      },
+      "tags" : [ "Pig", "Hero" ]
+    }, {
+      "description" : "Support peacekeeper. The sheriff protects his allies by weakening their enemies and quickly jumping into action.",
+      "name" : "Sheriff Porky",
+      "rarity" : "Common",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Cop allies gain Attack Up for 3 turns.",
+        "name" : "Cop"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 291,
+        "max_defense" : 434,
+        "max_health" : 788,
+        "max_power" : 8105,
+        "max_speed" : 114
+      },
+      "tags" : [ "Pig", "Cop" ]
+    } ],
+    "Prissy" : [ {
+      "description" : "High damage critical hits. Unpredictable chick can land a critical on all attacks.",
+      "name" : "Miss Prissy",
+      "rarity" : "Rare",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Barnyard Dawg toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Barnyard Dawg"
+      }, {
+        "description" : "At the start of the match, all Rural allies gain Attack Up for 3 turns.",
+        "name" : "Rural"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 331,
+        "max_defense" : 365,
+        "max_health" : 1135,
+        "max_power" : 9129,
+        "max_speed" : 119
+      },
+      "tags" : [ "Bird", "Rural", "Original" ]
+    } ],
+    "Ralph" : [ {
+      "description" : "High risk attacker. Uses his multipurpose kit to set up strong attacks.",
+      "name" : "Ralph Wolf",
+      "rarity" : "Rare",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "At the start of the match, if any Sam Sheepdog toon is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Sam Sheepdog"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Wile E. Coyote toon is in the battlefield as an ally.",
+        "name" : "Wile E. Coyote"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Sam Sheepdog toon is in the battlefield as an ally.",
+        "name" : "Sam Sheepdog"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 380,
+        "max_defense" : 365,
+        "max_health" : 1135,
+        "max_power" : 9639,
+        "max_speed" : 119
+      },
+      "tags" : [ "Dog", "Professional", "Original" ]
+    }, {
+      "description" : "Fast attacker. The vampire is able to sustain himself in battle while he deals large amounts of damage to his enemies.",
+      "name" : "Ralph the Vampire",
+      "rarity" : "Epic",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Monster Foghorn is in the battlefield as an ally.",
+        "name" : "Monster Foghorn"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Dr. Dawgstein is in the battlefield as an ally.",
+        "name" : "Dr. Dawgstein"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 475,
+        "max_defense" : 421,
+        "max_health" : 1090,
+        "max_power" : 10865,
+        "max_speed" : 129
+      },
+      "tags" : [ "Dog", "Magic" ]
+    } ],
+    "Road-Runner" : [ {
+      "description" : "Fast support. Avoids enemy damage while debuffing his enemies and speeding up his team.",
+      "name" : "Road Runner",
+      "rarity" : "Epic",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Wile E. Coyote toon.",
+        "name" : "Wile E. Coyote"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 389,
+        "max_defense" : 415,
+        "max_health" : 1295,
+        "max_power" : 10732,
+        "max_speed" : 156
+      },
+      "tags" : [ "Bird", "Wild West", "Original" ]
+    } ],
+    "Sam" : [ {
+      "description" : "The Black Knight is able to use his dragon to inflict heavy Damage Over Time on his enemies.",
+      "name" : "Black Knight Sam",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking King Bugs Bunny.",
+        "name" : "King Bugs Bunny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 577,
+        "max_defense" : 749,
+        "max_health" : 1056,
+        "max_power" : 12846,
+        "max_speed" : 91
+      },
+      "tags" : [ "Human", "Magic" ]
+    }, {
+      "description" : "Powerful hunter. Able to weaken enemies and exploit their weakness. Thrives on critical hits.",
+      "name" : "Hunter Yosemite Sam",
+      "rarity" : "Common",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Bugs Bunny is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Bugs Bunny"
+      }, {
+        "description" : "This toon has 50% more Attack when attacking Scout Leader Granny.",
+        "name" : "Scout Leader Granny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 411,
+        "max_defense" : 334,
+        "max_health" : 845,
+        "max_power" : 8906,
+        "max_speed" : 99
+      },
+      "tags" : [ "Human", "Hunter" ]
+    }, {
+      "description" : "The wizard greatly slows down his enemies and inflicts them with Damage Over Time.",
+      "name" : "Merlin Sam",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Magic toon is in the battlefield as an ally.",
+        "name" : "Magic"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 514,
+        "max_defense" : 491,
+        "max_health" : 1238,
+        "max_power" : 11615,
+        "max_speed" : 99
+      },
+      "tags" : [ "Human", "Magic" ]
+    }, {
+      "description" : "A stout scam artist, able to protect his team and heal himself .",
+      "name" : "Mr Sam",
+      "rarity" : "Common",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Granny toon.",
+        "name" : "Granny"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 349,
+        "max_defense" : 420,
+        "max_health" : 1029,
+        "max_power" : 8995,
+        "max_speed" : 91
+      },
+      "tags" : [ "Human", "Villain" ]
+    }, {
+      "description" : "Powerful support. Deals lots of damage and buffs his allies.",
+      "name" : "Officer Yosemite",
+      "rarity" : "Common",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Police Dog Hector is in the battlefield as an ally.",
+        "name" : "Police Dog Hector"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 337,
+        "max_defense" : 420,
+        "max_health" : 1005,
+        "max_power" : 8854,
+        "max_speed" : 95
+      },
+      "tags" : [ "Human", "Cop" ]
+    }, {
+      "description" : "An attacker who also helps his team with high risk reward effects.",
+      "name" : "Scrooge Yosemite Sam",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Holiday Bugs Bunny.",
+        "name" : "Holiday Bugs Bunny"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Elf Daffy Duck is in the battlefield as an ally.",
+        "name" : "Elf Daffy Duck"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 483,
+        "max_defense" : 393,
+        "max_health" : 997,
+        "max_power" : 10366,
+        "max_speed" : 107
+      },
+      "tags" : [ "Human", "Holiday" ]
+    }, {
+      "description" : "Selfish attacker. Deals high damage to enemies and removes attack bonuses from all characters.",
+      "name" : "Yosemite Sam",
+      "rarity" : "Epic",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Bugs Bunny toon.",
+        "name" : "Bugs Bunny"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Outlaw toon is in the battlefield as an ally.",
+        "name" : "Outlaw"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 533,
+        "max_defense" : 522,
+        "max_health" : 1303,
+        "max_power" : 12105,
+        "max_speed" : 99
+      },
+      "tags" : [ "Human", "Outlaw", "Original" ]
+    }, {
+      "description" : "A powerful tank who's able to lifesteal while taunting and deal large amounts of damage to his enemies.",
+      "name" : "K'Chutha Sa'am",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Duck Dodgers.",
+        "name" : "Duck Dodgers"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Witch Lezah is in the battlefield as an ally.",
+        "name" : "Witch Lezah"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 483,
+        "max_defense" : 523,
+        "max_health" : 1096,
+        "max_power" : 10996,
+        "max_speed" : 91
+      },
+      "tags" : [ "Monster", "Mastermind" ]
+    } ],
+    "Sheepdog" : [ {
+      "description" : "Awesome defender. Protects his herd by slowly but decisively obliterating the enemies.",
+      "name" : "Sam Sheepdog",
+      "rarity" : "Epic",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Ralph The Wolf toon.",
+        "name" : "Ralph Wolf"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Ralph The Wolf toon is in the battlefield as an ally.",
+        "name" : "Ralph Wolf"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 475,
+        "max_defense" : 662,
+        "max_health" : 1923,
+        "max_power" : 13344,
+        "max_speed" : 73
+      },
+      "tags" : [ "Dog", "Professional", "Original" ]
+    } ],
+    "Sylvester" : [ {
+      "description" : "Turns out a cat in 0G is an excellent tank, able to dodge and steal his enemies positive effects!",
+      "name" : "Astronaut Sylvester",
+      "rarity" : "Common",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Astronaut Hector is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Astronaut Hector"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Space Explorer Granny is in the battlefield as an ally.",
+        "name" : "Space Explorer Granny"
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 284,
+        "max_defense" : 551,
+        "max_health" : 961,
+        "max_power" : 8905,
+        "max_speed" : 109
+      },
+      "tags" : [ "Cat", "Explorer" ]
+    }, {
+      "description" : "Evasive defender. Protects his team by drawing attention to himself and rolling away from danger.",
+      "name" : "Cowboy Sylvester",
+      "rarity" : "Rare",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Cowgirl Granny is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : ""
+      } ],
+      "role" : "Defender",
+      "stats" : {
+        "max_attack" : 331,
+        "max_defense" : 533,
+        "max_health" : 1266,
+        "max_power" : 10117,
+        "max_speed" : 114
+      },
+      "tags" : [ "Cat", "Wild West" ]
+    }, {
+      "description" : "This sneaky cat can easily become hidden and lash out large amounts of damages on his enemies.",
+      "name" : "Sylvester",
+      "rarity" : "Epic",
+      "region" : "City",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Hector toon.",
+        "name" : "Hector"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Granny toon is in the battlefield as an ally.",
+        "name" : "Granny"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 432,
+        "max_defense" : 491,
+        "max_health" : 1491,
+        "max_power" : 11593,
+        "max_speed" : 119
+      },
+      "tags" : [ "Cat", "Citizen", "Original" ]
+    }, {
+      "description" : "The Grand Duke is able to sniff out hidden enemies and attack them with righteous fury.",
+      "name" : "Grand Duke Sylvester",
+      "rarity" : "Epic",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking Scarlet Pumpernickel.",
+        "name" : "Scarlet Pumpernickel"
+      }, {
+        "description" : "This toon has +10% Attack, Defense and Speed while Chamberlain Porky is in the battlefield as an ally.",
+        "name" : "Chamberlain Porky"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 482,
+        "max_defense" : 641,
+        "max_health" : 1155,
+        "max_power" : 11881,
+        "max_speed" : 114
+      },
+      "tags" : [ "Cat", "Villain" ]
+    }, {
+      "description" : "Balanced utility cat. Slows down enemies, attacking them when the opportunity presents itself.",
+      "name" : "Photographer Sylvester",
+      "rarity" : "Common",
+      "region" : "Town",
+      "relationships" : [ {
+        "description" : "This toon has 50% more Attack when attacking any Hector toon.",
+        "name" : "Hector"
+      }, {
+        "description" : "At the start of the match, all Artist allies gain Attack Up for 3 turns.",
+        "name" : "Artist"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 323,
+        "max_defense" : 361,
+        "max_health" : 1045,
+        "max_power" : 8702,
+        "max_speed" : 109
+      },
+      "tags" : [ "Cat", "Artist" ]
+    }, {
+      "description" : "A special support character who truly shines when accompanied by coyotes.",
+      "name" : "Rocket Sylvester",
+      "rarity" : "Epic",
+      "region" : "WB Studios",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Wile E. Coyote toon is in the battlefield as an ally.",
+        "name" : "Wile E. Coyote"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 460,
+        "max_defense" : 583,
+        "max_health" : 1064,
+        "max_power" : 11286,
+        "max_speed" : 124
+      },
+      "tags" : [ "Cat", "Holiday" ]
+    }, {
+      "description" : "Debilitating expert. Defeats his enemies by greatly weakening them and doing health based damage.",
+      "name" : "Scarecrow Sylvester",
+      "rarity" : "Common",
+      "region" : "Farm",
+      "relationships" : [ {
+        "description" : "At the start of the match, if Farmer Hector is in the battlefield as an opponent, this toon gains 15% more Attack.",
+        "name" : "Farmer Hector"
+      }, {
+        "description" : "At the start of the match, all Farmer allies gain Attack Up for 3 turns.",
+        "name" : "Farmer"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 323,
+        "max_defense" : 339,
+        "max_health" : 855,
+        "max_power" : 8355,
+        "max_speed" : 129
+      },
+      "tags" : [ "Cat", "Farmer" ]
+    }, {
+      "description" : "Quick attacker. Has a swift double strike attack and a strong single strike.",
+      "name" : "Scout Sylvester",
+      "rarity" : "Common",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Fishercat Sylvester Jr. is in the battlefield as an ally.",
+        "name" : "Fishercat Sylvester Jr."
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 303,
+        "max_defense" : 351,
+        "max_health" : 877,
+        "max_power" : 8305,
+        "max_speed" : 134
+      },
+      "tags" : [ "Cat", "Scout" ]
+    }, {
+      "description" : "Critical supporter. Able to raise critical hits for all his team and hit taunting enemies.",
+      "name" : "Outlaw Sylvester",
+      "rarity" : "Rare",
+      "region" : "Desert",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while Outlaw Foghorn is in the battlefield as an ally.",
+        "name" : "Outlaw Foghorn"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 404,
+        "max_defense" : 383,
+        "max_health" : 978,
+        "max_power" : 9582,
+        "max_speed" : 119
+      },
+      "tags" : [ "Cat", "Outlaw" ]
+    } ],
+    "Sylvester-Junior" : [ {
+      "description" : "A cute little support able to heal and increase the damage of his team.",
+      "name" : "Fishercat Sylvester Jr",
+      "rarity" : "Rare",
+      "region" : "Forest",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while any Sylvester toon is in the battlefield as an ally.",
+        "name" : "Sylvester"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 344,
+        "max_defense" : 385,
+        "max_health" : 980,
+        "max_power" : 9077,
+        "max_speed" : 129
+      },
+      "tags" : [ "Cat", "Explorer" ]
+    } ],
+    "Witch" : [ {
+      "description" : "The wicked witch uses Damage Over Time to defeat those who attack her, dealing heavy damage.",
+      "name" : "Witch Hazel",
+      "rarity" : "Rare",
+      "region" : "Avalooney",
+      "relationships" : [ {
+        "description" : "At the start of the match, all Magic allies gain Attack Up for 3 turns.",
+        "name" : "Magic"
+      } ],
+      "role" : "Attacker",
+      "stats" : {
+        "max_attack" : 340,
+        "max_defense" : 494,
+        "max_health" : 1210,
+        "max_power" : 9705,
+        "max_speed" : 95
+      },
+      "tags" : [ "Human", "Magic", "Original" ]
+    }, {
+      "description" : "The witch supports her team by being hidden and stealing her enemies positive effects!",
+      "name" : "Witch Lezah",
+      "rarity" : "Common",
+      "region" : "Space",
+      "relationships" : [ {
+        "description" : "This toon has +10% Attack, Defense and Speed while K'Chutha Sa'am is in the battlefield as an ally.",
+        "name" : "K'Chutha Sa'am"
+      }, {
+        "description" : "At the start of the match, all Villain allies gain Attack Up for 3 turns.",
+        "name" : "Villain"
+      } ],
+      "role" : "Support",
+      "stats" : {
+        "max_attack" : 253,
+        "max_defense" : 432,
+        "max_health" : 1025,
+        "max_power" : 8048,
+        "max_speed" : 92
+      },
+      "tags" : [ "Human", "Villain" ]
+    } ]
+  }
+}
