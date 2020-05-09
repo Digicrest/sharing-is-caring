@@ -1,0 +1,687 @@
+[
+    {
+        "name": {
+            "en": "Kyle",
+            "jp": "カイル",
+            "full": "Kyle the Swordsman"
+        },
+        "description": "One of the Twelve Knights of the Ordana Empire, Kyle is a hot-blooded man who acts before thinking. His swordsmanship is masterful even among the ranks of the Imperial Knights, yet he remains without a partner due to his tendency to independently rush into fights (he doesn’t mind). A monster named Ray has been his companion since childhood.",
+        "unlock": "default",
+        "type": "Soldier",
+        "traits": [{
+            "name": "Hot Blooded",
+            "description": "Raise STR when a party member is dead."
+        }],
+        "abilities": [{
+            "name": "Blast Edge",
+            "type": "Skill",
+            "description": "Long-range, frontal attack."
+        }, {
+            "name": "Flash Stream",
+            "type": "Skill",
+            "description": "Frontal combo attack in a small area."
+        }, {
+            "name": "Final Braver",
+            "type": "Special",
+            "description": "Powerful frontal combo attack."
+        }],
+        "equippable": {
+            "weapons": ["Sword", "Axe", "Spear", "Staff"],
+            "armor": ["Mail", "Leather"]
+        },
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": -1,
+                "paralysis": 0,
+                "fear": 1
+            },
+    
+            "elemental": {
+                "fire": 10,
+                "frost": -30,
+                "grass": 20,
+                "thunder": 0,
+                "light": 0,
+                "dark": -5
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Rei",
+            "jp": "レイ"
+        },
+        "description": "A one-winged monster that shoots blue lightning. When he had lost his memories and was wandering as a child, he was helped by Kyle, and befriended him. People tend to avoid them due to their brash behavior and frightening power which is far greater than that of ordinary monsters. However, humans are often surprised to see them roaming the city without worry.",
+        "obtained": "default",
+        "passives": [ ],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Theria",
+            "jp": "ティリア"
+        },
+        "description": "An ordinary girl from a small village who's fate was changed when she was swept away aboard Blaze's airship. At first she seemed very reserved, but her gentle demeanor returned as she observed Kyle and Ray's friendly banter.",
+        "obtained": "Story Mode",
+        "passives": [{
+            "name": "Magic Cook",
+            "description": "When using abnormal status recovery magic, HP recovery effect is added."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },   
+    {
+        "name": {
+            "en": "lilibette",
+            "jp": "リルベット"
+        },
+        "description": "A member of the Blaze Organization, which works with the Empire to prevent the coexistence of humans and magical beasts. Due to her friendly demeanor, she can speak to even the moat intimidating of foes in a calm voice, though she is still in equal part terrifying in combat with her trusty bowgun.",
+        "obtained": "default",
+        "passives": [{
+            "name": "Sniper",
+            "description": "When making a long-distance physical attack, deal more damage the further you are from the enemy."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    }, 
+    {
+        "name": {
+            "en": "Zekus",
+            "jp": "ゼクス"
+        },
+        "description": "A prodigious sorcerer who quickly climbed the ranks of the Ardanhan forces to become a commander. Unrivaled in the empire, he is also sometimes referred to as \"Ice Warrior\" due to his affinity with ice spells. (He sees Kyle as his rival.)",
+        "obtained": "Story Mode",
+        "passives": [
+            {
+                "name": "Warrior of Ice",
+                "description": "Reduce the MP consumption of ice-elemental magic (min 1)."
+            }
+        ],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Sevia",
+            "jp": "セヴィア"
+        },
+        "description": "A female swordsman who protects the ancient ruins. There are many mysteries about her life, but many are detailed in the diary of a certain prince.",
+        "obtained": "Permanent Gacha",
+        "passives": [
+            {
+                "name": "Freezing Technique",
+                "description": "Ice-element attacks have increased chance for critical hit."
+            },
+            {
+                "name": "Proud Force",
+                "description": "Recover HP on critical hits."
+            }
+        ],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },  
+    {
+        "name": {
+            "en": "Princess Lilah",
+            "jp": "プリンセス リラ"
+        },
+        "description": "The first princess of the great \"Holy Rodal Kingdom\", which once boasted great glory. Adept at the arts of archery and healing, she participates actively in many fields.",
+        "obtained": "unknown",
+        "passives": [{
+            "name": "Light and Stars",
+            "description": "Increase critical hit rate against enemies who are weak to light."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },   
+    {
+        "name": {
+            "en": "Robin",
+            "jp": "ロビン"
+        },
+        "description": "A legendary master thief who stole treasures from around the world, yet gave them away to poor townsfolk in need. Beyond that, records are kept by a certain prince that he had been involved in investigating ancient ruins.",
+        "obtained": "Permanent Gacha",
+        "passives": [],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },  
+    {
+        "name": {
+            "en": "Prince Golm",
+            "jp": "ゴルム 王子"
+        },
+        "description": "A prince of a small country that established great prosperity in a single generation. They enjoyed wealth, but were not wasteful, and the kingdom was loved by its people. This land is said to have been targeted by the legendary thief Robin.",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "Feign Death",
+            "description": "If HP reaches 0, automatically recover at 1 HP at the start of the next wave."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },  
+    {
+        "name": {
+            "en": "Melza",
+            "jp": "メルザ"
+        },
+        "description": "The daughter of a noble and a knight her in country. Despite her introverted personality, she is popular with both the king and the people due to her kindness and strong sense of justice.",
+        "obtained": "Beginner Challenge",
+        "passive": [{
+            "name": "White Tiger",
+            "description": "When near death, DEF and INT rise sharply."
+        }, {
+            "name": "Glittering Blade of Light",
+            "description": "Light damage added to normal attacks."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },  
+    {
+        "name": {
+            "en": "Shin",
+            "jp": "シン"
+        },
+        "description": "A mysterious swordsman known as the \"Samurai\", who roamed Gran Zeria. He is passionate about self-discipline and fighting powerful opponents. It is said that he defeated a powerful god beast.",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "White Feather",
+            "description": "Nullify physical attacks with a low probability."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },  
+    {
+        "name": {
+            "en": "Leena",
+            "jp": "リーナ"
+        },
+        "description": "A shrine maiden who protected the World Tree, Yggdrasil. Originally, she was just a girl in the City of Migal Port who loved plants, until one day she disappeared.",
+        "obtained": "default",
+        "passives": [],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Blood Rose",
+            "jp": "ブラッド・ローズ"
+        },
+        "description": "An unknown monster that caused great fear to fall upon the Holy Lodaal Kingdom. Regardless of human or monster, he continued to take many lives. He has a strong sense of personal aesthetic and loathes those who go against it",
+        "obtained": "Permanent Gacha",
+        "passives": [],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Gravein",
+            "jp": "グラバイン "
+        },
+        "description": "",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "Aerial Maneuver",
+            "description": "Increased critical rate against enemies in the air."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Goroth",
+            "jp": "ゴロス"
+        },
+        "description": "",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "Nutrient Conversion",
+            "description": "Has a chance to recover HP when receiving magical damage."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Dora",
+            "jp": "ドーラ"
+        },
+        "description": "",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "Revenge",
+            "description": "When hit by a physical attack, chance to counterattack with a critical hit."
+        },{
+            "name": "Pirate's Battle Hymn",
+            "description": "When near death, SCT speed up."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    },
+    {
+        "name": {
+            "en": "Dyne",
+            "jp": "ダイン"
+        },
+        "description": "",
+        "obtained": "Permanent Gacha",
+        "passives": [{
+            "name": "Wise Flame of Age",
+            "description": "Reduce the cost of MP required for fire magic (cannot be reduced below 1)."
+        }],
+        "stats": {
+            "hp": 0,
+            "mp": 0,
+            "str": 0,
+            "def": 0,
+            "int": 0,
+            "mnd": 0
+        },
+        "resistances": {
+            "status": {
+                "posion": 0,
+                "sleep": 0,
+                "silence": 0,
+                "weak": 0,
+                "paralysis": 0,
+                "fear": 0
+            },
+
+            "elemental": {
+                "fire": 0,
+                "frost": 0,
+                "grass": 0,
+                "thunder": 0,
+                "light": 0,
+                "dark": 0
+            }
+        }
+    }
+]
+    
