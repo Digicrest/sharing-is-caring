@@ -1,0 +1,216 @@
+[
+  {
+    "front": {
+      "id": "SD9-01",
+      "name": "King Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can't include non-《Saiyan》 Battle Cards in your deck."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card from your life and add it to your hand : Look at up to 5 cards from the top of your deck, choose up to 1 red or green 《Saiyan》 card or {King Vegeta's Dynasty} among them and add it to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When you have {King Vegeta's Dynasty} in your Battle Area and 3 or more cards in your energy : You may draw 1 card, choose up to 1 of your energy and switch it to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "King Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {
+      "id": "SD9-01",
+      "name": "King Vegeta, Leader of the Saiyans",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・You may choose 1 red or green 《Saiyan》 card in your Battle Area and place it in its owner's Drop Area. If you do, draw 1 card, and this card gets +5000 power and <DOUBLE STRIKE> for the duration of the turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 Battle Card in your hand with an energy cost of 2 or less and play it with its skills negated for the duration of the turn, then draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "King Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD9-02",
+      "name": "Raditz, Earth Invader",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When {King Vegeta's Dynasty} in your Battle Area is placed in its owner's Drop Area, activate this skill. If {Raditz, Earth Invader} isn't in play in your Battle Area, you may play this card from your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Raditz",
+      "specialTrait": "Saiyan",
+      "era": "Saiyan Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD9-03",
+      "name": "Vegeta, Royal Prince",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : This card gets +5000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Saiyan Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD9-04",
+      "name": "Fated Kaio-Ken Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Red/Green"
+          ],
+          "description": "(Play this card from your hand when you have red and green cards in your Combo Area.)"
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 {Fated Kaio-Ken Son Goku} can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : If your life is at 3 or less and your Leader Card is a 《Saiyan》 card, this card gains <DOUBLE STRIKE> and <DUAL ATTACK> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Saiyan Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD9-05",
+      "name": "King Vegeta's Dynasty",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD9-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~SAIYAN LEGACY~ [DBS-SD09]"
+      ],
+      "type": "EXTRA",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": "(Place and activate this card in your Battle Area. It remains in your Battle Area until you activate another <FIELD> . When you do, place this card in its owner's Drop Area.)"
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is placed in your Battle Area and your Leader Card is a 〈King Vegeta〉 card, choose up to 1 《Saiyan》 card with an energy cost of 2 or less in your hand, and play it with its skills negated for the duration of the turn. If you played a card, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your opponent attacks with a card, you may choose 1 red card in your Energy Area, switch it to Rest Mode, and place this card in its owner's Drop Area. If you do, negate the attack."
+        }
+      ]
+    },
+    "back": {}
+  }
+]

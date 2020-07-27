@@ -1,0 +1,3263 @@
+[
+  {
+    "front": {
+      "id": "DB1-001",
+      "name": "Son Goku, Might of Many",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-001.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gets +3000 power for each skill-less Battle Card in your Drop Area."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 2 or more skill-less Battle Cards in your Drop Area, reduce the energy cost of this card in your hand by 2."
+        }
+      ],
+      "power": "16000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan",
+      "era": "Black Star Dragon Ball Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-002",
+      "name": "SS Vegeta, Exploiting Weakness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-002.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is red, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your opponent's Battle Cards and they get -20000 power for the duration of the turn, and if it's your opponent's turn, choose up to 1 of your Leader Cards and it gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "19000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-003",
+      "name": "Trunks, Deluge of Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-003.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Battle Card in battle is red : When you combo with this card, it gets +5000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Trunks: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Black Star Dragon Ball Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-004",
+      "name": "Giru",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-004.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Giru",
+      "specialTrait": "Machine Mutant",
+      "era": "Black Star Dragon Ball Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-005",
+      "name": "Majin Buu, the Reincarnator",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-005.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 red Battle Card with an energy cost of 3 or less in your Drop Area and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-006",
+      "name": "Champa, Destruction Perfected",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-006.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are any red 《God》 or 《Alien》 cards in play in your Battle Area other than this card, this card gets +6000 power and gains <DOUBLE STRIKE> and <CRITICAL> ."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> and it gets -20000 power for the duration of the turn."
+        }
+      ],
+      "power": "19000",
+      "character": "Champa",
+      "specialTrait": "God",
+      "era": "Champa Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-007",
+      "name": "Champa, Destruction Augmented",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-007.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": " <ONE> , choose 2 cards in your hand and place them in your Drop Area : Choose all 《God》 and 《Alien》 cards in your Battle Area, and they get +10000 power and <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "19000",
+      "character": "Champa",
+      "specialTrait": "God",
+      "era": "Champa Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-008",
+      "name": "Vados, Assembled Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-008.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Your opponent has 4 or more energy : When this card attacks, look at up to 10 cards from the top of your deck, choose up to 1 red 《God》 or red 《Alien》 card with power 19000 or less among them and play it, shuffle your deck, then at the start of your opponent's next Main Phase choose up to 1 of your red energy and switch it to Active Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Vados",
+      "specialTrait": "God",
+      "era": "Champa Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-009",
+      "name": "Cabba, Surging Forward",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-009.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": "(Once per turn, when this card attacks, switch this card to Active Mode after the battle.)"
+        }
+      ],
+      "power": "19000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien",
+      "era": "Champa Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-010",
+      "name": "Caulifla, Frenzied Sister",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-010.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Send this card from your Drop Area to your Warp : Choose up to 1 red 《Universe 6》 card in your Battle Area and it gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-011",
+      "name": "Kale, Frenzied Sister",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-011.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, switch this card to Active Mode and it gets +5000 power until the end of your opponent's next turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-012",
+      "name": "Kefla, Roar of Destruction",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-012.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": " |TWO| , if you have 4 or more energy and you choose 2 《Alien》 cards in your Battle Area other than {Kefla, Roar of Destruction} : Return the chosen cards to their owners' hands, then play this card from your hand, and you can't play Battle Cards for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards, and it gets -20000 power for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Kefla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-013",
+      "name": "Botamo and Magetta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-013.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Botamo/Magetta",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-014",
+      "name": "Toppo, Righteous Aid",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-014.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Choose 1 other card in your hand and place it in your Drop Area, then negate the attack and play this card. ( <COUNTER> is activated from your hand by paying the card's energy cost.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If it's your opponent's turn, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If it's your opponent's turn : When you play this card, for the duration of the turn, your opponent can't attack unless they choose 2 cards from their hand and place them in their Drop Area each time."
+        }
+      ],
+      "power": "20000",
+      "character": "Toppo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-015",
+      "name": "Jiren, Shackles of the Past",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-015.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 {Jiren, Shackles of the Past} can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When there are 10 or more Battle Cards in your Drop Area with 10000 power : At the start of your Main Phase, for the duration of the turn, this card gets +25000 power, <DOUBLE STRIKE> , and <DUAL ATTACK> , and your opponent can't activate <COUNTER> skills unless they place 2 cards from their hand in their Drop Area as an additional cost."
+        }
+      ],
+      "power": "5000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-016",
+      "name": "Moginan, the Savage Strongman",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-016.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": "Choose up to 1 〈Moginan Underling〉 card from your deck, play it, then shuffle your deck."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you have 3 or more 〈Moginan Underling〉 cards in play in your Battle Area : At the end of your turn, choose 1 card in your life and add it to your hand."
+        }
+      ],
+      "power": "19000",
+      "character": "Moginan",
+      "specialTrait": "Alien",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-017",
+      "name": "Moginan, Alien Bonds",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-017.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn",
+            "Bond 2"
+          ],
+          "description": "《Alien》 (This skill takes effect when you have 2 or more of the specified Battle Cards in play.) : Choose up to 1 of your red 《Alien》 cards in battle, and it gets +10000 power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Moginan",
+      "specialTrait": "Alien",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-018",
+      "name": "Moginan Underling, Relentless Horde",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-018.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can include as many copies of this card in your deck as you like."
+        },
+        {
+          "modifiers": [
+            "Permanent",
+            "Bond 2"
+          ],
+          "description": "《Alien》 (This skill takes effect when you have 2 or more of the specified Battle Cards in play.) : This card gets +5000 power."
+        }
+      ],
+      "power": "10000",
+      "character": "Moginan Underling",
+      "specialTrait": "Alien",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-019",
+      "name": "Niagara Drop",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-019.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "If your Leader Card is a red 《Saiyan》 card : Choose 1 of your Leader Cards or Battle Cards, and for the duration of the turn, that card gets +5000 power, then if your life is at 3 or less and it's your opponent's turn, choose up to 1 of your red energy, switch it to Active Mode, and draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-020",
+      "name": "Galick Cannon",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-020.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "When the Battle Card is played, choose up to 1 of those Battle Cards and it gets -15000 power for the duration of the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-021",
+      "name": "Ultra Instinct Son Goku, the Unstoppable",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-021.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card's skills can't be negated in any area by your opponent's skills."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> , return it to its owner's hand, and if it's your opponent's turn, draw 1 card."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-022",
+      "name": "SS Son Goku, the Ever-Adapting",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-022.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |THREE| : 〈Son Goku〉"
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, draw 2 cards, then, at the start of your opponent's next Main Phase, choose up to 1 of your energy and switch it to Active Mode."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-023",
+      "name": "Son Gohan, Universe 7 United",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-023.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 blue Battle Card with an energy cost of 3 or more in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-024",
+      "name": "SSB Vegeta, Universe 7 United",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-024.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the start of your opponent's Main Phase, choose up to 1 of your energy and switch it to Active Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-025",
+      "name": "Krillin, Universe 7 United",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-025.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and place it in its owner's energy in Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Krillin",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-026",
+      "name": "Tien Shinhan, Universe 7 United ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-026.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "(You must place the top 3 cards of your deck in your Drop Area to activate this skill.) :  When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and return it to its owner's hand."
+        }
+      ],
+      "power": "10000",
+      "character": "Tien Shinhan",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-027",
+      "name": "Master Roshi, Universe 7 United ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-027.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card. ( <COUNTER> is activated from your hand by paying the card's energy cost.)"
+        }
+      ],
+      "power": "5000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-028",
+      "name": "Android 17, Universe 7 United ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-028.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        }
+      ],
+      "power": "15000",
+      "character": "Android 17",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-029",
+      "name": "Android 18, Universe 7 United",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-029.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": " |TWO| : Draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Android 18",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-030",
+      "name": "Majin Buu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-030.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-031",
+      "name": "Frieza, Universe 7 United",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-031.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |TWO| : Play this card from your Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-032",
+      "name": "Whis, Keeper of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-032.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 {Whis, Keeper of Universe 7} can be played in your Battle Area, and if you have 2 or more multi-colored cards in your energy, reduce this card's cost in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your opponent's card attacks a Leader Card, you may negate the attack. If you do, negate this skill for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Whis",
+      "specialTrait": "God",
+      "era": "Resurrection 'F' Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-033",
+      "name": "Grand Kai, the Lazy Instructor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-033.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <FIVE> , send this card from your Drop Area to your Warp : Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Grand Kai",
+      "specialTrait": "God",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-034",
+      "name": "North Kai, Protector of Earth",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-034.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , place this card in its owner's Drop Area : Choose up to 1 blue 〈Son Goku〉 card with an energy cost of 3 or less and 15000 power or less in your Drop Area and play it."
+        }
+      ],
+      "power": "4000",
+      "character": "North Kai",
+      "specialTrait": "God",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-035",
+      "name": "Bubbles",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-035.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Bubbles",
+      "specialTrait": "God",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-036",
+      "name": "Shu, Deluge of Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-036.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Battle Card in battle is blue : When you combo with this card, it gets +5000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Shu",
+      "specialTrait": "Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-037",
+      "name": "Mai, the Graceful Tactician",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-037.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and place it at the bottom of its owner's deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Mai: Youth",
+      "specialTrait": "Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-038",
+      "name": "Janemba, Infernal Intruder",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-038.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if you have 3 or more energy : If you have no Battle Cards in play, play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , place this card at the bottom of its owner's deck : Choose up to 1 《Evil Incarnate》 card in your hand with an energy cost of 5 and play it."
+        }
+      ],
+      "power": "20000",
+      "character": "Janemba",
+      "specialTrait": "Evil Incarnate",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-039",
+      "name": "Kamehameha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-039.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and place it at the bottom of its owner's deck."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-040",
+      "name": "Desperate Measures",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-040.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If the Battle Card your opponent is playing has an energy cost of 2 or less, it is returned to its owner's hand instead of being played, then choose up to 1 of your blue Battle Cards with an energy cost of 3 or less and return it to its owner's hand."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-041",
+      "name": "Swift Combo Kaio-Ken Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-041.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are less than 2 Battle Cards in your Battle Area with an original power of 10000, this card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If there are 2 or more Battle Cards in your Battle Area with an original power of 10000 : Choose 1 card in your life and add it to your hand, and this card gets +5000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-042",
+      "name": "Son Goten, Deluge of Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-042.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Battle Card in battle is green : When you combo with this card, it gets +5000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goten",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-043",
+      "name": "King Vegeta, Saiyan Ruler",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-043.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is green : When you play this card, choose up to 2 Battle Cards in your Drop Area with an energy cost of 2 or less and 10000 power, negate their skills, play them, and they get +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 of your Battle Cards and place it in your Drop Area : This card gains <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "19000",
+      "character": "King Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-044",
+      "name": "Trunks, the Prankster",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-044.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Place the top 3 cards of your deck in your Drop Area, then choose up to 1 Battle Card with an energy cost of 1 and 10000 power in your Drop Area and play it."
+        }
+      ],
+      "power": "10000",
+      "character": "Trunks : Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-045",
+      "name": "Dr. Brief, Father of a Genius",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-045.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": " |TWO| : choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "10000",
+      "character": "Dr. Brief",
+      "specialTrait": "Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-046",
+      "name": "Bulma's Mom, Mother of a Genius",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-046.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 5 cards from the top of your deck, choose up to 1 Battle Card with an energy cost of 1 among them, add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma's Mom",
+      "specialTrait": "Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-047",
+      "name": "Bulma, Genius Inventor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-047.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, look at up to 3 cards from the top of your deck, choose up to 1 Extra Card with an energy cost of 1 among them, add it to your hand, then place the remaining cards at the bottom of your deck in any order."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma",
+      "specialTrait": "Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-048",
+      "name": "Piccolo, Assimilated Ability",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-048.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn",
+            "Bond 2"
+          ],
+          "description": ": Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it. If you KO'd a card, draw 1 card."
+        }
+      ],
+      "power": "20000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-049",
+      "name": "Krillin, Steadfast Defender",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-049.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Permanent",
+            "Sparking 10"
+          ],
+          "description": "(This skill takes effect when you have 10 or more cards in your Drop Area.) Reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 2 cards, then choose 1 card from your hand and place it in your Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-050",
+      "name": "Beerus, the Bad-Tempered",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-050.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's Battle Cards, ignoring <BARRIER> , and KO it."
+        }
+      ],
+      "power": "30000",
+      "character": "Beerus",
+      "specialTrait": "God",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-051",
+      "name": "Whis",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-051.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Whis",
+      "specialTrait": "God",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-052",
+      "name": "Broly, Free at Last",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-052.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Place this card in its owner's Drop Area : At the end of a battle after this card attacked, you may choose 1 green Battle Card with 〈Broly〉 in its character name and an energy cost of 6 in your Drop Area and play it. If you played a card, you can't play Battle Cards for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Broly",
+      "specialTrait": "Saiyan",
+      "era": "Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-053",
+      "name": "Lemo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-053.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Lemo : Br",
+      "specialTrait": "Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-054",
+      "name": "Dr. Myuu, Weapon Surplus",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-054.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": ": When you play this card, choose up to 1 green 《Android》 card with an energy cost of 3 or more, or 1 green Extra Card with an energy cost of 2 or less in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Dr. Myuu",
+      "specialTrait": "Scientist",
+      "era": "Super 17 Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-055",
+      "name": "Super 17, Power Distilled",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-055.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 10 or more non-black cards in your Drop Area, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card in your Drop Area and send it to your Warp : When this card attacks, choose up to 1 green Extra Card in your Drop Area and add it to your hand, then your opponent chooses 1 card in their hand and sends it to their Warp."
+        }
+      ],
+      "power": "19000",
+      "character": "Super 17",
+      "specialTrait": "Android/Machine Mutant",
+      "era": "Super 17 Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-056",
+      "name": "SS Rose Goku Black, a Delicate Plan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-056.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": " |TWO| : Play this card from your hand, then choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <THREE> : Choose up to 1 green 〈Zamasu〉 card in your hand with an energy cost of 5 or more and play it, then, at the start of your opponent's next Main Phase, choose up to 1 of your green energy and switch it to Active Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Goku Black",
+      "specialTrait": "Saiyan/God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-057",
+      "name": "Fused Zamasu, Deity's Wrath",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-057.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Indestructible"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONE> , if you have 3 or more energy, choose green Battle Cards in your Battle Area with 5000 power or more and a total energy cost of 5 and place them in your Drop Area : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, your opponent chooses 1 card from their hand and places it in their Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-058",
+      "name": "Zamasu, the Undying",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-058.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Indestructible"
+          ],
+          "description": "(This card cannot be KO'd by your opponent's card's skills or battle and does not leave the Battle Area.)"
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": " <ONE> : Play this card from your hand, then choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-059",
+      "name": "Slumber Strike",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-059.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If Your Leader Card is green : Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 Battle Card with an energy cost greater than or equal to your opponent's energy and KO it."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-060",
+      "name": "M2, the Phantasmagoric Planet",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-060.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": "(Place and activate this card in your Battle Area. It remains in your Battle Area until you activate another <FIELD> . When you do, place this card in its owner's Drop Area.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is placed in a Battle Area, play 1 Machine Mutant Token. (Machine Mutant Tokens have 10000 power, 0 combo cost, and 5000 combo power.)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area from your Battle Area : Choose 1 of your opponent's Battle Cards with an energy cost of 1 and KO it. If you KO'd a card, draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-061",
+      "name": "Great Ape Bardock, Raider's Warcry",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-061.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is yellow : At the end of a battle in which you combo with this card from your hand, play this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Great Ape/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-062",
+      "name": "Gine, the Kind Saiyan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-062.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 3"
+          ],
+          "description": "(This skill takes effect when you have 3 or more cards in your Drop Area.) : When you play this card, choose up to 1 yellow Battle Card with an energy cost of 2 or less in your hand and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Gine",
+      "specialTrait": "Saiyan",
+      "era": "Dragon Ball Minus Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-063",
+      "name": "Son Goku, Saiyan Reborn",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-063.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card from your hand and place it in your Drop Area : When you play or combo with this card, choose up to 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 3 or less and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-064",
+      "name": "Great Ape Son Goku, Saiyan Instincts",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-064.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |TWO| , send this card from your Drop Area to your Warp : Draw 2 cards."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku: Childhood",
+      "specialTrait": "Saiyan/Great Ape",
+      "era": "World Martial Arts Tournament Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-065",
+      "name": "Pan, Natural Fighter",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-065.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, choose up to 1 of your skill-less Battle Cards, then choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ The chosen card gains <BLOCKER> for the duration of the turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・ If the chosen card has 10000 or less power, it gets +5000 power and <CRITICAL> for the duration of the turn."
+        },
+        {
+          "modifiers": [],
+          "description": ""
+        }
+      ],
+      "power": "1000",
+      "character": "Pan",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Resurrection 'F' Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-066",
+      "name": "King Vegeta, the Majestic Ruler",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-066.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Negate the skills of all other Battle Cards."
+        }
+      ],
+      "power": "25000",
+      "character": "King Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-067",
+      "name": "Vegeta, the King's Son",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-067.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "(You must place the top 3 cards of your deck in your Drop Area to activate this skill.) :  When you play this card, choose up to 2 of your opponent's Battle Cards, switch them to Rest Mode, then choose up to 1 of your opponent's Battle Cards in Rest Mode and it can't be switched to Active Mode during your opponent's next Charge Phase."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta: Youth",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-068",
+      "name": "Tights, Sister of a Genius",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-068.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have a skill-less Battle Card in play : When you play this card, draw 1 card, then choose up to 1 of your skill-less Battle Cards and it gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "1000",
+      "character": "Tights",
+      "specialTrait": "Earthling",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-069",
+      "name": "Chiaotzu, Gallant Pupil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-069.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Revenge"
+          ],
+          "description": "(When this card is attacked, KO the attacking Battle Card at the end of battle.)"
+        }
+      ],
+      "power": "19000",
+      "character": "Chiaotzu",
+      "specialTrait": "Earthling",
+      "era": "World Martial Arts Tournament Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-070",
+      "name": "Oracle Fish",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-070.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Oracle Fish",
+      "specialTrait": "God",
+      "era": "Battle of Gods Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-071",
+      "name": "Tora",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-071.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Tora",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-072",
+      "name": "Fasha, Deluge of Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-072.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Battle Card in battle is yellow : When you combo with this card, it gets +5000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Fasha",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-073",
+      "name": "Shugesh, Raider's Warcry",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-073.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 3 or less, and it can't be switched to Active Mode during your opponent's next Charge Phase."
+        }
+      ],
+      "power": "15000",
+      "character": "Shugesh",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-074",
+      "name": "Borgos, Raider's Warcry",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-074.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck, choose up to 1 《Bardock's Crew》 card among them, add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Borgos",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-075",
+      "name": "Chilled, the Cruel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-075.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have 5 or more energy and {Chilled, the Cruel} isn't in play in your Battle Area : When one of your opponent's Battle Cards is switched to Rest Mode by a skill, activate this skill. You may play this card from your hand."
+        }
+      ],
+      "power": "25000",
+      "character": "Chilled",
+      "specialTrait": "Frieza Clan/Chilled's Army",
+      "era": "Chilled Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-076",
+      "name": "Frieza, Cry of the Sovereign",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-076.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": ": When you combo with this card, if it is your opponent's turn, choose up to 1 of your opponent's Battle Cards and negate its skills for the duration of the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-077",
+      "name": "Ginyu, Ultimate Transformation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-077.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Your opponent reveals the top card of their deck, then shuffles their deck. If the revealed card was a Battle Card, this card gains <DOUBLE STRIKE> and <DUAL ATTACK> for the duration of the turn. Otherwise, this card gets -15000 power for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-078",
+      "name": "Mercenary Tao, the Master",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-078.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": " <ONE> : This card gets +10000 power and <DUAL ATTACK> for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Mercenary Tao",
+      "specialTrait": "Earthling",
+      "era": "World Martial Arts Tournament Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-079",
+      "name": "Final Spirit Cannon",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-079.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your opponent's cards and switch it to Rest Mode."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 4 or less and KO it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-080",
+      "name": "Paternal Bonds",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-080.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, and you may choose 1 of your cards and switch it to Rest Mode. If you do, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-081",
+      "name": "Son Goku, Striking True",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-081.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 2 skill-less Battle Cards in your Drop Area and send them to your Warp : When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku: Childhood",
+      "specialTrait": "Saiyan",
+      "era": "Curse of the Blood Rubies Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-082",
+      "name": "Trunks, Dimension Sniper",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-082.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": "(If you have at least 3 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and send it to its owner's Warp."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-083",
+      "name": "Dende, Cry of the Soul",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-083.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose up to 1 of your skill-less Battle Cards with an energy cost of 1, and it gets +10000 power for the duration of the turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Dende",
+      "specialTrait": "Namekian/God",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-084",
+      "name": "Mira, Assault from the Skies",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-084.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Over Realm 7"
+          ],
+          "description": " |ONE| "
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then at the start of your opponent's next Main Phase, choose 1 of your energy and switch it to Active Mode."
+        }
+      ],
+      "power": "30000",
+      "character": "Mira",
+      "specialTrait": "Android",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-085",
+      "name": "Fu, Mission Accomplished",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-085.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |TWO| , remove this card in your Drop Area from the game : Choose up to 1 black Battle Card in your Drop Area or Warp with an energy cost of 7 or less and add it to your hand."
+        }
+      ],
+      "power": "10000",
+      "character": "Fu",
+      "specialTrait": "Scientist",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-086",
+      "name": "Remote Serious Bomb",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-086.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Your opponent chooses 1 of their Battle Cards and sends it to its owner's Warp."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-087",
+      "name": "Burning Slash",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-087.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card's skills can't be negated in any area."
+        },
+        {
+          "modifiers": [],
+          "description": ""
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-088",
+      "name": "Champa and Beerus, Capricious Gods",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-088.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Red/Green"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with 20000 power or less and KO it, then choose up to 1 of your other Battle Cards with an energy cost of 6 or less, and it gains <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Champa/Beerus",
+      "specialTrait": "God",
+      "era": "Champa Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-089",
+      "name": "Son Goku and Vegeta, Saiyan Bonds",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-089.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Blue/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and negate its skills for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku : Br/Vegeta : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-090",
+      "name": "King Vegeta and Vegeta, Royal Bloodline",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-090.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Red/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 3 or less and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "King Vegeta/Vegeta : Youth",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-091",
+      "name": "Son Goku and Son Gohan, Saiyans of Earth",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-091.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Blue/Green"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less, place it in its owner's energy in Rest Mode, then your opponent chooses 1 card in their hand and places it in their Drop Area."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku/Son Gohan : Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Saiyan Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-092",
+      "name": "Hercule and Majin Buu, Friends Forever",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-092.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Red/Blue"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the duration of the turn, then at the end of the turn, choose up to 1 of your red or blue Battle Cards other than {Hercule and Majin Buu, Friends Forever} and return it to its owner's hand."
+        }
+      ],
+      "power": "19000",
+      "character": "Hercule/Majin Buu",
+      "specialTrait": "Earthling/Majin",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-093",
+      "name": "Krillin and Android 18, Power Couple",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-093.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Green/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Your opponent chooses 1 card in their hand and places it in their Drop Area."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose a keyword skill on one of your opponent's Battle Cards in Rest Mode and negate it for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Krillin/Android 18",
+      "specialTrait": "Earthling/Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-094",
+      "name": "Vegeta, Saiyan Tag Team",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-094.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": " <ONE> , choose 1 of your 《Universe 7》 or 《Universe 6》 Battle Cards being attacked : It gets +6000 power until the end of your next turn, then play this card from your hand, and you can't play {Vegeta, Saiyan Tag Team} for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-095",
+      "name": "Cabba, Saiyan Tag Team",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-095.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, switch this card to Active Mode."
+        }
+      ],
+      "power": "19000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-096",
+      "name": "Uneasy Alliance Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-096.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 Battle Card other than {Uneasy Alliance Son Goku} with an energy cost of 3 or less and return it to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-097",
+      "name": "Uneasy Alliance Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-097.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is returned to its owner's hand from the Battle Area, choose up to 1 of your opponent's Battle Cards and return it to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-098",
+      "name": "Son Gohan, Master and Pupil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-098.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", send this card from your hand to your Warp : At the end of your opponent's next turn, play the card you sent to your Warp with this skill from your Warp."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 cards in your life and add them to your hand."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Gohan: Childhood",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-099",
+      "name": "Piccolo, Master and Pupil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-099.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": ": When this card attacks, look at up to 5 cards from the top of your deck, choose up to 1 Battle Card with a combo power of 10000 among them, add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian/God",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-100",
+      "name": "Bardock, Father and Son",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-100.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is yellow, your opponent has 3 or more energy, and {Bardock, Father and Son} isn't in play in your Battle Area : Choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode. If you switched a card to Rest Mode, play this card from your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-101",
+      "name": "Son Goku, Father and Son",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-101.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your opponent has 3 or more energy and {Son Goku, Father and Son} isn't in play in your Battle Area : When an opponent's Battle Card is switched to Rest Mode by a skill, activate this skill. You may play this card from your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-102",
+      "name": "SS3 Tag Team Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-102.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 {SS3 Tag Team Son Gohan} can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a black Battle Card is removed from your Battle Area by a skill, activate this skill. You may play this card from your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB1-103",
+      "name": "SS3 Tag Team Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB1-103.png",
+      "rarity": "Duo Power Rare[DPR]",
+      "series": [
+        "DRAFT BOX 04",
+        "-DRAGON BRAWL-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , it gains <CRITICAL> for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose 1 card in your hand and send it to your Warp : This card gains <DOUBLE STRIKE> for the duration of the battle."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  }
+]

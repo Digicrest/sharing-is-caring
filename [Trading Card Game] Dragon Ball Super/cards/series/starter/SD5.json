@@ -1,0 +1,202 @@
+[
+  {
+    "front": {
+      "id": "SD5-01",
+      "name": "Golden Great Ape Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan/Goku's Lineage",
+      "era": "Baby Saga"
+    },
+    "back": {
+      "id": "SD5-01",
+      "name": "Long Odds SS4 Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When your life is less than or equal to your opponent's life, this card gains +5000 power and <CRITICAL> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) during your turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan/Goku's Lineage",
+      "era": "Baby Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD5-02",
+      "name": "Power Charge Bardock",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, you may draw 1 card. If you did not draw a card with this skill, this card gains <DOUBLE STRIKE> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Goku's Lineage",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD5-03",
+      "name": "SSB Son Goku, at the Apex",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Swap 8"
+          ],
+          "description": ": ≪Goku's Lineage≫ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)"
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is ≪Goku's Lineage≫, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Goku's Lineage",
+      "era": "Resurrection 'F' Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD5-04",
+      "name": "Reborn Might SS4 Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Swap 8"
+          ],
+          "description": ": ＜＜Goku's Lineage＞＞ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Choose 1 card from your life and add it to your hand: Switch this card to Active Mode, and if you have 2 or less life, this card gains <TRIPLE STRIKE> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan/Goku's Lineage",
+      "era": "Baby Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD5-05",
+      "name": "Ultimate Potential SS2 Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD5-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE CRIMSON SAIYAN～【DBS-SD05】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Swap 4"
+          ],
+          "description": ": ＜＜Goku's Lineage＞＞ with an energy cost of 4. (Play the specified card from your hand, then return this card to your hand)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Rest Mode Battle Cards and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Childhood",
+      "specialTrait": "Saiyan/Earthling/Goku's Lineage",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "front": {
+      "id": "TB3-001",
+      "name": "Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-001.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card from your life and add it to your hand : Look at up to 2 cards from the top of your deck, choose up to 1 red 《Frieza's Army》 card from among them and add it to your hand, then place the rest at the bottom of your deck in any order."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 1 card, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "TB3-001",
+      "name": "Frieza, Metamorphic Threat",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-001_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 red 《Frieza's Army》 card in your Battle Area and KO it, then choose 1 card in your hand and place it in your Drop Area : This card gets +5000 power until the end of your opponent's next turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB3-002",
+      "name": "Final Showdown Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-002.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent declares to play a Battle Card or activates a skill that puts Battle Cards into play, if your Leader Card is a red 《Frieza's Army》 card, you may choose 1 card from your life and place it in your Drop Area. If you do, the Battle Card is played with its skills negated for the duration of the turn. This skill can be activated at Counter Timing."
+        }
+      ],
+      "power": "25000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-002_SPR",
+      "name": "Final Showdown Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-002_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent declares to play a Battle Card or activates a skill that puts Battle Cards into play, if your Leader Card is a red 《Frieza's Army》 card, you may choose 1 card from your life and place it in your Drop Area. If you do, the Battle Card is played with its skills negated for the duration of the turn. This skill can be activated at Counter Timing."
+        }
+      ],
+      "power": "25000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-003",
+      "name": "Frieza, Storm of Blows",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-003.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Swap 5"
+          ],
+          "description": ": Red 〈Frieza〉 card with an energy cost of 5."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with 20000 power or less and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-004",
+      "name": "Evolutionary Process Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-004.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Swap 3"
+          ],
+          "description": ": Red 〈Frieza〉 card with an energy cost of 3. (Play the specified card from your hand, then return this card to your hand.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, this card gets -5000 power."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-005",
+      "name": "Frieza, Overture to Battle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-005.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Swap 2"
+          ],
+          "description": "Red 〈Frieza〉 card with an energy cost of 2. (Play the specified card from your hand, then return this card to your hand.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose up to 1 of your red Leader Cards or red Battle Cards other than this card, and it gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-006",
+      "name": "Body Change Ginyu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-006.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all 《Ginyu Force》 cards in your Battle Area, and they get +10000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Play this card in your opponent's Battle Area from its owner's Drop Area with its skills negated, then choose up to 1 of your opponent's Battle Cards with 20000 power or less other than {Body Change Ginyu}, gain control of it, and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-006_SPR",
+      "name": "Body Change Ginyu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-006_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all 《Ginyu Force》 cards in your Battle Area, and they get +10000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Play this card in your opponent's Battle Area from its owner's Drop Area with its skills negated, then choose up to 1 of your opponent's Battle Cards with 20000 power or less other than {Body Change Ginyu}, gain control of it, and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-007",
+      "name": "Strikeforce Recoome",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-007.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if all of your Battle Cards are red and no other color, look at up to the top 5 cards of your deck, choose up to 1 red 《Ginyu Force》 card with an energy cost of 2 other than {Strikeforce Recoome} and play it. Then place the rest at the bottom of your deck in any order."
+        }
+      ],
+      "power": "10000",
+      "character": "Recoome",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-008",
+      "name": "Strikeforce Burter",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-008.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if all of your Battle Cards are red and no other color, look at up to the top 5 cards of your deck, choose up to 1 red 《Ginyu Force》 card with an energy cost of 2 other than {Strikeforce Burter} and play it. Then place the rest at the bottom of your deck in any order."
+        }
+      ],
+      "power": "10000",
+      "character": "Burter",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-009",
+      "name": "Strikeforce Jeice",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-009.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is a red 《Frieza's Army》 card and your life is at 5 or less, draw 1 card, and this card gets +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Jeice",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-010",
+      "name": "Strikeforce Guldo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-010.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if all of your Battle Cards are red and no other color, look at up to the top 5 cards of your deck, choose up to 1 red 《Ginyu Force》 card with an energy cost of 2 other than {Strikeforce Guldo} and play it. Then place the rest at the bottom of your deck in any order."
+        }
+      ],
+      "power": "10000",
+      "character": "Guldo",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-011",
+      "name": "Dodoria, the Expendable",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-011.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, choose up to 1 red 〈Frieza〉 card with an energy cost of 2 or less from your hand and play it."
+        }
+      ],
+      "power": "10000",
+      "character": "Dodoria",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-012",
+      "name": "Super Zarbon",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-012.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Zarbon",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-013",
+      "name": "Zarbon, Hidden Potential",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-013.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, draw 1 card, then choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Zarbon",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-014",
+      "name": "Strategic Mind Kikono",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-014.png",
+      "rarity": "Feature Rare[FR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Leader Cards, and it gets -5000 power for the duration of the turn, and you can't play {Strategic Mind Kikono} for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Kikono : Br",
+      "specialTrait": "Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-015",
+      "name": "Recoome Ultra Fighting Bomber",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-015.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If a 〈Recoome〉 card is in play in your Battle Area : Choose up to 1 of your opponent's Battle Cards with 15000 power or less ignoring <BARRIER> and KO it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-016",
+      "name": "Frieza's Spaceship",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-016.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": "(Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <FIELD> card. When you do, place this card in the Drop Area.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, choose up to 1 red 《Frieza's Army》 card with an energy cost of 2 from your hand and play it. If you played a card with this skill, draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-017",
+      "name": "Paralysis Technique",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-017.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, and if your Leader Card is a red 《Frieza's Army》 card, choose your opponent's Leader Card and all of their Battle Cards, and they get -5000 power for the duration of the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-018",
+      "name": "Bardock",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-018.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 2"
+          ],
+          "description": "(You must place the top 2 cards of your deck in your Drop Area to activate this skill.) When this card attacks a Leader Card, draw 1 card, and this card gets +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {
+      "id": "TB3-018",
+      "name": "Bardock, Hope of the Saiyans",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-018_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 5"
+          ],
+          "description": "(This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and this card gets +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is attacked, if a 《Bardock's Crew》 card is in your Drop Area, you may choose 1 card from your life and place it in your Drop Area. If you do, negate the attack."
+        }
+      ],
+      "power": "15000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB3-019",
+      "name": "Final Strike Bardock",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-019.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "There can only be up to 1 {Final Strike Bardock} in play in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is switched from Rest Mode to Active Mode, if your Leader Card is a 《Bardock's Crew》 card, your opponent chooses 1 card in their hand and places it at the bottom of their deck."
+        }
+      ],
+      "power": "25000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-019_SPR",
+      "name": "Final Strike Bardock",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-019_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "There can only be up to 1 {Final Strike Bardock} in play in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is switched from Rest Mode to Active Mode, if your Leader Card is a 《Bardock's Crew》 card, your opponent chooses 1 card in their hand and places it at the bottom of their deck."
+        }
+      ],
+      "power": "25000",
+      "character": "Bardock",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-020",
+      "name": "Gine, Mother of Hope",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-020.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if one of your blue 〈Bardock〉 cards is being attacked, this card gets +5000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "1000",
+      "character": "Gine",
+      "specialTrait": "Saiyan",
+      "era": "Dragon Ball Minus Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-021",
+      "name": "Son Goku, Striving to be the Best",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-021.png",
+      "rarity": "Feature Rare[FR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Your opponent's Battle Cards with energy costs of 2 or less can't attack."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-022",
+      "name": "Kakarot, Bearer of Fate",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-022.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card at the bottom of its owner's deck : Choose up to 1 blue 《Saiyan》 card with an energy cost of 1 in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "1000",
+      "character": "Kakarot",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-023",
+      "name": "Prince Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-023.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Vegeta: Youth",
+      "specialTrait": "Saiyan",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-024",
+      "name": "Burnished Bonds Tora",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-024.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If a 《Bardock's Crew》 card is in your Drop Area, reduce the energy cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", place this card in its owner's Drop Area : Choose up to 1 {Final Strike Bardock} from your deck or Drop Area and play it, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "15000",
+      "character": "Tora",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-025",
+      "name": "Planetary Invader Tora",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-025.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 《Bardock's Crew》 card in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "5000",
+      "character": "Tora",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-026",
+      "name": "Burnished Bonds Fasha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-026.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If a 《Bardock's Crew》 card is in your Drop Area, reduce the energy cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Choose up to 1 《Bardock's Crew》 card in your Battle Area and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Fasha",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-027",
+      "name": "Planetary Invader Fasha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-027.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 5 cards from the top of your deck, choose up to 1 《Bardock's Crew》 card from among them and add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Fasha",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-028",
+      "name": "Burnished Bonds Shugesh",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-028.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, you may draw 1 card. If you did not draw a card with this skill, this card gains <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Shugesh",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-029",
+      "name": "Burnished Bonds Borgos",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-029.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "During your opponent's turn, if your opponent switches their energy to Active Mode using a non- <AWAKEN> skill, choose up to 1 of your opponent's energy and place it in its owner's Drop Area."
+        }
+      ],
+      "power": "4000",
+      "character": "Borgos",
+      "specialTrait": "Saiyan/Bardock's Crew",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-030",
+      "name": "Toolo, the Seer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-030.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is a 《Bardock's Crew》 card and your life is at 5 or less, draw 1 card, and this card gets +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Toolo",
+      "specialTrait": "Alien",
+      "era": "Bardock Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-031",
+      "name": "Future Punch",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-031.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 {Toolo, the Seer} in your Drop Area and place it at the bottom of your deck : Choose all of your blue 《Saiyan》 Leader Cards and blue 《Saiyan》 Battle Cards, and they get +5000 power and <CRITICAL> for the duration of the turn. At the end of the turn, choose all of the 《Saiyan》 cards in your Battle Area and place them in their owners' Drop Areas."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-032",
+      "name": "Tora's Red Armband",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-032.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a 《Bardock's Crew》 card, choose 1 blue 〈Tora〉 card in your Drop Area and send it to your Warp : Draw 4 cards, choose up to 1 {Final Strike Bardock} in your Battle Area and switch it to Active Mode, and it gets +10000 power and <DOUBLE STRIKE> for the duration of the turn. At the end of the turn, choose up to 1 of your energy and switch it to Active Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-032_SPR",
+      "name": "Tora's Red Armband",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-032_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a 《Bardock's Crew》 card, choose 1 blue 〈Tora〉 card in your Drop Area and send it to your Warp : Draw 4 cards, choose up to 1 {Final Strike Bardock} in your Battle Area and switch it to Active Mode, and it gets +10000 power and <DOUBLE STRIKE> for the duration of the turn. At the end of the turn, choose up to 1 of your energy and switch it to Active Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-033",
+      "name": "Dream the Future",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-033.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, and if your Leader Card is a 《Bardock's Crew》 card, you may choose 1 blue card in your hand and place it in your Drop Area. If you do, add this card to your hand."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-034",
+      "name": "Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-034.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 2"
+          ],
+          "description": "(You must place the top 2 cards of your deck in your Drop Area to activate this skill.) When this card attacks, you may choose 1 green card in your hand and place it in your Drop Area. If you do, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "TB3-034",
+      "name": "Son Goku, The Legendary Super Saiyan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-034_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 5"
+          ],
+          "description": "(This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and if a 〈Krillin〉 card is in your Drop Area, this card gets +5000 power and <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB3-035",
+      "name": "Final Showdown Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-035.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a 〈Krillin〉 card with an energy cost of 4 or more in your Battle Area is KO'd by your opponent, if your Leader Card is green or black, play this card from your hand, and you can't play {Final Showdown Son Goku} for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> and KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-035_SPR",
+      "name": "Final Showdown Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-035_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a 〈Krillin〉 card with an energy cost of 4 or more in your Battle Area is KO'd by your opponent, if your Leader Card is green or black, play this card from your hand, and you can't play {Final Showdown Son Goku} for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> and KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-035_BD",
+      "name": "Final Showdown Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-035_BD.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a 〈Krillin〉 card with an energy cost of 4 or more in your Battle Area is KO'd by your opponent, if your Leader Card is green or black, play this card from your hand, and you can't play {Final Showdown Son Goku} for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> and KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-036",
+      "name": "Hyperspeed Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-036.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you may choose up to 2 cards from your life and add them to your hand. If you chose to add 1 or more cards to your hand, this card gets +15000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-037",
+      "name": "Tenacious Spirit Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-037.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": This card gets +15000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Gohan: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-037_SPR",
+      "name": "Tenacious Spirit Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-037_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": This card gets +15000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Gohan: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-038",
+      "name": "Fledgling Duo Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-038.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Reduce the energy cost of 〈Krillin〉 cards in your hand by 1. (You must pay the specified cost even if it exceeds the reduced energy cost.)"
+        }
+      ],
+      "power": "5000",
+      "character": "Son Gohan: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-039",
+      "name": "Vegeta, Fully Recovered",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-039.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from a Drop Area, this card gains <DUAL ATTACK> for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-040",
+      "name": "Tactical Victory Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-040.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 <FIELD> card in your opponent's Battle Area and place it in its owner's Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-041",
+      "name": "Ever-Dependable Bulma",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-041.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is a 《Shenron》 card or a green 《Saiyan》 card and your life is at 5 or less, draw 1 card, and this card gets +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Bulma",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-042",
+      "name": "Persistent Assault Krillin",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-042.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green or black and this card is in Rest Mode, your opponent's cards can't attack Leader Cards."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-043",
+      "name": "Fledgling Duo Krillin",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-043.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-043_BD",
+      "name": "Fledgling Duo Krillin",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-043_BD.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-044",
+      "name": "Dende",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-044.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Dende",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-045",
+      "name": "Cheelai, the Beautiful",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-045.png",
+      "rarity": "Feature Rare[FR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When one of your opponent's Battle Cards is KO'd, your opponent chooses 1 card in their hand and places it in their Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Cheelai : Br",
+      "specialTrait": "Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-046",
+      "name": "Plea for Salvation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-046.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Desire》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a 《Shenron》 card : Choose 1 green Battle Card in your Drop Area with an energy cost less than or equal to your current energy and play it, then choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-047",
+      "name": "Frieza Army Healing Pod",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-047.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When you play a green Battle Card from your Drop Area, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |TWO| , place this card in its owner's Drop Area : Choose up to 1 Battle Card with an energy cost of 4 or less from your Drop Area and play it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-048",
+      "name": "Preemptive Strike",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-048.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If your Leader Card is green and the Battle Card your opponent is playing has an energy cost of 4 or less, it is placed in its owner's Drop Area instead of being played."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-049",
+      "name": "Dende",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-049.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Burst 2"
+          ],
+          "description": "(You must place the top 2 cards of your deck in your Drop Area to activate this skill.) Switch this card to Rest Mode : Choose up to 2 <DRAGON BALL> cards from your deck or life and add them to your hand. Then shuffle any areas you looked through."
+        },
+        {
+          "modifiers": [
+            "Wish"
+          ],
+          "description": "When there are 7 <DRAGON BALL> cards in your Drop Area : Choose up to 1 《Namekian》 card in your Drop Area, add it to your hand, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Dende",
+      "specialTrait": "Namekian/Shenron",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "TB3-049",
+      "name": "Piccolo, Brimming with Confidence",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-049_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 yellow 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <ACTIVATE MAIN> skill."
+        },
+        {
+          "modifiers": [],
+          "description": "・Remove 7 <DRAGON BALL> cards in your Drop Area from the game. If you do, choose all of your yellow 《Namekian》 Leader Cards and yellow 《Namekian》 Battle Cards and they get +10000 power for the duration of the turn, then flip this card over at the end of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo/Nail",
+      "specialTrait": "Namekian/Shenron",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB3-050",
+      "name": "Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-050.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Son Gohan: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-051",
+      "name": "Vegeta, Striving to be the Best",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-051.png",
+      "rarity": "Feature Rare[FR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with <BARRIER> in Rest Mode ignoring <BARRIER> and KO it. If you KO'd it, choose up to 1 of your energy and switch it to Active Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Vegeta : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-052",
+      "name": "Krillin, Ability Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-052.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you may choose 2 non-black Battle Cards in your opponent's Drop Area and place them at the bottom of their deck in any order. If you do, draw 1 card."
+        }
+      ],
+      "power": "10000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-053",
+      "name": "Piccolo, Fused with Nail",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-053.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・This card gets +3000 power for the duration of the turn for each 《Namekian》 card under this card."
+        },
+        {
+          "modifiers": [],
+          "description": "・If there are 3 or more 《Namekian》 cards under this card, this card gains <BARRIER> until the end of your opponent's next turn, then choose up to 1 of your opponent's energy and switch it to Rest Mode. That card can't be switched to Active Mode until the end of your opponent's next turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Piccolo/Nail",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-053_SPR",
+      "name": "Piccolo, Fused with Nail",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-053_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・This card gets +3000 power for the duration of the turn for each 《Namekian》 card under this card."
+        },
+        {
+          "modifiers": [],
+          "description": "・If there are 3 or more 《Namekian》 cards under this card, this card gains <BARRIER> until the end of your opponent's next turn, then choose up to 1 of your opponent's energy and switch it to Rest Mode. That card can't be switched to Active Mode until the end of your opponent's next turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Piccolo/Nail",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-054",
+      "name": "Piccolo, Potential Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-054.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Union-Absorb"
+          ],
+          "description": " |ONE| , choose 1 〈Nail〉 card from your hand or Drop Area and place it under this card : If your Leader Card is a 《Shenron》 card and your opponent has 3 or more cards in Rest Mode, choose up to 1 yellow 《Namekian》 card with an energy cost of 4 from your deck or Drop Area and play it on top of this card in Active Mode, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-055",
+      "name": "Namekian Solidarity Piccolo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-055.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 《Namekian》 card in your Battle Area and up to 3 《Namekian》 cards in your Drop Area, and place the chosen cards from your Drop Area under the chosen card in your Battle Area."
+        }
+      ],
+      "power": "10000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-056",
+      "name": "Ancient Wisdom Guru",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-056.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is a yellow 《Namekian》 card and your life is at 5 or less, draw 1 card, and this card gets +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Guru",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-057",
+      "name": "Life or Death Nail",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-057.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |TWO| : 〈Nail〉"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 2 or more 《Namekian》 cards under this card, this card gains <BARRIER> and <DOUBLE STRIKE> ."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 5"
+          ],
+          "description": "When you play this card, you may choose 1 card from your life and add it to your hand. If you do, choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> and switch it to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Nail",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-058",
+      "name": "Nail, Pride of Namek",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-058.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 2"
+          ],
+          "description": "At the end of a battle in which you combo with this card from your hand, if your Leader Card is a 《Namekian》 card, play this card in Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 other 《Namekian》 card in your Battle Area : Place this card under the chosen Battle Card, and that card gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Nail",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-059",
+      "name": "Wishmaker Dende",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-059.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 <DRAGON BALL> card from your deck and add it to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 other 《Namekian》 card in your Battle Area : Place this card under the chosen Battle Card, and that card gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "1000",
+      "character": "Dende",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-060",
+      "name": "Cargo, Namekian Youth",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-060.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's skill-less Battle Cards in Rest Mode and KO it."
+        }
+      ],
+      "power": "1000",
+      "character": "Cargo",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-061",
+      "name": "Twin Revival",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-061.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Desire》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 《Shenron》 card : Choose up to 2 yellow 《Namekian》 cards with energy costs of 2 or less in your Drop Area and play them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-062",
+      "name": "Assimilate",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-062.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 green or yellow 《Namekian》 card with an energy cost of 2 or less from your deck and add it to your hand."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-063",
+      "name": "Solar Flare",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-063.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, and if your Leader Card is yellow, choose up to 1 of your yellow Battle Cards with an energy cost of 2 or less, and it gains <BLOCKER> for the duration of the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-064",
+      "name": "Dragon Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-064.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Switch this card to Rest Mode : Choose up to 2 <DRAGON BALL> cards from your deck or life and add them to your hand. Then shuffle any areas you looked through."
+        },
+        {
+          "modifiers": [
+            "Wish"
+          ],
+          "description": "When there are 7 <DRAGON BALL> cards in your Drop Area : Choose up to 1 《Desire》 card in your Drop Area, add it to your hand, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Dragon Ball",
+      "specialTrait": "Shenron",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "TB3-064",
+      "name": "Porunga, Saviour of Namekians",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-064_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <ACTIVATE MAIN> skill."
+        },
+        {
+          "modifiers": [],
+          "description": "・Remove 7 <DRAGON BALL> cards in your Drop Area from the game. If you do, choose 1 Battle Card with an energy cost less than or equal to your current energy from your Drop Area and play it, then flip this card over at the end of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Porunga",
+      "specialTrait": "Shenron",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB3-065",
+      "name": "No Escape Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-065.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": "(This card isn't affected by <COUNTER PLAY> skills.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, and players can't use non-keyword skills to return Battle Cards in the Battle Area to their own hands during their turn for the duration of the game."
+        }
+      ],
+      "power": "3000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-066",
+      "name": "Newfound Power Porunga",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-066.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Switch this card to Rest Mode : If your Leader Card is a black 《Shenron》 card, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・Draw 2 cards."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 of your Battle Cards, and it gets +10000 power until the end of your opponent's next turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 of your and your opponent's Battle Cards ignoring <BARRIER> . Then choose the rest of your and your opponent's cards in the Battle Area ignoring <BARRIER> and shuffle them into their owners' decks."
+        }
+      ],
+      "power": "20000",
+      "character": "Porunga",
+      "specialTrait": "Shenron",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-066_SPR",
+      "name": "Newfound Power Porunga",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-066_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Switch this card to Rest Mode : If your Leader Card is a black 《Shenron》 card, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・Draw 2 cards."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 of your Battle Cards, and it gets +10000 power until the end of your opponent's next turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 of your and your opponent's Battle Cards ignoring <BARRIER> . Then choose the rest of your and your opponent's cards in the Battle Area ignoring <BARRIER> and shuffle them into their owners' decks."
+        }
+      ],
+      "power": "20000",
+      "character": "Porunga",
+      "specialTrait": "Shenron",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-067",
+      "name": "Porunga's Dragon Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-067.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Dragon Ball"
+          ],
+          "description": "(You can include as many copies of cards with <DRAGON BALL> in your deck as you like, as long as the total number doesn't exceed 7.)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a 《Shenron》 card, draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-068",
+      "name": "Wish to Porunga",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-068.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Desire》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a black 《Shenron》 card, choose 1 of your and your opponent's Battle Cards with equal energy costs ignoring <BARRIER> : Choose all other Battle Cards you control, all other Battle Cards your opponent controls ignoring <BARRIER> , and your and your opponent's hands, then shuffle them into their owners' decks, then you and your opponent draw 5 cards."
+        },
+        {
+          "modifiers": [],
+          "description": ""
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB3-069",
+      "name": "Frieza, Army Reborn",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB3-069.png",
+      "rarity": "Secret Rare[SCR]",
+      "series": [
+        "Themed Booster",
+        "～CLASH OF FATES～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Quadruple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Ultimate"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When your life is at 2 or less, reduce the energy cost of this card in your hand by 3."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, your opponent reveals their hand. Choose up to 1 card from your opponent's hand and place it in their Drop Area, then choose all of your opponent's Battle Cards with 40000 power or less ignoring <BARRIER> and KO them."
+        }
+      ],
+      "power": "40000",
+      "character": "Frieza : Br",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  }
+]

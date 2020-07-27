@@ -1,0 +1,184 @@
+[
+  {
+    "front": {
+      "id": "SD4-01",
+      "name": "Piccolo Jr.",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Piccolo Jr.",
+      "specialTrait": "Namekian",
+      "era": "World Martial Arts Tournament Saga"
+    },
+    "back": {
+      "id": "SD4-01",
+      "name": "Piccolo Jr., Evil Reborn",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> : Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it, then this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo Jr.",
+      "specialTrait": "Namekian",
+      "era": "World Martial Arts Tournament Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD4-02",
+      "name": "Indomitable Link Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD4-03",
+      "name": "Indomitable Link Piccolo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 ＜Son Gohan: Adolescence＞ with an energy cost of 3 or less from your deck and add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian/God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD4-04",
+      "name": "King Piccolo, Lord of Terror",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": " <BOND 3> 《Namekian》 (This skill takes effect when you have 3 or more of the specified Battle Cards in play) : Reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "King Piccolo",
+      "specialTrait": "Namekian",
+      "era": "King Piccolo Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD4-05",
+      "name": "Namekian Bond Saonel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD4-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～THE Guardian of Namekians～【DBS-SD04】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " <BOND 3> 《Namekian》 (This skill takes effect when you have 3 or more of the specified Battle Cards in play) : When you play this card, draw 1 card, then, you may choose up to 2 cards from your life and add them to your hand. If you chose to add 1 or more cards to your hand, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Saonel",
+      "specialTrait": "Namekian/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  }
+]

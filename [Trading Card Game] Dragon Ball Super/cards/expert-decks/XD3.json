@@ -1,0 +1,373 @@
+[
+  {
+    "front": {
+      "id": "XD3-01",
+      "name": "Cell",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is placed in your Leader Area, choose up to 1 {Cell Games Arena} from your deck, activate it, and you can't activate <FIELD> cards for the duration of the game."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "If there is a total of 4 or more energy between you and your opponent : You may draw 2 cards and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Cell",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {
+      "id": "XD3-01",
+      "name": "Cell & Cell Jr., Endless Supremity",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 2 cards under this card and place them in their owners' Drop Areas : Play 2 Cell Jr. tokens. (Cell Jr. tokens have 10000 power, 0 combo cost, and 5000 combo power.)"
+        }
+      ],
+      "power": "15000",
+      "character": "Cell/Cell Jr.",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "XD3-02",
+      "name": "Cell, Genetic Consumption",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Union-Absorb"
+          ],
+          "description": "Choose 1 〈Android 17〉 card in your Drop Area and place it under this card : Choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 from your hand or deck, play it on top of this card in Active Mode, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "5000",
+      "character": "Cell",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-03",
+      "name": "Android 18, Imminent Danger",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , if your Leader Card is an 《Android》 card and you send this card from your Drop Area to your Warp : Choose up to 1 green or yellow 《Android》 card with an energy cost of 1 in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Android 18",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-04",
+      "name": "Android 17, Impending Crisis",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is an 《Android》 card : When you play this card, choose up to 1 Battle Card with an energy cost of 4 or less that has {Android} in its name from your deck, place it in your Drop Area, then shuffle your deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Android 17",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-05",
+      "name": "SS Son Goku, Valiant Breakthrough",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card from your Drop Area, choose up to 1 Green/Yellow multicolor 〈Son Gohan : Childhood〉 card in your Battle Area and switch it to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your opponent has 4 or more energy and you have a 〈Cell〉 card with an energy cost of 4 or more in play : Play this card from your hand; if you do, choose up to 1 of your opponent's cards, switch it to Rest Mode, and you can't play {SS Son Goku, Valiant Breakthrough} for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-06",
+      "name": "SS Vegeta, Begrudging Support",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-06.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's skill-less Battle Cards, KO it, and this card gets +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-07",
+      "name": "Pernicious Progeny",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-07.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose up to 2 Cell Jr. tokens in your Battle Area and remove them from the game : For each Cell Jr. token you remove from the game with this skill, choose up to 1 of your opponent's cards and switch it to Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is a 〈Cell〉 card : Add this card to your hand from your Drop Area."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-08",
+      "name": "SS2 Son Gohan, Wounded Victor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-08.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Successor"
+          ],
+          "description": " |ONE| (Choose any number of your mono-green, mono-yellow, or Green/Yellow multicolor Battle Cards whose energy costs add up?to the energy cost of this card, place them in their owners' Drop Areas, then play this card from your hand.)"
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card attacks, choose up to 1 yellow 〈Son Goku〉 card in your Drop Area and combo it with this card."
+        }
+      ],
+      "power": "30000",
+      "character": "Son Gohan: Childhood",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-09",
+      "name": "Cell, Perfection Misspent",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-09.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 〈Android 18〉 card under this card and place it in its owner's Drop Area : When your opponent's card attacks, negate the attack, then choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 under this card, play it, and place this card in its owner's Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Cell",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "XD3-10",
+      "name": "Cell, Perfection Reclaimed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/XD3-10.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "EXPERT DECK",
+        "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Union-Absorb"
+          ],
+          "description": ", choose 1 〈Android 18〉 card in your Drop Area and place it under this card : Choose up to 1 〈Cell〉 card with an energy cost of 8 from your deck or hand, play it on top of this card in Active Mode, then shuffle your deck if you looked through it."
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have 4 or more energy : When this card is placed in a Drop Area from a Battle Area by a skill, choose up to 1 〈Cell〉 card with an energy cost of 8 in your Drop Area and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Cell",
+      "specialTrait": "Android",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  }
+]

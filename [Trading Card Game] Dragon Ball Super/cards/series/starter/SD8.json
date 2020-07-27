@@ -1,0 +1,367 @@
+[
+  {
+    "front": {
+      "id": "SD8-01",
+      "name": "Broly",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 green 《Frieza's Army》 card with an energy cost of 1 from your deck and add it to your hand, then shuffle your deck and negate this skill for the duration of the game."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 1 card, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Broly : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {
+      "id": "SD8-01",
+      "name": "Broly, Evil Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 2 or more Battle Cards in play in your Battle Area, you can't play Battle Cards."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 7"
+          ],
+          "description": "(This skill takes effect when you have 7 or more cards in your Drop Area.) When this card attacks, draw cards until you have 6 cards in your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 of your Battle Cards and 1 of your opponent's Battle Cards : KO the chosen cards."
+        }
+      ],
+      "power": "15000",
+      "character": "Broly : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD8-02",
+      "name": "Broly, the Ravager",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn",
+            "Burst 3"
+          ],
+          "description": "(You must place the top 3 cards of your deck in your Drop Area to activate this skill.) Your opponent chooses 1 card from their hand and places it in their Drop Area."
+        }
+      ],
+      "power": "30000",
+      "character": "Broly : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-03",
+      "name": "Broly, Rushing Forth",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from a Battle Area by a skill or KO'd, you may choose 2 cards from your hand and place them in your Drop Area. If you do, choose up to 1 green 〈Broly : Br〉 card with an energy cost of 7 from your hand and play it."
+        }
+      ],
+      "power": "20000",
+      "character": "Broly : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-04",
+      "name": "Defending Father Paragus",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is green and your life is at 4 or less, draw 2 cards, then choose 1 card from your hand and send it to your Warp."
+        }
+      ],
+      "power": "10000",
+      "character": "Paragus : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-05",
+      "name": "Cheelai, Frieza Force Soldier",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| : Choose up to 1 green 《Frieza's Army》 card with an energy cost of 2 or less from your deck and play it, then shuffle your deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Cheelai : Br",
+      "specialTrait": "Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-06",
+      "name": "Lemo, Frieza Force Soldier",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-06.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ", choose 1 card from your hand and place it in your Drop Area : Choose up to 1 〈Cheelai : Br〉 card with an energy cost of 2 or less from your deck and play it, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Lemo : Br",
+      "specialTrait": "Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-07",
+      "name": "Son Goku, Time to Fight",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-07.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your opponent has 4 or more cards in Rest Mode, reduce the energy cost of this card in your hand by 3."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you can't play {Son Goku, Time to Fight} for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Choose 1 green or yellow 《Saiyan》 card with an energy cost of 3 or less and 10000 power or less from your Drop Area and play it in Rest Mode, and you can only play Battle Cards that are green or yellow and no other color for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-08",
+      "name": "Vegeta, Time to Fight",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-08.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card.)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your opponent has 4 or more cards in Rest Mode, reduce the energy cost of this card in your hand by 3."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-09",
+      "name": "Godly Destruction Whis",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-09.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent switches their energy to Active Mode using a non- <AWAKEN> skill during their turn, choose up to 1 of your opponent's energy and place it in its owner's Drop Area."
+        }
+      ],
+      "power": "4000",
+      "character": "Whis : Br",
+      "specialTrait": "God",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD8-10",
+      "name": "Godly Destruction Beerus",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD8-10.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～RISING BROLY～【DBS-SD08】"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 2 or less and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Beerus : Br",
+      "specialTrait": "God",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  }
+]

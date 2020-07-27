@@ -1,0 +1,239 @@
+[
+  {
+    "front": {
+      "id": "EX01-01",
+      "name": "Comrades Combined Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-01.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Vegeta＞ among them with an energy cost of 3 or less and play it in Rest Mode. Then, place the remaining cards on the bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-02",
+      "name": "Comrades Combined Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-02.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is blue, reduce the energy cost of this card in your hand and Battle Area by 1."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-03",
+      "name": "Trunks, Link to the Future",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-03.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Vegito＞ among them with an energy cost of 8 or less and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-04",
+      "name": "SSB Vegito, the Savior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-04.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Union-Potara"
+          ],
+          "description": " |THREE| : ＜Son Goku＞ and ＜Vegeta＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)"
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks twice in the same turn, it gains <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "30000",
+      "character": "Vegito",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-05",
+      "name": "Unified Spirit Son Goten",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-05.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Return this card to its owner's hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 7 cards from the top of your deck. Choose up to 1 ＜Trunks : Youth＞ among them with 15000 or less power and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goten",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-06",
+      "name": "Unified Spirit Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-06.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Return this card to its owner's hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, you may reveal 1 ＜Son Goten＞ from your hand. If you do so, choose up to 1 opponent Battle Card with an energy cost of 3 or less and KO that card."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX01-07",
+      "name": "Psyched Up Gotenks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX01-07.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 01",
+        "-Mighty Heroes-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Union-Fusion"
+          ],
+          "description": " |TWO| : ＜Son Goten＞ and ＜Trunks : Youth＞ (Place 1 each of the specified card with the same power from your hand into your Drop Area and play this card)"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if you have a ＜Son Goten＞ in your Drop Area, draw 2 cards. If you have a ＜Trunks : Youth＞ in your Drop Area, choose up to 1 opponent Battle Card and KO that card."
+        }
+      ],
+      "power": "25000",
+      "character": "Gotenks",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "front": {
+      "id": "SD3-01",
+      "name": "The Masked Saiyan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Place the top 3 cards of your deck in the Drop Area : If you place a black card in the Drop Area with this skill, this card gains <CRITICAL> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) for the duration of the turn. If a card of any other color is placed in the Drop Area, this card also gains +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 2 cards and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {
+      "id": "SD3-01",
+      "name": "Bardock, Unbound by Darkness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Place the top 3 cards of your deck in the Drop Area : If you place a black card in the Drop Area with this skill, this card gains <CRITICAL> for the duration of the turn. If a card of any other color is placed in the Drop Area, this card also gains +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Bardock : Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD3-02",
+      "name": "Killer Sword Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Xeno-Evolve"
+          ],
+          "description": " <FOUR> :"
+        }
+      ],
+      "power": "20000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD3-03",
+      "name": "Quick blade Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 2"
+          ],
+          "description": "(If you have at least 2 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD3-04",
+      "name": "Encroaching Threat Masked Saiyan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can attack Battle Cards that are in Active Mode."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When you've sent 7 or more cards to your Warp, reduce the energy cost of this card in your hand and Warp by 1."
+        }
+      ],
+      "power": "20000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD3-05",
+      "name": "Power Aura Mira",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "Series 3 Starter",
+        "～THE DARK INVASION～"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": "(If you have at least 3 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When you have 3 or more cards in your Warp, this card gains +5000 power. If you have 5 or more cards in your Warp, this card gains an additional +5000 power."
+        }
+      ],
+      "power": "15000",
+      "character": "Mira",
+      "specialTrait": "Android",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  }
+]

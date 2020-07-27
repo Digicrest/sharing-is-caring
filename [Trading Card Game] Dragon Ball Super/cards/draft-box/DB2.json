@@ -1,0 +1,5643 @@
+[
+  {
+    "front": {
+      "id": "DB2-001",
+      "name": "SSB Kaio-Ken Son Goku, Concentrated Destruction",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-001.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose all of your opponent's Battle Cards with 20000 power or less and KO them."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is red and you place this card from your hand in your Drop Area : Choose 1 of your opponent's Battle Cards, ignoring <BARRIER> , and it gets -25000 power for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-002",
+      "name": "Ultra Instinct Son Goku, Monumental Presence",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-002.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if you have 2 or more skill-less Battle Cards with an original power of 10000 in play, and you don't have a copy of this card in play : Play this card from your hand, and you can't play another copy of this card for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose up to 1 of your opponent's Battle Cards with 20000 power or less, ignoring <BARRIER> , and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-003",
+      "name": "Tien Shinhan, Unwavering Anchor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-003.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo this card with a skill-less Battle Card with 10000 power, you may choose that card and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Tien Shinhan",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-004",
+      "name": "Piccolo, Namekian Fortification",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-004.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : When this card attacks, switch this card to Active Mode, then it gets +10000 power and can't attack for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian/God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-005",
+      "name": "Android 17, Rebel Reinforcements",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-005.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, play this card, then choose up to 1 red Battle Card with an energy cost of 1 in your Drop Area and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Android 17",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-006",
+      "name": "Majin Buu, Cheerful Demon",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-006.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card is played in Rest Mode from all areas."
+        }
+      ],
+      "power": "35000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-007",
+      "name": "Frieza, Imperial Inspiration",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-007.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, choose up to 1 of your Leader Cards or Battle Cards and it gains <CRITICAL> for the battle."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-008",
+      "name": "Frieza, Double-Edged Sword",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-008.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be played from any area by card skills except its own."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |FOUR| , choose 1 of your Battle Cards and 1 of your opponent's Battle Cards : The chosen cards get -25000 power for the turn, then play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 《Universe 7》 card in your hand and place it in your Drop Area : Add this card from your Drop Area to your hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-009",
+      "name": "Worthy Warrior Kefla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-009.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck, choose up to 2 skill-less Battle Cards with an energy cost of 1 among them, add them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Kefla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-010",
+      "name": "Anato, Gentle Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-010.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 2 red cards in your hand and place them in your Drop Area : When you play this card, choose any number of Battle Cards with 20000 power or less with energy costs that add up to a total of 4 or less and KO them."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you KO 2 or more of your opponent's Battle Cards with this card's skill, draw 1 card."
+        }
+      ],
+      "power": "5000",
+      "character": "Anato",
+      "specialTrait": "God/Universe 1",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-011",
+      "name": "Ganos, Bird of Prey",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-011.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "This card gets -15000 power for the turn : When one of your opponent's cards attacks, negate the attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 2 skill-less Battle Cards in your Drop Area and remove them from the game : Switch this card to Active Mode."
+        }
+      ],
+      "power": "30000",
+      "character": "Ganos",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-012",
+      "name": "Ganos",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-012.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Ganos",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-013",
+      "name": "Kuru, Proud Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-013.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 skill-less Battle Cards in your Drop Area with an energy cost of 1 and add them to your hand."
+        }
+      ],
+      "power": "5000",
+      "character": "Kuru",
+      "specialTrait": "God/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-014",
+      "name": "Caway",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-014.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Caway",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-015",
+      "name": "Dercori, the Unstoppable Shadow",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-015.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with 10000 power or less and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Dercori",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-016",
+      "name": "Feral Strike Shosa",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-016.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 skill-less Battle Card with an energy cost of 1 in your Drop Area, play it, and this card gains <CRITICAL> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Shosa",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-017",
+      "name": "Monna, the Confidence Booster",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-017.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 2"
+          ],
+          "description": "When you play this card, choose up to 2 of your skill-less Battle Cards and they get +5000 power until the end of your opponent's next turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Monna",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-018",
+      "name": "Burly Brawler Nink",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-018.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your turn, this card gets +5000 power and can attack Battle Cards in Active Mode."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, choose up to 1 skill-less Battle Card with an energy cost of 1 in your Drop Area and play it."
+        }
+      ],
+      "power": "10000",
+      "character": "Nink",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-019",
+      "name": "Majora, Unseeing Aid",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-019.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose up to 2 skill-less Battle Cards with an energy cost of 1 in your Drop Area or Warp and play them."
+        }
+      ],
+      "power": "15000",
+      "character": "Majora",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-020",
+      "name": "Mirage Maker Shantza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-020.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Switch this card to Rest Mode : Choose all of your red Battle Cards with an energy cost of 1 and switch them to Active Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Shantza",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-021",
+      "name": "Stealth Silhouette Gamisaras",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-021.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 Battle Card with an energy cost of 1 from your deck, place it in your Drop Area, then shuffle your deck : Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose up to 1 of your Battle Cards and it gets +5000 power for the turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Gamisaras",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-022",
+      "name": "Damon, Might of Many",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-022.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If you have a skill-less Battle Card with an energy cost of 1 in play : This card gets +11000 power for the turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Damon",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-023",
+      "name": "Jiren, the All-Seeing",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-023.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent plays a Battle Card, choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When one of your opponent's cards attacks, you may choose that card and it gets -10000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-024",
+      "name": "Kunshi, Threaded Manipulation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-024.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and it gets -4000 power for the turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Kunshi",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-025",
+      "name": "Bear Hug Tupper",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-025.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card in your life and place it in your Drop Area : When you play this card, choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Tupper",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-026",
+      "name": "Pride Collective Zoiray",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-026.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill, draw 1 card."
+        }
+      ],
+      "power": "4000",
+      "character": "Zoiray",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-027",
+      "name": "Pride Collective Cocotte",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-027.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 《Universe 11》 card with an energy cost of 1 from your deck, play it with its skills negated for the turn, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Cocotte ",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-028",
+      "name": "Pride Collective Kettol",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-028.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is red and you send this card from your Drop Area to your Warp : Choose up to 2 skill-less Battle Cards with an energy cost of 1 from your deck and place them in your Drop Area."
+        }
+      ],
+      "power": "1000",
+      "character": "Kettol",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-029",
+      "name": "Flight of the Grand Eagle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-029.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Choose up to 1 of your Leader Cards or Battle Cards and it gets +100000 power for the battle."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is red, you can activate this card's <COUNTER> skill from your hand by choosing 2 of your non-token Battle Cards and reducing their power by -10000 for the turn instead of paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-030",
+      "name": "Ultrasonic Exchange",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-030.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If the Battle Card your opponent is playing has 20000 power or less, your opponent may place that Battle Card in their Drop Area instead of playing it. If they don't, they choose 1 of their Battle Cards and place it in its owner's Drop Area."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-031",
+      "name": "Universe 4, Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-031.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 skill-less Battle Cards with 10000 power in your Drop Area and/or Warp and play them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-032",
+      "name": "Mystic Talismans",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-032.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, then choose up to 1 of your Battle Cards and it gets +5000 power until the end of your next turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-033",
+      "name": "Meditation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-033.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your Battle Cards : For the turn, the chosen card gets +15000 power, can attack Battle Cards in Active Mode, can't have its attacks negated, and can't attack your opponent's Leader Card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-034",
+      "name": "Master Roshi, Maximum Muscle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-034.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 of your opponent's Battle Cards and place them at the bottom of their owners' decks."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, draw 1 card."
+        }
+      ],
+      "power": "25000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-035",
+      "name": "Master Roshi, Still Got It",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-035.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 blue card in your hand and place it in your Drop Area : Draw 1 card and this card gets +5000 power until the end of your opponent's next turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-036",
+      "name": "Android 17, Turning the Tide",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-036.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all cards in your hand and your opponent's hand, and all Battle Cards in your opponent's Drop Area, and shuffle them into their owners' decks."
+        }
+      ],
+      "power": "30000",
+      "character": "Android 17",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-037",
+      "name": "Android 18, Neverending Energy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-037.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 2 cards."
+        }
+      ],
+      "power": "20000",
+      "character": "Android 18",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-038",
+      "name": "Energetic Outburst Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-038.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, activate this skill. At the start of your opponent's next Main Phase, choose up to 1 of your blue energy and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-039",
+      "name": "Energetic Frenzy Kefla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-039.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Reduce the energy cost of this card in your hand by 1 for each of your blue Battle Cards."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Draw 2 cards, then at the start of your opponent's next Main Phase, choose up to 2 of your blue energy and switch them to Active Mode."
+        }
+      ],
+      "power": "25000",
+      "character": "Kefla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-040",
+      "name": "Hit, Deadly Vanguard",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-040.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If the Battle Card being played has an energy cost of 5 or less, it is returned to its owner's hand instead of being played, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be returned to your hand by your skills."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less and return it to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Hit",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-041",
+      "name": "Frost, Chaotic Burst",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-041.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 of your opponent's Battle Cards and return them to their owners' hands."
+        }
+      ],
+      "power": "20000",
+      "character": "Frost",
+      "specialTrait": "Frieza Clan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-042",
+      "name": "Dr. Rota, Unknown Potential ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-042.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, choose up to 1 of your blue energy and switch it to Active Mode."
+        }
+      ],
+      "power": "4000",
+      "character": "Dr. Rota",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-043",
+      "name": "Pirina, Namekian Ambush",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-043.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When one of your Battle Cards is KO'd, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and return it to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Pirina",
+      "specialTrait": "Namekian/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-044",
+      "name": "Saonel, Namekian Ensnarement",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-044.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and return it to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Saonel",
+      "specialTrait": "Namekian/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-045",
+      "name": "Fuwa, Strategic Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-045.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 2 of your energy in Active Mode and add them to your hand : Choose 2 cards in your hand and place them in your energy in Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Fuwa",
+      "specialTrait": "God/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-046",
+      "name": "Obuni, Afterimage Slash",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-046.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If an Afterimage Token is in play in your Battle Area, this card can't be KO'd."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, play 3 Afterimage Tokens. (Afterimage Tokens have 15000 power, 0 combo cost, and 5000 combo power.)"
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Your opponent reveals the top card of their deck; if it's a Battle Card, at the start of your opponent's next Main Phase, choose up to 1 of your blue energy and switch it to Active Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Obuni",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-047",
+      "name": "Zium, Lucky Air Raid",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-047.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card in your hand and place it in your Drop Area : Your opponent reveals the top card of their deck; if it's a Battle Card, choose up to 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck."
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": "If it's your opponent's turn : Your opponent reveals the top card of their deck; if it's a non-Battle Card, choose up to 2 of your mono-blue energy and switch them to Active Mode."
+        }
+      ],
+      "power": "19000",
+      "character": "Zium",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-048",
+      "name": "Lilibeu, Wings of Fortune",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-048.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, your opponent reveals the top card of their deck; if it's a Battle Card, choose up to 1 of your opponent's Battle Cards and return it to its owner's hand. Otherwise, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Lilibeu",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-049",
+      "name": "Jirasen, Graceful Wager",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-049.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Look at up to 3 cards from the top of your opponent's deck, put them back in any order, then play this card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": " |ONE| : Your opponent reveals the top card of their deck; if it's a Battle Card, draw 1 card."
+        }
+      ],
+      "power": "4000",
+      "character": "Jirasen",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-050",
+      "name": "Murichim, Brave Bruiser",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-050.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Your opponent reveals the top card of their deck; if it's a Battle Card, this card gets +5000 power and <DUAL ATTACK> for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Murichim",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-051",
+      "name": "Lilibeu, Exploitative Flight",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-051.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks or is removed from your Battle Area by a skill, look at up to 3 cards from the top of your opponent's deck and put them back in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Lilibeu",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-052",
+      "name": "Jirasen, Fortuitous Flurry",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-052.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, your opponent reveals the top card of their deck; if it's a Battle Card, draw 1 card and this card gets +5000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Jirasen",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-053",
+      "name": "Murisarm, Manipulative Blow",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-053.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have a 《Universe 10》 card in play : When you play or combo with this card, look at up to 3 cards from the top of your opponent's deck and put them back in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Murisarm",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-054",
+      "name": "Mechiorp, Bobbing and Weaving",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-054.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, play this card, then choose up to 1 of your blue energy and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Mechiorp",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-055",
+      "name": "Napapa",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-055.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Napapa",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-056",
+      "name": "Rubalt",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-056.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Rubalt",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-057",
+      "name": "Jilcol, High Stakes Guardian",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-057.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Your opponent reveals the top card of their deck; if it's a Battle Card, this card gains <REVENGE> until the end of your opponent's next turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Jilcol",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-058",
+      "name": "Gowasu, Manipulative Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-058.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Look at up to 3 cards from the top of your opponent's deck and put them back in any order."
+        }
+      ],
+      "power": "5000",
+      "character": "Gowasu",
+      "specialTrait": "God/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-059",
+      "name": "Dyspo, Sonic Subversion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-059.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Return this card to its owner's hand, then choose 1 card in your life and add it to your hand : When your opponent plays a Battle Card with an energy cost greater than their current energy, choose that card and return it to its owner's hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Dyspo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-060",
+      "name": "Agu, Virtuous Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-060.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 3 cards from the top of your deck, choose up to 1 《God》 card among them, add it to your hand, and place the remaining cards at the bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Agu",
+      "specialTrait": "God/Universe 12",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-061",
+      "name": "Great Priest, Herald of Deliverance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-061.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if you have 4 or more energy and you choose 2 non-〈Great Priest〉 《God》 cards in your Battle Area and return them to their owners' hands : Play this card from your hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Great Priest",
+      "specialTrait": "God",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-062",
+      "name": "Dirty Burst",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-062.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": ": Draw 1 card; your opponent can't attack with Battle Cards with energy costs of 7 or more for the turn."
+        },
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-063",
+      "name": "Internal Energy Shift",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-063.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, then your opponent reveals the top card of their deck; if it's a Battle Card, choose up to 1 of your Battle Cards and up to 1 of your energy and switch them to Active Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-064",
+      "name": "Universe 10, Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-064.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, look at up to 3 cards from the top of your opponent's deck and put them back in any order, then choose up to 1 《Universe 10》 card with an energy cost of 2 or less in your hand and play it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-065",
+      "name": "Son Goku, Spirited Contender",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-065.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green and your opponent has 6 or more life, reduce the energy cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 2 cards."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-066",
+      "name": "Son Goku, Evening the Odds",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-066.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is green and you have no Battle Cards in play : Place this card from your hand in your Drop Area, then choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-067",
+      "name": "Krillin, Destructo Disc Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-067.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "When you play this card, choose any number of your opponent's Battle Cards with energy costs that add up to a total of 4 or less and KO them."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-068",
+      "name": "Ribrianne, Avatar of Affection",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-068.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green and this card is in Rest Mode, your opponent can only attack this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, choose all of your opponent's Battle Cards, ignoring <BARRIER> , and KO them."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 4 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "30000",
+      "character": "Ribrianne",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-069",
+      "name": "Ribrianne, Punishing Passion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-069.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is green and you send this card from your Drop Area to your Warp : Your opponent chooses 2 cards from their hand and places them in their Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Ribrianne",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-070",
+      "name": "Ribrianne, Boundless Heart ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-070.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards, ignoring <BARRIER> , and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Ribrianne",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-071",
+      "name": "Brianne De Chateau, Dazzling Maiden",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-071.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 green card in your hand and place it in your Drop Area : When one of your opponent's cards attacks, negate the attack, then negate this skill for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 3 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Brianne De Chateau",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-072",
+      "name": "Kakunsa, Beastly Maiden ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-072.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green and it's your opponent's turn, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Kakunsa",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-073",
+      "name": "Kakunsa, Maiden Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-073.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 2 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Kakunsa",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-074",
+      "name": "Sanka Ku, Maiden Dominance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-074.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 1 in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Sanka Ku",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-075",
+      "name": "Rozie, Maiden Cunning",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-075.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 2 or less in your Drop Area, and play it with its skills negated for the turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 of your green Battle Cards with an energy cost of 2 and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Rozie",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-076",
+      "name": "Rozie, Maiden's Scorn",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-076.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Rozie",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-077",
+      "name": "Su Roas, Maiden Augment",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-077.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "This card gets +10000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 1 in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Su Roas",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-078",
+      "name": "Zirloin, Maiden Supporter",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-078.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 green Battle Card in your hand with an energy cost of 4 or less and play it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "KO this card : When one of your opponent's cards attacks, your opponent can't attack with Battle Cards for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 4 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "30000",
+      "character": "Zirloin",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-079",
+      "name": "Zirloin, Love's Guardian",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-079.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Zirloin",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-080",
+      "name": "Zarbuto, Maiden Avenger",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-080.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Revenge"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 3 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Zarbuto",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-081",
+      "name": "Zarbuto, Heroic Stance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-081.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : When this card attacks, it gets +10000 power and <DOUBLE STRIKE> for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Zarbuto",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-082",
+      "name": "Rabanra, Maiden Devotee",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-082.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, your opponent chooses 2 cards in their hand and places them in their Drop Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 green Battle Card with an energy cost of 3 or less in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Rabanra",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-083",
+      "name": "Rabanra, Love's Guardian",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-083.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        }
+      ],
+      "power": "5000",
+      "character": "Rabanra",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-084",
+      "name": "Jimeze",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-084.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Jimeze",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-085",
+      "name": "Vikal",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-085.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Vikal",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-086",
+      "name": "Prum, Reflective Fighter ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-086.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card from your Battle Area, draw 1 card."
+        }
+      ],
+      "power": "5000",
+      "character": "Prum",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-087",
+      "name": "Hermilla, Pinpoint Accuracy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-087.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have a green Battle Card in play other than this card : When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Hermilla",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-088",
+      "name": "Pell, Confident Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-088.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 green Battle Card with an energy cost of 3 or less in your Drop Area, and play it with its skills negated."
+        }
+      ],
+      "power": "15000",
+      "character": "Pell",
+      "specialTrait": "God/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-089",
+      "name": "Ganos, Aerial Assault",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-089.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 cards in your opponent's hand and place them in their Drop Area, then choose up to 1 of your opponent's Battle Cards, ignoring <BARRIER> , and KO it."
+        }
+      ],
+      "power": "30000",
+      "character": "Ganos",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-090",
+      "name": "Ogma, Compassionate Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-090.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When an opponent's Battle Card is KO'd, if a copy of this card isn't in play in your Battle Area, you may play this card from your hand."
+        }
+      ],
+      "power": "10000",
+      "character": "Ogma",
+      "specialTrait": "God/Universe 5",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-091",
+      "name": "Toppo, Righteous Reprisal",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-091.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, play this card, then choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Toppo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-092",
+      "name": "Hasty Dispatch Dyspo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-092.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If there are no cards in your Battle Area and you send this card from your Drop Area to your Warp : Choose up to 1 Battle Card with an energy cost of 1 in your Drop Area, and play it with its skills negated for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Dyspo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-093",
+      "name": "Pretty Black Hole",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-093.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, then you may choose 1 of your Battle Cards, negate its skills, and place it in its owner's Drop Area. If you do, draw 1 card, then choose any number of your opponent's non-token Battle Cards with a total energy cost less than or equal to the energy cost of the card you placed in a Drop Area with this skill, and KO them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-094",
+      "name": "Heart Arrow of Love",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-094.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose 1 of your green Leader Cards or Battle Cards and it gets +10000 power for the battle; then, if it's your turn, choose up to 2 of your opponent's Battle Cards with energy costs of 3 or less and KO them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-095",
+      "name": "Universe 2, Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-095.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose up to 1 《Universe 2》 card in your deck, place it in your Drop Area, then shuffle your deck."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-096",
+      "name": "Heavy Light Shatter Burst",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-096.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is green : Choose all of your opponent's Battle Cards and KO them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-097",
+      "name": "Big Amour",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-097.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is green : Your opponent can't attack with Battle Cards with energy costs of 5 or more until the start of your next Main Phase."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-098",
+      "name": "Cabba",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-098.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-099",
+      "name": "Cabba, Saiyan Invigoration",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-099.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", place this card from your hand in your Drop Area : Choose 1 of your opponent's Battle Cards, negate its skills for the turn, then choose up to 1 of your yellow Battle Cards with an energy cost of 2 or less and switch it to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-100",
+      "name": "Caulifla, Saiyan Invalidation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-100.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, play this card, then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-101",
+      "name": "Caulifla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-101.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-102",
+      "name": "Kale, Uncontrollable Rage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-102.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        }
+      ],
+      "power": "20000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-103",
+      "name": "Kale the Mischievous",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-103.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards or energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-104",
+      "name": "Hit, the Revoker",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-104.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Choose up to 2 of your opponent's energy, switch them to Rest Mode, then play this card."
+        }
+      ],
+      "power": "15000",
+      "character": "Hit",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-105",
+      "name": "Raw Power Botamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-105.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Revenge"
+          ],
+          "description": ""
+        }
+      ],
+      "power": "15000",
+      "character": "Botamo",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-106",
+      "name": "Metal Volley Magetta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-106.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        }
+      ],
+      "power": "10000",
+      "character": "Magetta",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-107",
+      "name": "Ille, Dignified Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-107.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , if your Leader Card is yellow and you send this card from your Drop Area to your Warp : Choose 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Ille",
+      "specialTrait": "God/Universe 8",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-108",
+      "name": "Bergamo, Ferocious Roar",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-108.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " |ONE| : When one of your opponent's cards is switched to Rest Mode by one of your skills, play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is yellow or a 《Universe 9》 card : When you play this card, choose up to 2 of your opponent's Battle Cards and/or energy, ignoring <BARRIER> , and switch them to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-109",
+      "name": "Bergamo, Lupine Predator ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-109.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When all of your opponent's energy is in Rest Mode, reduce the energy cost of this card in your hand by 3."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your opponent's Battle Cards, ignoring <BARRIER> , switch them to Rest Mode, and those cards can't be switched to Active Mode until the start of your next Main Phase."
+        }
+      ],
+      "power": "25000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-110",
+      "name": "Gigantic Crusher Bergamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-110.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, this card gets +10000 power."
+        }
+      ],
+      "power": "20000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-111",
+      "name": "Basil, Fatal Rampage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-111.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If your opponent has 5 or more cards in Rest Mode : This card gets +15000 power and <DUAL ATTACK> until the start of your next Main Phase."
+        }
+      ],
+      "power": "4000",
+      "character": "Basil",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-112",
+      "name": "Basil, the Impervious",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-112.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Basil",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-113",
+      "name": "Venomous Fist Lavender",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-113.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 of your opponent's energy, switch them to Rest Mode, then negate this skill for the duration of the game."
+        }
+      ],
+      "power": "19000",
+      "character": "Lavender",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-114",
+      "name": "Lavender, Universe 9 Agent",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-114.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 《Universe 9》 card in your hand and place it in your Drop Area : When you play this card, choose 1 of your opponent's Battle Cards in Rest Mode with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "5000",
+      "character": "Lavender",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-115",
+      "name": "Amphibious Assault Comfrey",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-115.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When all of your opponent's energy is in Rest Mode, reduce the energy cost of this card in your hand by 2."
+        }
+      ],
+      "power": "20000",
+      "character": "Comfrey",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-116",
+      "name": "Roselle, Wings of Universe 9",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-116.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 2 of your opponent's Battle Cards with energy costs of 3 or less and switch them to Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Roselle",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-117",
+      "name": "Oregano the Webslinger",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-117.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Oregano",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-118",
+      "name": "Hyssop the Frozen Titan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-118.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Hyssop",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-119",
+      "name": "Chappil the Iron Drake",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-119.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When an opponent's card attacks, choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Chappil",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-120",
+      "name": "Sorrel, the Cottontailed Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-120.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": ": When this card activates <BLOCKER> , choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "4000",
+      "character": "Sorrel",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-121",
+      "name": "Feline Force Hop",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-121.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and up to 1 of their energy and switch them to Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards in Rest Mode and it can't be switched to Active Mode until the start of your next Main Phase."
+        }
+      ],
+      "power": "15000",
+      "character": "Hop",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-122",
+      "name": "Roh, Brash Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-122.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Roh",
+      "specialTrait": "God/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-123",
+      "name": "Jiren, Army of One",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-123.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Quadruple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your opponent has 4 or more energy : At the start of your Charge Phase, if this card is the only card in your hand, you may play this card from your hand."
+        }
+      ],
+      "power": "35000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-124",
+      "name": "Toppo, Justice Forsaken",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-124.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your opponent's Battle Cards, ignoring <BARRIER> , switch them to Rest Mode, then negate their skills for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is placed in a Drop Area from a Battle Area by a skill or KO'd, draw 2 cards."
+        }
+      ],
+      "power": "30000",
+      "character": "Toppo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-125",
+      "name": "Khai, Righteous Supremity",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-125.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your opponent has 3 or more energy in Active Mode, choose up to 1 of your opponent's energy and switch it to Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Khai",
+      "specialTrait": "God/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-126",
+      "name": "Giant Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-126.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "When the Battle Card is played, you may choose it and switch it to Rest Mode, then draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-127",
+      "name": "Universe 9, Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-127.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Draw 2 cards; if all of your opponent's energy is in Rest Mode, choose up to 1 《Universe 9》 card in your deck with an energy cost of 2 or less, play it, then shuffle your deck."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-128",
+      "name": "Justice Crush",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-128.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If your Leader Card has 《Universe》 in its special trait : If the Battle Card being played has an energy cost of 4 or less, it's played in Rest Mode with its skills negated for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-129",
+      "name": "Ice Lance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-129.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards with an energy cost greater than their current energy and negate its skills for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-130",
+      "name": "Triangle Danger Beam",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-130.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose 1 of your opponent's Battle Cards and negate its skills for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-131",
+      "name": "Son Goku, Strength of Legends",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-131.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 copy of this card can be played in your Battle Area, and this card can't <EVOLVE> into other cards."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If you have at least 1 mono-red, mono-blue, mono-green, and mono-yellow card in your Drop Area and have 4 or more energy : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Switch this card to Active Mode and it gains <CRITICAL> , <DOUBLE STRIKE> and <DUAL ATTACK> for the turn."
+        }
+      ],
+      "power": "35000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-132",
+      "name": "Saiyan Shield Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-132.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 5"
+          ],
+          "description": "When you play this card, activate this skill. Until the start of your next Main Phase, you only take 1 damage from <DOUBLE STRIKE> , <TRIPLE STRIKE> , and <QUADRUPLE STRIKE> ."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-133",
+      "name": "Vegeta, Strength of Legends",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-133.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Play this card from your hand, then choose up to 1 of your opponent's Battle Cards, ignoring <BARRIER> , and send it to its owner's Warp."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        }
+      ],
+      "power": "30000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-134",
+      "name": "Enraged Eminence Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-134.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 3 Battle Cards with energy costs between 3 and 7 in your Drop Area and place them at the bottom of your deck in any order : When you play this card, it gains <CRITICAL> and <DUAL ATTACK> for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-135",
+      "name": "Dynamic Blow Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-135.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card, then choose 1 card in your hand and place it at the bottom of your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-136",
+      "name": "Shin, Noble Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-136.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have 3 or less energy : When you play this card, activate this skill. Your opponent can't attack with Battle Cards with energy costs of 7 or more until the start of your next Main Phase."
+        }
+      ],
+      "power": "3000",
+      "character": "Shin",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-137",
+      "name": "Anilaza, the Towering Atrocity",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-137.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When this card is placed in a Drop Area from a Battle Area or Combo Area, it is placed at the bottom of its owner's deck instead."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Choose 1 of your black Battle Cards with an energy cost of 5 and send it to its owner's Warp : Play this card from your Drop Area."
+        }
+      ],
+      "power": "25000",
+      "character": "Anilaza",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-138",
+      "name": "Impregnable Fortress Anilaza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-138.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be switched to Rest Mode by your opponent's skills."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 4"
+          ],
+          "description": "When this card attacks, choose up to 2 of your opponent's Battle Cards and send them to their owners' Warps."
+        }
+      ],
+      "power": "30000",
+      "character": "Anilaza",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-139",
+      "name": "Paparoni, Brilliant Inventor ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-139.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates a <COUNTER> skill, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Paparoni",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-140",
+      "name": "Secret Technique Paparoni",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-140.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When this card is placed in a Drop Area from a Battle Area or Combo Area, it is placed at the bottom of its owner's deck instead."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Choose 1 of your black Battle Cards with an energy cost of 2 and send it to its owner's Warp : Play this card from your Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Paparoni",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-141",
+      "name": "Koichiarator, Menacing Assassin ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-141.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Revenge"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack Leader Cards."
+        }
+      ],
+      "power": "20000",
+      "character": "Koichiarator",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-142",
+      "name": "Koichiarator, the Ultimate Robot Fusion ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-142.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn",
+            "Burst 3"
+          ],
+          "description": "Draw 1 card."
+        }
+      ],
+      "power": "20000",
+      "character": "Koichiarator",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-143",
+      "name": "Koitsukai, Mechanical Courage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-143.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , remove this card in your Drop Area from the game, then choose up to 2 cards in your hand and place them at the bottom of your deck in any order : Draw cards equal to the number of cards you placed at the bottom of your deck with this skill, then, for the turn, if your opponent plays a Battle Card with 20000 power or less, they choose 2 cards from their hand and send them to their Warp."
+        }
+      ],
+      "power": "5000",
+      "character": "Koitsukai",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-144",
+      "name": "Panchia, Robo Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-144.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 2"
+          ],
+          "description": "When this card attacks, it gets +5000 power for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Panchia",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-145",
+      "name": "Bionic Battler Bollarator",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-145.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, play this card, then choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and send it to its owner's Warp."
+        }
+      ],
+      "power": "15000",
+      "character": "Bollarator",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-146",
+      "name": "Katopesla, Envoy of Justice",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-146.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |ONE| : 〈Katopesla〉 with an energy cost of 5."
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, switch this card to Active Mode."
+        }
+      ],
+      "power": "30000",
+      "character": "Katopesla",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-147",
+      "name": "Katopesla, Righteous Fury",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-147.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |TWO| : 〈Katopesla〉 with an energy cost of 4."
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and send it to its owner's Warp."
+        }
+      ],
+      "power": "25000",
+      "character": "Katopesla",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-148",
+      "name": "Katopesla, Sonic Justice",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-148.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |ONE| : 〈Katopesla〉 with an energy cost of 1."
+        },
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " |ONE| : When an opponent's Battle Card with an energy cost of 4 or less attacks, negate the attack, then negate this skill for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Katopesla",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-149",
+      "name": "Katopesla, Universe 3 Policeman",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-149.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck, choose up to 1 《Universe 3》 card among them, add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Katopesla",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-150",
+      "name": "Narirama",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-150.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Narirama",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-151",
+      "name": "Nigrisshi, from the Shadows",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-151.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When this card is placed in a Drop Area from a Battle Area or Combo Area, it is placed at the bottom of its owner's deck instead."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Choose 1 of your black Battle Cards with an energy cost of 3 and send it to its owner's Warp : Play this card from your Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Nigrisshi",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-152",
+      "name": "The Preecho",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-152.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "The Preecho",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-153",
+      "name": "Viara, Everlasting Assault",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-153.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When this card is placed in a Drop Area from a Battle Area or Combo Area, it is placed at the bottom of its owner's deck instead."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Choose 1 of your black Battle Cards with an energy cost of 4 and send it to its owner's Warp : Play this card from your Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Viara",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-154",
+      "name": "Majikayo, the Shapeshifter ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-154.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Revenge"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        }
+      ],
+      "power": "15000",
+      "character": "Majikayo",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-155",
+      "name": "Eyre, Intellectual Supremacy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-155.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        }
+      ],
+      "power": "5000",
+      "character": "Eyre",
+      "specialTrait": "God/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-156",
+      "name": "Jiren, Survival of the Fittest",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-156.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Play this card, draw 1 card, and cards in your hand can't be returned to your deck by your opponent's skills for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-157",
+      "name": "Vuon, the Righteous",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-157.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn",
+            "Burst 2"
+          ],
+          "description": " |ONE| : This card gets +10000 power until the start of your next Main Phase."
+        }
+      ],
+      "power": "5000",
+      "character": "Vuon",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-158",
+      "name": "Kahseral, the Righteous",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-158.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then your opponent chooses 1 card in their hand and sends it to their Warp."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 5"
+          ],
+          "description": "When this card attacks, choose up to 1 Leader Card and up to 1 Battle Card other than this card, and those cards get +5000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Kahseral",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-159",
+      "name": "Protector of the People",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-159.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, then you may choose 1 card in your hand and place it in your Drop Area. If you do, choose 1 of your Leader Cards and it gains the following effect for the turn:"
+        },
+        {
+          "modifiers": [],
+          "description": "・ When this card is attacked by a Battle Card, it gets +5000 power for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-160",
+      "name": "Not Even a Scratch",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-160.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , send this card from your Drop Area to your Warp : Draw 1 card."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-161",
+      "name": "Universe 3, Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-161.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Burst 3"
+          ],
+          "description": "Choose up to 2 black Battle Cards with energy costs of 2 or less in your Drop Area, and play them with their skills negated for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-162",
+      "name": "Bollarator's Elastic Strike!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-162.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your opponent's Battle Cards and send it to its owner's Warp, then choose 1 of your Battle Cards and send it to its owner's Warp."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-163",
+      "name": "The Final Mission",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-163.png",
+      "rarity": "Common[C]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 4 Battle Cards with energy costs between 3 and 7 in your Drop Area, and shuffle them into your deck : Choose all of your opponent's Battle Cards with 20000 power or less and send them to their owners' Warps."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-164",
+      "name": "Phantom Fist",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-164.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have 4 or more energy, you can activate this card from your hand by placing 1 red card in your hand in your Drop Area instead of paying this card's energy cost."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "At the start of your opponent's next Main Phase, choose up to 1 of your blue energy, switch it to Active Mode, then choose up to 1 of your opponent's Battle Cards and it gets -15000 power until the start of your next Main Phase."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-165",
+      "name": "Sleepy Boy Technique",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-165.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "EXTRA",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack, draw 2 cards, then choose up to 1 of your opponent's Battle Cards and return it to its owner's hand."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-166",
+      "name": "Arack & Cucatail, Universe 5 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-166.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 red card and 1 green card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": This card gets +14000 power and <DOUBLE STRIKE> until the start of your next Main Phase."
+        }
+      ],
+      "power": "16000",
+      "character": "Arack/Cucatail",
+      "specialTrait": "God/Universe 5",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-167",
+      "name": "Liquiir & Korun, Universe 8 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-167.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Alliance Red/Green"
+          ],
+          "description": "This card gains power equal to the total power of the cards switched to Rest Mode by this skill for the battle; draw 2 cards, then choose 2 of your opponent's Battle Cards and they get -20000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is red and you have red or green Battle Cards in play, reduce the energy cost of this card in your hand by 2."
+        }
+      ],
+      "power": "20000",
+      "character": "Liquiir/Korun",
+      "specialTrait": "God/Universe 8",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-168",
+      "name": "Iwne & Awamo, Universe 1 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-168.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 blue card and 1 yellow card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Choose up to 1 of your opponent's Battle Cards, place it at the bottom of its owner's deck, then at the start of your opponent's next Main Phase, choose up to 2 of your energy and switch them to Active Mode."
+        }
+      ],
+      "power": "16000",
+      "character": "Iwne/Awamo",
+      "specialTrait": "God/Universe 1",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-169",
+      "name": "Geene & Martinne, Universe 12 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-169.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If the Battle Card being played has an energy cost of 5 or less, negate its skills for the turn and play this card."
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Aegis Blue/Yellow",
+            "Once per turn"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When you activate <AEGIS BLUE/YELLOW> , draw 2 cards."
+        }
+      ],
+      "power": "19000",
+      "character": "Geene/Martinne",
+      "specialTrait": "God/Universe 12",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-170",
+      "name": "Quitela & Conic, Universe 4 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-170.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Offering"
+          ],
+          "description": ""
+        }
+      ],
+      "power": "20000",
+      "character": "Quitela/Conic",
+      "specialTrait": "God/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-171",
+      "name": "Sidra & Mohito, Universe 9 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-171.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 red card and 1 yellow card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Choose 1 of your opponent's Battle Cards or energy, switch it to Rest Mode, then choose up to 1 of your opponent's Battle Cards and it gets -20000 power for the turn."
+        }
+      ],
+      "power": "16000",
+      "character": "Sidra/Mohito",
+      "specialTrait": "God/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-172",
+      "name": "Mosco & Kampari, Universe 3 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-172.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Revive Blue/Green"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "KO this card : When your opponent plays a Battle Card, draw 1 card."
+        }
+      ],
+      "power": "25000",
+      "character": "Mosco/Kampari",
+      "specialTrait": "God/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-173",
+      "name": "Rumsshi & Kusu, Universe 10 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-173.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 blue card and 1 green card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Choose up to 1 of your opponent's Battle Cards, KO it, then draw 1 card."
+        }
+      ],
+      "power": "16000",
+      "character": "Rumsshi/Kusu",
+      "specialTrait": "God/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-174",
+      "name": "Beerus & Whis, Universe 7 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-174.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Invoker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have 3 or more energy : When one of your red or blue Battle Cards is removed from your Battle Area by an opponent's skill, play this card from your hand, and you can't play another copy of this card for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If it's your opponent's turn : When you play this card, at the end of the turn, place this card at the bottom of its owner's deck from the Battle Area, then draw 1 card."
+        }
+      ],
+      "power": "20000",
+      "character": "Beerus/Whis",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-175",
+      "name": "Champa & Vados, Universe 6 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-175.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 red card and 1 blue card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", return this card to its owner's hand : Choose up to 1 Extra Card in your deck with an energy cost of 3 or more, add it to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "16000",
+      "character": "Champa/Vados",
+      "specialTrait": "God/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-176",
+      "name": "Heles & Sawar, Universe 2 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-176.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When placing this card in your energy from any area, you may choose 1 green card and 1 yellow card in your Drop Area and send them to your Warp. If you do, negate this card's <ENERGY-EXHAUST> skill."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Choose up to 2 green or yellow Battle Cards in your hand with energy costs of 2 or less, play them with their skills negated for the turn, then your opponent chooses 1 card in their hand and places it in their Drop Area."
+        }
+      ],
+      "power": "16000",
+      "character": "Heles/Sawar",
+      "specialTrait": "God/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "DB2-177",
+      "name": "Belmod & Marcarita, Universe 11 Destroyer & Angel",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/DB2-177.png",
+      "rarity": "Destroyer & Angel Rare[DAR]",
+      "series": [
+        "DRAFT BOX 05",
+        "-Divine Multiverse-"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Successor"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have 5 or more energy : When you play this card, your opponent chooses 3 cards in their hand and places them in their Drop Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill, choose any number of Battle Cards in your Drop Area with energy costs of 2 or less for which the total cost adds up to 4 or less, and play them with their skills negated for the turn."
+        }
+      ],
+      "power": "30000",
+      "character": "Belmod/Marcarita",
+      "specialTrait": "God/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  }
+]

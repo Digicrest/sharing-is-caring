@@ -1,0 +1,208 @@
+[
+  {
+    "front": {
+      "id": "SD13-01",
+      "name": "Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can't include 《Saiyan》 cards in your deck."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 《Frieza's Army》 card in your Battle Area and place it in its owner's Drop Area : When this card attacks a Leader Card, your opponent chooses 1 card in their hand and discards it, then add up to 1 card from your life to your hand."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "SD13-01",
+      "name": "Last Resort Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 《Frieza's Army》 card in your Battle Area and place it in its owner's Drop Area : Choose 1 card in your opponent's hand, discard it, then choose up to 1 of your green Unison Cards and it gains <CRITICAL> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD13-02",
+      "name": "Frieza : Xeno, Darkness Overflowing",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "UNISON",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If this card would lose a marker from an opponent's attack, you may place 1 card from your life in your Drop Area instead."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Choose 1 card in your hand and discard it : Draw 1 card."
+        },
+        {
+          "modifiers": [
+            "UNISON -1",
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it, or choose up to 1 of their Unison Cards and remove a marker from it."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD13-03",
+      "name": "Ginyu, Frieza's Greatest Soldier",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your Leader Cards or green Unison Cards and it gets +10000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a green 〈Frieza〉 card : When this card is placed in a Drop Area from a Battle Area by a skill, you may return this card to its owner's hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD13-04",
+      "name": "Zarbon, Frieza's Right-Hand Man",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 green Unison Card with a specified cost of 2 or 1 green 《Frieza's Army》 card with an energy cost of 4 or less among them to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": ", if your Leader Card is a green 〈Frieza〉 card, you have a green Unison Card in play, and you send this card from your Drop Area to your Warp : Choose 1 of your Leader Cards or Unison Cards and it gets +10000 power for the battle."
+        }
+      ],
+      "power": "4000",
+      "character": "Zarbon",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD13-05",
+      "name": "Dodoria, Frieza's Devoted Servant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD13-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Clan Collusion~[DBS-SD13]"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a green 〈Frieza〉 card and you have a green Unison Card in play : If this card is placed in your Drop Area from your hand by a skill, you may play this card from your Drop Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is a green 〈Frieza〉 card and you have a green Unison Card in play : Add this card from your Drop Area to your hand."
+        }
+      ],
+      "power": "4000",
+      "character": "Dodoria",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  }
+]

@@ -1,0 +1,6001 @@
+[
+  {
+    "front": {
+      "id": "BT10-001",
+      "name": "Yamcha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-001.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 2 cards from the top of your deck, add up to 1 red card among them to your hand, then place any remaining cards in your Drop Area and this card gets +5000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 5 or less : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Yamcha",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {
+      "id": "BT10-001",
+      "name": "Yamcha, Supersonic Striker",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-001_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 2 cards from the top of your deck, add up to 1 red card among them to your hand, then place any remaining cards in your Drop Area and this card gets +5000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If you have a red Unison Card in play : When your opponent takes damage from non-keyword skills on your Battle Cards or Unison Cards, deal 1 damage to your opponent, then negate this skill for the game."
+        }
+      ],
+      "power": "15000",
+      "character": "Yamcha",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-002",
+      "name": "Pilaf",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-002.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less or you have 3 or more Battle Cards in play : You may switch up to 2 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Pilaf",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {
+      "id": "BT10-002",
+      "name": "Pilaf, Shu, and Mai Assemble!",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-002_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 3 of your Battle Cards and place them in their owners' Drop Areas : Choose 1 of your red Unison Cards and it gains <TRIPLE ATTACK> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Pilaf/Shu/Mai",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-003",
+      "name": "Vegito, Unison of Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-003.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose up to 1 mono-red Battle Card with an energy cost of 2 or less in your hand and play it."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Until the end of your opponent's next turn, if your opponent would play a Battle Card using a skill, it's placed in their Drop Area instead."
+        },
+        {
+          "modifiers": [
+            "UNISON -5",
+            "Activate Main"
+          ],
+          "description": "If your opponent doesn't have any Battle Cards in play : Deal 1 damage to your opponent."
+        }
+      ],
+      "power": "20000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-003_SPR",
+      "name": "Vegito, Unison of Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-003_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose up to 1 mono-red Battle Card with an energy cost of 2 or less in your hand and play it."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Until the end of your opponent's next turn, if your opponent would play a Battle Card using a skill, it's placed in their Drop Area instead."
+        },
+        {
+          "modifiers": [
+            "UNISON -5",
+            "Activate Main"
+          ],
+          "description": "If your opponent doesn't have any Battle Cards in play : Deal 1 damage to your opponent."
+        }
+      ],
+      "power": "20000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-004",
+      "name": "Syn Shenron, Unison of Calamity",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-004.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Your red cards can attack your opponent's Battle Cards in Active Mode."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 of your opponent's Battle Cards, and they get -15000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Look at your opponent's hand, choose up to 1 Battle Card with 25000 power or less from it and discard it."
+        }
+      ],
+      "power": "20000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-004_SPR",
+      "name": "Syn Shenron, Unison of Calamity",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-004_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Your red cards can attack your opponent's Battle Cards in Active Mode."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 of your opponent's Battle Cards, and they get -15000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Look at your opponent's hand, choose up to 1 Battle Card with 25000 power or less from it and discard it."
+        }
+      ],
+      "power": "20000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-005",
+      "name": "Vegeta, Elite Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-005.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, add a marker to it, then choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -1",
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your red Battle Cards or Leader Cards and it gets +5000 power and can attack your opponent's Battle Cards in Active Mode for the turn."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-006",
+      "name": "Son Goku, Savagery Awakened ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-006.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Place 2 cards from your life in your Drop Area : When this card is played, deal 1 damage to your opponent."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku: Childhood",
+      "specialTrait": "Saiyan/Great Ape",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-007",
+      "name": "Son Goku, Bursting with Energy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-007.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "Add 1 card from your life to your hand : When this card attacks a card that isn't a Leader Card, switch this card to Active Mode and it gets +10000 power for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku: Childhood",
+      "specialTrait": "Saiyan",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-008",
+      "name": "Yamcha, Merciless Barrage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-008.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : Choose up to 2 of your opponent's Battle Cards, they get -15000 power for the turn, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a red Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "15000",
+      "character": "Yamcha",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-008_SPR",
+      "name": "Yamcha, Merciless Barrage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-008_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : Choose up to 2 of your opponent's Battle Cards, they get -15000 power for the turn, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a red Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "15000",
+      "character": "Yamcha",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-009",
+      "name": "Yamcha, the Desert Hyena",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-009.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is red, this card gets +10000 power."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "During a battle where this card is attacking, when your opponent activates a <COUNTER> skill, switch this card to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card KOs an opponent's Battle Card, switch this card to Active Mode and it gets +10000 power and <TRIPLE STRIKE> for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Yamcha",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-010",
+      "name": "Master Roshi, Martial Virtuoso",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-010.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "If you have a red Unison Card in play : Your opponent can't attack with Battle Cards with 25000 power or more for the turn, then play this card."
+        }
+      ],
+      "power": "5000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-011",
+      "name": "Bulma the Bunny Girl",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-011.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When one of your red 《Earthling》 cards other than a 〈Bulma〉 card is removed from a Battle Area by an opponent's skill, you may play this card from your hand. If you do, play up to 1 red 《Earthling》-only Battle Card with an energy cost of 4 or less from your Drop Area."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-012",
+      "name": "Bulma, Out Adventuring",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-012.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is red and you and your opponent have a total of 8 or less life : When this card is used in a combo, draw 1 card, then if it's your turn, choose up to 1 red 《Earthling》 card with an energy cost of 1 in your hand and play it."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 of your mono-red Battle Cards or Unison Cards and it gets +5000 power for the turn."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-013",
+      "name": "Chi-Chi, Ox-King's Daughter",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-013.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is red and your life is at 4 or less : When this card is used in a combo, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Chi-Chi",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-014",
+      "name": "Innocent Princess Chi-Chi",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-014.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If you have a red Unison Card with 3 or more markers in play : Play this card from your hand."
+        }
+      ],
+      "power": "1000",
+      "character": "Chi-Chi",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-015",
+      "name": "Oolong, the Many-Faced",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-015.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, draw 1 card, then choose up to 1 of your red Unison Cards and it gets +5000 power for the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Oolong",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-016",
+      "name": "Oolong, Goku's Pal",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-016.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Place this card in its owner's Drop Area : Choose 1 of your red Unison Cards and it gets +10000 power for the battle."
+        }
+      ],
+      "power": "4000",
+      "character": "Oolong",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-017",
+      "name": "Puar, Yamcha's Sidekick",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-017.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If it's your turn : When this card is used in a combo with a red 〈Yamcha〉 card, it gets +5000 combo power for the battle."
+        }
+      ],
+      "power": "1000",
+      "character": "Puar",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-018",
+      "name": "Ox-King",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-018.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "30000",
+      "character": "Ox-King",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-019",
+      "name": "Pilaf, Plotting World Domination",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-019.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 red Unison Card with a specified cost of 4 or 1 red 《Earthling》 card with an energy cost of 4 or less among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Pilaf",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-020",
+      "name": "Pilaf, Dragon Ball Chaser",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-020.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 〈Pilaf〉 card and you have 3 or more mono-red energy : When this card is played from your hand, play up to 1 red 〈Mai〉 card and up to 1 red 〈Shu〉 card with energy costs of 2 from your deck, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Pilaf",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-021",
+      "name": "Shu, Pilaf's Admirer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-021.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Choose up to 1 red 〈Pilaf〉 or 〈Mai〉 card in your hand with an energy cost of 2 or less and play it."
+        }
+      ],
+      "power": "5000",
+      "character": "Shu",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-022",
+      "name": "Shu, Dragon Ball Chaser",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-022.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 〈Pilaf〉 card and you have 3 or more mono-red energy : When this card is played from your hand, play up to 1 red 〈Pilaf〉 card and up to 1 red 〈Mai〉 card with energy costs of 2 from your deck, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Shu",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-023",
+      "name": "Mai, the Gang's Femme Fatale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-023.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 《Earthling》 card with an energy cost of 4 or less among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Mai",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-024",
+      "name": "Mai, Dragon Ball Chaser",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-024.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 〈Pilaf〉 card and you have 3 or more mono-red energy : When this card is played from your hand, play up to 1 red 〈Pilaf〉 card and up to 1 red 〈Shu〉 card with energy costs of 2 from your deck, then shuffle your deck"
+        }
+      ],
+      "power": "15000",
+      "character": "Mai",
+      "specialTrait": "Earthling",
+      "era": "Pilaf Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-025",
+      "name": "Pilaf Machine, the Master Bot",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-025.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", send 1 〈Pilaf〉 card, 1 〈Mai〉 card, and 1 〈Shu〉 card from your Drop Area to your Warp : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 {Pilaf Machine, Ostrich Form} from your hand, Drop Area, or deck, play it, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "25000",
+      "character": "Pilaf Machine",
+      "specialTrait": "Earthling",
+      "era": "Fortuneteller Baba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-026",
+      "name": "Pilaf Machine, Ostrich Form",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-026.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", send 1 〈Pilaf〉 card and 1 〈Shu〉 card from your Drop Area to your Warp : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards and it gets -25000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Pilaf Machine",
+      "specialTrait": "Earthling",
+      "era": "Fortuneteller Baba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-027",
+      "name": "Mercenary Tao, Unequaled Assassin",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-027.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is red and you have 3 or more non-Token Battle Cards in play : Play this card from your hand and it gains <CRITICAL> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Mercenary Tao",
+      "specialTrait": "Earthling",
+      "era": "Mystical Adventure Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-028",
+      "name": "Pilaf's Castle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-028.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a red 〈Pilaf〉 card and you choose 2 cards from your hand and place them at the bottom of your deck in any order : When you activate this card, draw 3 cards."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Switch this card to Rest Mode, then choose 1 of your red Battle Cards and place it in its owner's Drop Area : Choose 1 of your Battle Cards and it gets +5000 power for the turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-029",
+      "name": "Pilaf Missile",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-029.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If you have a red Unison Card in play : If the Battle Card being played has 15000 power or less, it's placed in its owner's Drop Area instead of being played, then choose up to 1 of your Leader Cards and it gets +5000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is mono-red, you can activate this card's <COUNTER> skill from your hand without paying its energy cost by choosing 2 other cards in your hand and discarding them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-030",
+      "name": "Wolf Fang Fist",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-030.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "If your Leader Card is mono-red : Choose up to 1 attacking Battle Card or Leader Card, ignoring <BARRIER> , and it gets -15000 power for the battle."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a red Unison Card in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-031",
+      "name": "Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-031.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if you would add a card from your life to your hand or place it in your Drop Area, you may reveal it and add it to your hand instead."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life or your opponent's life is at 4 or less : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {
+      "id": "BT10-031",
+      "name": "SS2 Trunks, Envoy of Justice",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-031_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if you would add a card from your life to your hand or place it in your Drop Area, you may reveal it and add it to your hand instead."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck; at the end of the turn, switch up to 1 of your mono-blue energy to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-032",
+      "name": "Potara-Fused Zamasu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-032.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less or you have 4 or more energy : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {
+      "id": "BT10-032",
+      "name": "Fused Zamasu, Divine Ruinbringer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-032_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Place 1 of your energy in its owner's Drop Area : Choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ This card gains <DUAL ATTACK> for the turn."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-033",
+      "name": "SS Gotenks, Absolute Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-033.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "UNISON -3",
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 of your opponent's Battle Cards, ignoring <BARRIER> , and place them at the bottom of their owners' decks in any order."
+        }
+      ],
+      "power": "20000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-034",
+      "name": "Supreme Kai of Time, Unison of History",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-034.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If your Leader Card is a blue 〈Trunks : Future〉 card and you add 1 card from your life to your hand : At the end of the turn, switch up to 1 of your mono-blue energy to Active Mode."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Add 1 card in your life to your hand, then choose 1 card from your hand and place it in your life."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-035",
+      "name": "Zen-Oh, Cosmic Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-035.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON +2",
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is mono-blue : Place the top card of your deck in your energy; you can't place cards in your Energy Area for the turn, then, at the end of the turn, place the card you placed in your energy with this skill in its owner's Drop Area."
+        },
+        {
+          "modifiers": [
+            "UNISON -5",
+            "Activate Main"
+          ],
+          "description": "Choose all cards in all Battle Areas, ignoring <BARRIER> , and shuffle them into their owners' decks."
+        }
+      ],
+      "power": "9000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-035_SPR",
+      "name": "Zen-Oh, Cosmic Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-035_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON +2",
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is mono-blue : Place the top card of your deck in your energy; you can't place cards in your Energy Area for the turn, then, at the end of the turn, place the card you placed in your energy with this skill in its owner's Drop Area."
+        },
+        {
+          "modifiers": [
+            "UNISON -5",
+            "Activate Main"
+          ],
+          "description": "Choose all cards in all Battle Areas, ignoring <BARRIER> , and shuffle them into their owners' decks."
+        }
+      ],
+      "power": "9000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-036",
+      "name": "SSB Son Goku, Hope for Victory",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-036.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if all of your energy is mono-blue and you would reveal this card from your life to add it to your hand, you may place it in your energy in Rest Mode instead. If you do, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your next turn after you place this card in your energy with this skill, if this card is in your energy, place it in its owner's Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-037",
+      "name": "Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-037.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-038",
+      "name": "Son Goku, Warrior That Crossed Time",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-038.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a blue 〈Trunks : Future〉 card and you return this card to its owner's hand : At the end of your opponent's turn, if you haven't added life to your hand due to an opponent's attack this turn, choose up to 1 {SSB Son Goku, Hope for Victory} in your hand and play it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If this card is removed from a Battle Area by a skill, choose up to 1 {SSB Son Goku, Hope for Victory} in your hand and place it in your energy."
+        }
+      ],
+      "power": "4000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-039",
+      "name": "Son Gohan, Accelerated Slam",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-039.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is blue and your life is at 4 or less : When this card is used in a combo, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-040",
+      "name": "SSB Vegeta, Blaze of Passion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-040.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if all of your energy is mono-blue and you would reveal this card from your life to add it to your hand, you may place it in your energy in Rest Mode instead. If you do, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your next turn after you place this card in your energy with this skill, if this card is in your energy, place it in its owner's Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-041",
+      "name": "Vegeta, Savior of the Future",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-041.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Add 1 card from your life to your hand : When this card attacks, it gets +10000 power and <DOUBLE STRIKE> for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-042",
+      "name": "Vegeta, Warrior That Crossed Time",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-042.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if your Leader Card is a blue 〈Trunks : Future〉 card, reduce the energy cost of this card in your hand by 2."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-043",
+      "name": "SS2 Trunks, for a Brighter Future",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-043.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a blue Unison Card in play, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a blue 〈Trunks : Future〉 card : At the end of your opponent's turn, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": ": This card gets +10000 power and <TRIPLE STRIKE> for the battle."
+        }
+      ],
+      "power": "20000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-044",
+      "name": "SS Trunks, God-Sealing Technique",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-044.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : You may discard this card from your hand. If you do, the Battle Card being played is returned to its owner's hand instead. If you don't, play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a blue Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-044_SPR",
+      "name": "SS Trunks, God-Sealing Technique",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-044_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : You may discard this card from your hand. If you do, the Battle Card being played is returned to its owner's hand instead. If you don't, play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a blue Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-045",
+      "name": "SSB Vegito, Paralyzing Prowess",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-045.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect",
+            "Triple Strike",
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": ": 〈Vegito〉 with an energy cost of 5."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a blue 〈Trunks : Future〉 card : When this card is played or attacks, your opponent chooses 2 cards in their hand and places them at the bottom of their deck in any order."
+        }
+      ],
+      "power": "35000",
+      "character": "Vegito",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-046",
+      "name": "Vegito, Infinite Radiance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-046.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect",
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Potara"
+          ],
+          "description": "Blue 〈Son Goku〉 and blue 〈Vegeta〉"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have 4 or more energy, you can choose Battle Cards in your energy when choosing cards to use with this card's <UNION> skill from your hand."
+        }
+      ],
+      "power": "25000",
+      "character": "Vegito",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-047",
+      "name": "Bulma, Master Scientist",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-047.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if all of your energy is mono-blue, if you would reveal this card from your life to add it to your hand, you may play it instead."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 blue 〈Son Goku〉, 〈Vegeta〉, or 〈Trunks : Future〉 card among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma: Future",
+      "specialTrait": "Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-048",
+      "name": "Mai, Bulwark of the Future",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-048.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 blue Unison Card with a specified cost of 2 or 1 blue 〈Trunks : Future〉 card among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Mai: Future",
+      "specialTrait": "Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-049",
+      "name": "Respectful Master Gowasu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-049.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 7 cards from the top of your deck, add up to 1 blue 〈Zamasu〉 card among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Gowasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-050",
+      "name": "Goku Black Rose, Lofty Aspirations",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-050.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |ONE| : Blue 〈Goku Black〉."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When choosing a card to use with this card's <EVOLVE> skill from your hand, you can choose a Battle Card in your energy, then play this card in Active Mode."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a blue 〈Zamasu〉 or 〈Goku Black〉 card and your opponent has 5 or more energy : When a card evolves into this card, place up to 2 of your opponent's energy in their owners' Drop Areas."
+        }
+      ],
+      "power": "30000",
+      "character": "Goku Black",
+      "specialTrait": "Saiyan/God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-051",
+      "name": "Goku Black, Future Decimator",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-051.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a blue 〈Zamasu〉 or 〈Goku Black〉 card : Place this card in your energy from your hand, and you can't place cards in your energy or play cards other than mono-blue 〈Zamasu〉 or 〈Goku Black〉 cards for the turn; at the end of the turn, if this card is in your energy, place it in its owner's Drop Area."
+        }
+      ],
+      "power": "10000",
+      "character": "Goku Black",
+      "specialTrait": "Saiyan/God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-052",
+      "name": "Fused Zamasu, the Divine Immortal",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-052.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Indestructible",
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": ": Blue 〈Zamasu〉 card with an energy cost of 5."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Place this card in its owner's Drop Area : Activate up to 1 {Tragedy Overground} from your hand, Drop Area, deck, or Energy Area, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "35000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-053",
+      "name": "Fused Zamasu, Advocate for Evil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-053.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Indestructible"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Potara"
+          ],
+          "description": "Blue 〈Zamasu〉 and blue 〈Goku Black〉."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have 3 or more energy, you can choose Battle Cards in your energy when choosing cards to use with this card's <UNION> skill from your hand."
+        }
+      ],
+      "power": "24000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-054",
+      "name": "Zamasu, Cosmic Traitor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-054.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a blue 〈Zamasu〉 or 〈Goku Black〉 card : When this card is played from your hand, place the top card of your deck in your energy, then at the end of the turn, if the card you placed in your energy with this skill is in your energy, place it in its owner's Drop Area. If the card you placed in your energy with this skill isn't in your energy, place 1 card from your energy in its owner's Drop Area."
+        }
+      ],
+      "power": "5000",
+      "character": "Zamasu",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-055",
+      "name": "Zen-Oh, Edge of Space",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-055.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is blue, your life is at 5 or less, and it's your opponent's turn : When this card is used in a combo, you may add 1 card from your energy to your hand. If you do, place 1 card from your hand in your energy."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, draw 1 card."
+        }
+      ],
+      "power": "4000",
+      "character": "Zen-Oh",
+      "specialTrait": "God",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-056",
+      "name": "Final Hope Slash",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-056.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "If your Leader Card is mono-blue : Switch up to 1 of your mono-blue energy to Active Mode, then choose up to 1 of your opponent's Battle Cards with 15000 power or less, ignoring <BARRIER> , and return it to its owner's hand."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a blue Unison Card in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-057",
+      "name": "God-Slicing Black Kamehameha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-057.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If you have a blue Unison Card in play : Draw 1 card; if the Battle Card being played has an energy cost of 4 or less, it's placed at the bottom of its owner's deck instead of being played."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is mono-blue, you can activate this card's <COUNTER> skill from your hand without paying its energy cost by choosing 2 other cards in your hand and discarding them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-058",
+      "name": "Tragedy Overground",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-058.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be removed from your Battle Area by the skills of your opponent's Battle Cards."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When your opponent plays a Battle Card with an energy cost of 4 or more, it is placed it in its owner's energy in Rest Mode instead."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is activated, choose all of your opponent's Battle Cards, ignoring <BARRIER> , and place them in their owners' energy in Rest Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-059",
+      "name": "Absolute Confidence",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-059.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "Choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less, return it to its owner's hand, and draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your opponent's Unison Cards and remove a marker from it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-060",
+      "name": "Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-060.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When one of your Battle Cards is KO'd, you may flip this card over. If you do, draw 1 card, then switch up to 1 of your energy to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 2 cards, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "BT10-060",
+      "name": "Ferocious Strike SS Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-060_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 3"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle",
+            "Once per turn"
+          ],
+          "description": "Place 2 cards from your life in your Drop Area : Choose all of your Battle Cards and your opponent's Battle Cards, ignoring <BARRIER> , and place them in their owners' Drop Areas."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-061",
+      "name": "Ginyu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-061.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, reveal the top card of your deck; if it's a green 《Ginyu Force》 card with an energy cost of 2, you may play it. Then draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less or you have 4 or more 《Ginyu Force》 cards in play in your Battle Area : You may draw 2 cards, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {
+      "id": "BT10-061",
+      "name": "Ginyu, New Leader of the Force",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-061_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, reveal the top card of your deck; if it's a green 《Ginyu Force》 card with an energy cost of 2, you may play it. Then draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": ": Choose 1 green 《Ginyu Force》 card in your Battle Area and it gets +10000 power for the battle."
+        }
+      ],
+      "power": "15000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-062",
+      "name": "SS Bardock, Paternal Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-062.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your opponent combos, you may place up to 1 card from their Combo Area in its owner's Drop Area. If you do, negate this skill for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "You may choose 1 of your green Battle Cards with an energy cost of 1 and KO it. If you do, your opponent chooses 1 card in their hand and discards it."
+        },
+        {
+          "modifiers": [
+            "UNISON -3",
+            "Activate Main"
+          ],
+          "description": "This card gets +5000 power and <TRIPLE ATTACK> for the turn."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-062_SPR",
+      "name": "SS Bardock, Paternal Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-062_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your opponent combos, you may place up to 1 card from their Combo Area in its owner's Drop Area. If you do, negate this skill for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "You may choose 1 of your green Battle Cards with an energy cost of 1 and KO it. If you do, your opponent chooses 1 card in their hand and discards it."
+        },
+        {
+          "modifiers": [
+            "UNISON -3",
+            "Activate Main"
+          ],
+          "description": "This card gets +5000 power and <TRIPLE ATTACK> for the turn."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-063",
+      "name": "Golden Frieza, Unison of Malice",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-063.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose 1 card in your hand, place it on top of your deck, and this card gains <CRITICAL> for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Until the end of your opponent's next turn, your opponent can't attack with Battle Cards unless they choose 1 of their Battle Cards with an energy cost of 2 or more and place it in its owner's Drop Area."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-064",
+      "name": "Demigra, Unison of Sorcery",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-064.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If this card would lose a marker from an opponent's attack, you may add 1 card from your life to your hand instead."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "This card gets +10000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -3",
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards, KO it, then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less, ignoring <BARRIER> , and KO it."
+        }
+      ],
+      "power": "5000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-065",
+      "name": "SS Son Goku, Pride of the Saiyans",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-065.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be removed from Battle Areas by skills."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If there is a 〈Son Goku〉 card with an energy cost of 4 under this card and this card is in Rest Mode : When your opponent plays a Battle Card with an energy cost of 5 or less, they choose 2 cards in their hand and discard them."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose all of your opponent's Battle Cards, ignoring <BARRIER> , and KO them."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-066",
+      "name": "Intensive Training Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-066.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect",
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate: Main/Battle"
+          ],
+          "description": "If your Leader Card is a green ＜Son Goku＞ card and you send a total of 5 green 〈Son Gohan : Youth〉 , 〈Vegeta〉, 〈Bulma〉, 〈Krillin〉, and/or 〈Piccolo〉 cards from your Drop Area to your Warp : Choose up to 1 mono-green 〈Son Goku〉 card with an energy cost of 5 in your deck or hand, play it on top of this card, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-067",
+      "name": "Son Gohan, Potential Unlocked",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-067.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green and you have a green Unison Card with a specified cost of 2 in play, you can play this card from your hand without paying its energy cost."
+        }
+      ],
+      "power": "4000",
+      "character": "Son Gohan: Youth",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-068",
+      "name": "Vegeta, the Lone Prince",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-068.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't be played with skills from any area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is green and your life is at 4 or less : When this card is used in a combo, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is mono-green : When this card is played, your opponent chooses 1 card in their hand and discards it."
+        }
+      ],
+      "power": "4000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-069",
+      "name": "Ultimate Power Piccolo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-069.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a green 〈Son Goku〉 card : When this card is played, choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・ This card gets +10000 power for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-070",
+      "name": "Krillin, Potential Unlocked",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-070.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if your Leader Card is a green 〈Son Goku〉 card and your life is at 4 or less, increase the energy cost of this card in all areas by 3."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Look at up to 5 cards from the top of your deck, add up to 1 green Unison Card with a specified cost of 2 among them to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [],
+          "description": "・ This card gains <BLOCKER> until the start of your next turn."
+        }
+      ],
+      "power": "4000",
+      "character": "Krillin",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-071",
+      "name": "Bulma, Life on Namek",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-071.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 green Unison Card with a specified cost of 2 or 1 green 《Saiyan》 card with an energy cost of 3 or less among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma",
+      "specialTrait": "Earthling",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-072",
+      "name": "Frieza, Cosmic Horror",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-072.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose up to 1 of your opponent's Battle Cards and KO it."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose up to 1 of your opponent's Unison Cards and remove a marker from it."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-073",
+      "name": "Frieza, Terrifying Transformation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-073.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Choose up to 1 green 〈Frieza〉 card with an energy cost of 4 in your hand or Drop Area and play it on top of this card in Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-074",
+      "name": "Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-074.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-075",
+      "name": "Frieza, Charismatic Villain",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-075.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When you have a green Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards with an energy cost of 7 or less and KO it."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-075_SPR",
+      "name": "Frieza, Charismatic Villain",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-075_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When you have a green Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards with an energy cost of 7 or less and KO it."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "-"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-076",
+      "name": "Ginyu, Backbone of the Force",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-076.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If you have at least 1〈Recoome〉, 〈Jeice〉, 〈Burter〉, and 〈Guldo〉 card in play : Play this card from your hand, and you can't play copies of this card for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards and gain control of it; if you gained control of a card, give control of this card to your opponent."
+        }
+      ],
+      "power": "15000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-077",
+      "name": "Ginyu the Bodysnatcher",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-077.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gets -10000 power during your opponent's turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 Battle Card you gained control of from your opponent with one of your card's skills and place it in its owner's Drop Area : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a green 《Ginyu Force》 card : When this card is played, choose all green 《Ginyu Force》 cards in your Battle Area and they get +10000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Ginyu",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-078",
+      "name": "Recoome the Musclehead",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-078.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 《Ginyu Force》 card : When this card is played, choose up to 1 green 《Ginyu Force》 card with an energy cost of 2 in your hand and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Recoome",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-079",
+      "name": "Jeice, Second in Command",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-079.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 3 cards from the top of your deck, add up to 1 《Ginyu Force》 card among them to your hand, then place the remaining cards on the top and/or bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Jeice",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-080",
+      "name": "Burter, Fastest in the Universe",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-080.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, switch this card to Active Mode, then look at up to 3 cards from the top of your deck and place them on the top and/or bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Burter",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-081",
+      "name": "Guldo, Psycho Psychic",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-081.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a 《Ginyu Force》 card and you discard this card from your hand : Look at up to 3 cards from the top of your deck and place them on the top and/or bottom of your deck in any order."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Look at up to 5 cards from the top of your deck and place them on the top and/or bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Guldo",
+      "specialTrait": "Ginyu Force/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-082",
+      "name": "Dodoria, Brimming with Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-082.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If your Leader Card is mono-green and you have a green Unison Card in play : If the Battle Card being played has an energy cost of 2 or less, it's placed in its owner's Drop Area instead of being played, then play this card."
+        }
+      ],
+      "power": "5000",
+      "character": "Dodoria",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-083",
+      "name": "Dodoria the Cold-Blooded",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-083.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Add 1 card from your life to your hand : When this card attacks, it gets +10000 power and <DOUBLE STRIKE> for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Dodoria",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-084",
+      "name": "Zarbon, Victory Over Beauty",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-084.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played during your opponent's turn, choose up to 1 of your opponent's Battle Cards, KO it, then choose up to 1 card in your opponent's hand and discard it."
+        }
+      ],
+      "power": "20000",
+      "character": "Zarbon",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-085",
+      "name": "Zarbon the Gorgeous",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-085.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is green and your life is at 4 or less : When this card is used in a combo, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Zarbon",
+      "specialTrait": "Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-086",
+      "name": "Frieza, Dark Infestation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-086.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your opponent has 3 or more energy : When this card is removed from a Battle Area by a skill or KO'd, add up to 1 green Extra Card with an energy cost of 1 or less from your Drop Area to your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card in its owner's Drop Area : Choose up to 1 card in your opponent's hand and discard it."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza: Xeno",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-087",
+      "name": "Frieza the Power Monger",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-087.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your opponent has 3 or more energy : When this card is removed from a Battle Area by a skill or KO'd, add up to 1 green Extra Card with an energy cost of 1 or less from your Drop Area to your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": " |TWO| : This card gets +15000 power and <DOUBLE STRIKE> for the battle."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza: Xeno",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-088",
+      "name": "Dormant Potential Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-088.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "If your Leader card is mono-green : Choose any number of your opponent's Battle Cards that add up to a total energy cost of 2 or less and KO them. Additionally, you may choose 1 green card in your hand and discard it. If you do, your opponent can only attack once more this turn."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a green Unison Card in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-089",
+      "name": "Blue Impulse",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-089.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is green and you have a green Unison Card in play, reduce the energy cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your opponent played a Battle Card this turn, choose all of your opponent's Battle Cards and KO them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-090",
+      "name": "Dark Death Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-090.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If you have a green Unison Card in play : If the Battle Card being played has an energy cost of 4 or less, it's placed in its owner's Drop Area instead of being played, then choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and KO it."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is mono-green, you can activate this card's <COUNTER> skill from your hand without paying its energy cost by choosing 2 other cards in your hand and discarding them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-091",
+      "name": "One-Star Ball, Parasitic Darkness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-091.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Dark Dragon Ball》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose 1 of your cards and it gets +5000 power for the battle."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 〈Frieza〉 card with an energy cost of 4 in your Battle Area and place this card under it : Play up to 1 green 〈Frieza : Xeno〉 card in your deck or hand on top of the chosen card in Active Mode, then shuffle your deck if you looked through it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-092",
+      "name": "Gotenks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-092.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, add up to 1 card from your life to your hand, then draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "If your opponent has 1 or more energy : When your opponent activates an Extra Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may switch up to 2 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {
+      "id": "BT10-092",
+      "name": "SS Gotenks, Display of Mastery",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-092_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates an Extra Card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When you activate <UNION-FUSION> , this card gets +5000 power and <CRITICAL> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Gotenks : Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-093",
+      "name": "Syn Shenron",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-093.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, look at up to 5 cards from the top of your deck, add up to 1 《Shadow Dragon》 card among them to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, choose up to 1 yellow 《Shadow Dragon》 card in your Battle Area and switch it to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 3 or less, or you have a yellow Unison Card with a specified cost of 4 in play : You may draw 2 cards, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Syn Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {
+      "id": "BT10-093",
+      "name": "Syn Shenron, Negative Energy Overflow",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-093_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, choose all yellow 《Shadow Dragon》 cards in your Battle Area and switch them to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Play up to 7 《Shadow Dragon》 cards with different card names from your Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Syn Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "BT10-094",
+      "name": "SS Broly, Legendary Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-094.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "UNISON 0",
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards, ignoring <BARRIER> , and switch it to Rest Mode."
+        },
+        {
+          "modifiers": [
+            "UNISON -1",
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less in Rest Mode and KO it."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-095",
+      "name": "SS Gogeta, Dynamic Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-095.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is in Rest Mode, your mono-yellow Leader Cards get +5000 power during your opponent's turn."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates an Extra Card, add a marker to this card."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "You may choose 2 yellow cards in your hand and discard them. If you do, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "UNISON -4",
+            "Activate Main"
+          ],
+          "description": "During your opponent's next Charge Phase, your opponent can only switch up to 2 energy to Active Mode."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-095_SPR",
+      "name": "SS Gogeta, Dynamic Unison",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-095_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is in Rest Mode, your mono-yellow Leader Cards get +5000 power during your opponent's turn."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates an Extra Card, add a marker to this card."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "You may choose 2 yellow cards in your hand and discard them. If you do, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "UNISON -4",
+            "Activate Main"
+          ],
+          "description": "During your opponent's next Charge Phase, your opponent can only switch up to 2 energy to Active Mode."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-096",
+      "name": "Mechikabura, Plotting Revival",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-096.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card loses markers due to an opponent's attack, choose up to 1 of your opponent's cards and switch it to Rest Mode."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose 1 of your opponent's Battle Cards in Rest Mode, ignoring <BARRIER> , and that card can't be switched to Active Mode until the end of your opponent's next turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -4",
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards, gain control of it, and switch it to Active Mode."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-097",
+      "name": "Son Goku, Absolute Annihilation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-097.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect",
+            "Barrier",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is yellow, your opponent can't activate Extra Cards unless they switch 1 of their energy to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-098",
+      "name": "Technique Chain Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-098.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is a yellow 《Saiyan》 card and your opponent has 3 or more energy : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Play up to 1 {Son Goku, Absolute Annihilation} from your deck on top of this card in Active Mode, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-099",
+      "name": "Son Goku, Adventure into the Unknown",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-099.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Add 1 card from your life to your hand : When this card attacks, it gets +10000 power and <CRITICAL> for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-100",
+      "name": "Counterblast Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-100.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is yellow and your life is at 4 or less : When this card is used in a combo, choose one?"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・ During your turn, if your opponent has 5 or more cards in Rest Mode, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less in Rest Mode and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "4000",
+      "character": "Son Gohan: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-101",
+      "name": "Son Goten, Flash of Brilliance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-101.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 〈Gotenks : Adolescence〉 card and you choose 1 yellow card in your hand and discard it : Add this card from your Drop Area to your hand, and you can't activate the <ACTIVATE MAIN> skill on copies of this card for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goten: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-102",
+      "name": "Son Goten the Eager",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-102.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 〈Gotenks : Adolescence〉 card and you discard this card from your hand : Add up to 1 yellow 〈Trunks : GT〉 card with 15000 power and an energy cost of 3 from your deck to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goten: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-103",
+      "name": "Pan the Earnest",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-103.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 2 yellow 〈Son Goten : GT〉, 〈Trunks : GT〉, and/or 〈Gotenks : Adolescence〉 cards among them to your hand; shuffle your deck, then choose 1 card in your hand and discard it if you added 2 cards to your hand."
+        }
+      ],
+      "power": "5000",
+      "character": "Pan",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-104",
+      "name": "Pan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-104.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Pan",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-105",
+      "name": "Vegeta, Prideful Transformation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-105.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : The Battle Card being played is played in Rest Mode, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a yellow Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "14000",
+      "character": "Vegeta: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-105_SPR",
+      "name": "Vegeta, Prideful Transformation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-105_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "You can't activate the <COUNTER PLAY> skills of other cards for the turn : The Battle Card being played is played in Rest Mode, then play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a yellow Unison Card with 2 or more markers in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ],
+      "power": "14000",
+      "character": "Vegeta: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-106",
+      "name": "Vegeta, Earthbound Pride",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-106.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is yellow and your life is at 4 or less : When this card is used in a combo, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-107",
+      "name": "Vegeta the Impregnable",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-107.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 yellow Unison Card with a specified cost of 2 or 1 yellow 《Saiyan》 card with an energy cost of 3 or less among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Vegeta: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-108",
+      "name": "Trunks, Flash of Brilliance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-108.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 〈Gotenks : Adolescence〉 card and you choose 1 yellow card in your hand and discard it : Add this card from your Drop Area to your hand, and you can't activate the <ACTIVATE MAIN> skill on copies of this card for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-109",
+      "name": "Trunks the Eager",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-109.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 〈Gotenks : Adolescence〉 card and you discard this card from your hand : Add up to 1 yellow 〈Son Goten : GT〉 card with 15000 power and an energy cost of 3 from your deck to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: GT",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-110",
+      "name": "Gotenks, Going All-Out",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-110.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike",
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Fusion"
+          ],
+          "description": ", draw 2 cards : Yellow 〈Son Goten : GT〉 and yellow 〈Trunks : GT〉."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards in Rest Mode, ignoring <BARRIER> , negate its skills for the turn, then KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-110_SPR",
+      "name": "Gotenks, Going All-Out",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-110_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike",
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Fusion"
+          ],
+          "description": ", draw 2 cards : Yellow 〈Son Goten : GT〉 and yellow 〈Trunks : GT〉."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards in Rest Mode, ignoring <BARRIER> , negate its skills for the turn, then KO it."
+        }
+      ],
+      "power": "25000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-111",
+      "name": "Gotenks, Overwhelming Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-111.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Fusion"
+          ],
+          "description": ": Yellow 〈Son Goten : GT〉 and yellow 〈Trunks : GT〉."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards, negate its skills for the turn, and draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card at the bottom of its owner's deck : Add up to 1 yellow 〈Son Goten : GT〉 card and up to 1 yellow 〈Trunks : GT〉 card from your Drop Area to your hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-112",
+      "name": "Gotenks, the Power of Fusion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-112.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Fusion"
+          ],
+          "description": ": Yellow 〈Son Goten : GT〉 and yellow 〈Trunks : GT〉."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Battle Cards in Rest Mode, KO it, and draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place this card at the bottom of its owner's deck : Add up to 1 yellow 〈Son Goten : GT〉 card and up to 1 yellow 〈Trunks : GT〉 card from your Drop Area to your hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-113",
+      "name": "Bulma, Devoted Supporter",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-113.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If your Leader Card is mono-yellow and you have a yellow Unison Card in play : If the Battle Card being played has an energy cost of 2 or less, it has its skills negated for the turn before being played, then play this card."
+        }
+      ],
+      "power": "1000",
+      "character": "Bulma: GT",
+      "specialTrait": "Earthling",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-114",
+      "name": "Giru, the Dragon Ball Discoverer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-114.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, look at up to 5 cards from the top of your deck, add up to 1 yellow Unison Card with a specified cost of 4 or 1 yellow Battle Card with an energy cost of 1 among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Giru",
+      "specialTrait": "Machine Mutant",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-115",
+      "name": "Syn Shenron, Destruction Incarnate",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-115.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker",
+            "Revenge"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": ": 〈Syn Shenron〉 with an energy cost of 4."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your opponent plays a Battle Card, you may choose that Battle Card, ignoring <BARRIER> , and negate its skills for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, draw 2 cards, then play up to 1 {Negative Energy One-Star Ball} from your Drop Area."
+        }
+      ],
+      "power": "30000",
+      "character": "Syn Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-116",
+      "name": "Syn Shenron, Shadow Dragon Leader",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-116.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill, draw 1 card, then play up to 1 {Negative Energy One-Star Ball} from your Drop Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, choose up to 1 of your opponent's Leader Cards in Rest Mode or Battle Cards with an energy cost of 4 or less in Rest Mode, and it can't attack until the end of your opponent's next turn."
+        }
+      ],
+      "power": "19000",
+      "character": "Syn Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-117",
+      "name": "Haze Shenron, Venomous Mist",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-117.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": ": 〈Haze Shenron〉 with an energy cost of 3."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, switch this card to Active Mode, and you can't play copies of this card for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 《Shadow Dragon》 card and you choose 1 《Shadow Dragon》 card in your hand and discard it : When this card attacks or is used in a combo, choose 1 of your opponent's Battle Cards in Rest Mode with an energy cost greater than their current energy and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Haze Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-118",
+      "name": "Haze Shenron, the Poisonmancer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-118.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, add up to 1 《Shadow Dragon》 card with an energy cost of 4 or less from your Drop Area to your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Haze Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-119",
+      "name": "Negative Energy One-Star Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-119.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack and isn't affected by your opponent's skills."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is a 《Shadow Dragon》 card and you place this card in its owner's Drop Area : Choose up to 1 〈Syn Shenron〉 card with an energy cost between 2 and 4 in your deck or hand, play it, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "1",
+      "character": "Syn Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-120",
+      "name": "Negative Energy Two-Star Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-120.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack and isn't affected by your opponent's skills."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is a 《Shadow Dragon》 card and you place this card in its owner's Drop Area : Choose up to 1 〈Haze Shenron〉 card with an energy cost of 2 or 3 in your deck or hand, play it, then shuffle your deck if you looked through it."
+        }
+      ],
+      "power": "1",
+      "character": "Haze Shenron",
+      "specialTrait": "Shadow Dragon",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-121",
+      "name": "Dark Dragon-Slaying Bullet",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-121.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If you have a yellow Unison Card in play : If the Battle Card being played has an energy cost of 4 or less, it has its skills negated for the turn and is played in Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If all of your energy is mono-yellow, you can activate this card's <COUNTER> skill from your hand without paying its energy cost by choosing 2 other cards from your hand and discarding them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-122",
+      "name": "Burning Kamehameha",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-122.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is yellow and you have a yellow Unison Card in play, reduce the energy cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your opponent has 4 or more cards in Rest Mode : Choose 1 of your opponent's Battle Cards in Rest Mode and KO it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-123",
+      "name": "Released from Evil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-123.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "If your Leader Card is mono-yellow : Choose the attacking card, ignoring <BARRIER> , negate its skills for the turn, and it can't be switched to Active Mode until the start of your next turn."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a yellow Unison Card in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-124",
+      "name": "Two-Star Ball, Parasitic Darkness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-124.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Dark Dragon Ball》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose 1 of your cards and it gets +5000 power for the battle."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your 〈Cell〉 cards with an energy cost of 7 or 9 and place this card under it : Choose up to 1 green 〈Cell : Xeno〉 card with an energy cost of 9 in your deck or hand, play it, then shuffle your deck if you looked through it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-125",
+      "name": "Shenron, Unison of Rescue",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-125.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "UNISON",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack, and if it would lose a marker from an attack, you may place 1 card from your life in your Drop Area instead."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "You may choose 1 of your skill-less Battle Cards. If you do, that card gains <DOUBLE STRIKE> for the turn, then draw 1 card."
+        },
+        {
+          "modifiers": [
+            "UNISON 0",
+            "Activate Main"
+          ],
+          "description": "If you have no skill-less Battle Cards in play : Play 1 skill-less Battle Card with an energy cost of 2 or less from your Drop Area."
+        },
+        {
+          "modifiers": [
+            "UNISON -7",
+            "Activate Main"
+          ],
+          "description": "Play all skill-less Battle Cards from your Drop Area."
+        }
+      ],
+      "power": "10000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-126",
+      "name": "Majin Buu, Wickedness Incarnate",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-126.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |ONE| , if your Leader Card is black, all of your energy is black, and you send this card from your Drop Area to your Warp : You can't activate the <ACTIVATE MAIN> skill on copies of this card for the turn; at the end of the turn, you may choose 1 black card in your hand and discard it. If you do, draw 2 cards."
+        }
+      ],
+      "power": "20000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin",
+      "era": "Majin Buu Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-127",
+      "name": "Bardock the Resolute",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-127.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is red : When your opponent's life is added to their hand or placed in their Drop Area by a skill, you may play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates a <COUNTER> skill, switch this card to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Bardock: Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-128",
+      "name": "Son Goku, Power of Legend",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-128.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is green : When one of your card skills makes an opponent discard a card, you may play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Send this card to its owner's Warp, and you can't play copies of this card for the turn : Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and send it to its owner's Warp."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku: Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-129",
+      "name": "Vegeta, Demonstration of Might",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-129.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose this card and 1 of your black Battle Cards with an energy cost of 3 or less : Send the chosen cards to their owners' Warps, then draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta: Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-130",
+      "name": "Trunks, Elite Descendant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-130.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": " |ONE| "
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played using <OVER REALM> , play up to 1〈Vegeta : Xeno〉 card with an energy cost of 3 from your deck in Rest Mode, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-131",
+      "name": "Vegeks, Burning Impact Unleashed",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-131.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Xeno-Evolve"
+          ],
+          "description": "〈Vegeks : Xeno〉 with an energy cost of 6."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, choose up to 1 of your opponent's Battle Cards and send it to its owner's Warp."
+        }
+      ],
+      "power": "30000",
+      "character": "Vegeks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-132",
+      "name": "Vegeks, Spacetime Synthesis",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-132.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Union-Potara"
+          ],
+          "description": " |THREE| : 〈Trunks : Xeno〉 and 〈Vegeta : Xeno〉."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can choose Battle Cards in your Warp when choosing cards to use with this card's <UNION> skill from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, add up to 1 Battle Card with an energy cost of 4 or less from your Warp to your hand."
+        }
+      ],
+      "power": "25000",
+      "character": "Vegeks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-133",
+      "name": "Demigra, the Sinister Sorcerer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-133.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 5"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, your opponent chooses 1 card in their hand and sends it to their Warp. If the card your opponent sent to their Warp was a Battle Card, combo it with this card."
+        }
+      ],
+      "power": "20000",
+      "character": "Demigra",
+      "specialTrait": "Demon God",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-134",
+      "name": "Mira, Explosion of Energy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-134.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical",
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, your opponent chooses 2 cards in their hand and sends them to their Warp."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 2 cards in your hand and send them to your Warp : When one of your opponent's cards attacks, negate the attack, then negate this skill for the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Mira",
+      "specialTrait": "Android",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-135",
+      "name": "Mira, Faithful Servant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-135.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If you don't have any Battle Cards in play : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |THREE| : Choose up to 1 〈Mira〉 card with an original energy cost of 5 in your hand and play it on top of this card."
+        }
+      ],
+      "power": "10000",
+      "character": "Mira",
+      "specialTrait": "Android",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-136",
+      "name": "Towa, Twisted Sister",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-136.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "Play this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, draw 1 card, then shuffle up to 1 card from your opponent's Drop Area into their deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Towa",
+      "specialTrait": "Demon Realm Race/Demon God",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-137",
+      "name": "Towa, Secret Maneuver",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-137.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card is played or attacks, look at up to 5 cards from the top of your deck, add up to 1 《Demon Realm Race》 card among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Towa",
+      "specialTrait": "Demon Realm Race",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-138",
+      "name": "Gravy, the Dark Sorcerer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-138.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Unique",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is blue : When your energy or your opponent's energy leaves an Energy Area due to a skill, you may play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill or KO'd, switch up to 1 of your energy to Active Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Gravy",
+      "specialTrait": "Evil Wizard",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-139",
+      "name": "Putine, the Dark Sorcerer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-139.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier",
+            "Unique"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is yellow : When an opponent's card is switched to Rest Mode by one of your card skills, you may play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent plays a Battle Card using a skill or activates a <COUNTER> skill, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Putine",
+      "specialTrait": "Evil Wizard",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-140",
+      "name": "Secret Identity Masked Saiyan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-140.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 6"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played using <OVER REALM> , choose any number of your opponent's Battle Cards that add up to a total energy cost to 6 or less and send them to their owners' Warps."
+        }
+      ],
+      "power": "25000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-141",
+      "name": "Mechikabura, the Broken Seal",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-141.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, declare an original energy cost and character name; until the end of your opponent's next turn, your opponent can't play cards with both the declared character name and original energy cost, and you can't play copies of this card during your next turn."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Add up to 1 《Dark Dragon Ball》 card from your deck to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Mechikabura",
+      "specialTrait": "Demon Realm Race",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-142",
+      "name": "Burning Impact",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-142.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Shuffle 2 Battle Cards from your opponent's Drop Area into their deck."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a Unison Card in play, you can activate this card's <COUNTER> skill from your hand without paying its energy cost."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-143",
+      "name": "Time Bullet",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-143.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "EXTRA",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If you have a Unison Card in play : If the Battle Card being played has an energy cost of 2 or less, it's sent to its owner's Warp instead of being played."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can activate this card's <COUNTER> skill from your hand without paying its energy cost by choosing 2 other cards in your hand and discarding them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-144",
+      "name": "Vegeta & Trunks, No Holds Barred",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-144.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust",
+            "Deflect"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is red or green : When this card is played, choose any number of your opponent's Battle Cards that add up to a total energy cost of 4 or less and KO them."
+        }
+      ],
+      "power": "16000",
+      "character": "Vegeta/Trunks",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-145",
+      "name": "Son Goku & Hit, Supreme Alliance",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-145.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Arrival Blue/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Battle",
+            "Once per turn"
+          ],
+          "description": "If your Leader Card is blue or yellow : Switch this card to Active Mode."
+        }
+      ],
+      "power": "19000",
+      "character": "Son Goku/Hit",
+      "specialTrait": "Saiyan/Alien/Universe 7/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-146",
+      "name": "Vegeta & Bulma, Joined by Fate",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-146.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Arrival Red/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": ": Choose up to 1 yellow 《Saiyan》 card with an energy cost of 3 and 20000 power in your hand and play it."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta/Bulma",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Android Cell Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-147",
+      "name": "Son Gohan & Piccolo, Skills Sharpened",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-147.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust",
+            "Double Strike",
+            "Triple Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ", if your Leader Card is blue or green and you discard this card from your hand : Choose up to 2 of your opponent's Battle Cards with energy costs of 3 or less and place them at the bottom of their owners' decks in any order."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Gohan: Youth/Piccolo",
+      "specialTrait": "Saiyan/Earthling/Namekian",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-148",
+      "name": "Son Goku, Rival Seeker",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-148.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a Red/Blue multicolor Extra Card in your Drop Area, reduce the combo cost of this card in your hand by 1."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If you have 5 or more energy and you add 2 Red/Blue multicolor Extra Cards from your Warp to your hand : Choose up to 1 Red/Blue multicolor 〈Son Goku〉 card with an energy cost of 6 in your hand and play it on top of this card."
+        }
+      ],
+      "power": "19000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-149",
+      "name": "Frieza, Colossal Dynamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-149.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Arrival Red/Blue"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is played, your opponent places 2 cards from the top of their deck in their Drop Area, then you choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn."
+        }
+      ],
+      "power": "19000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Frieza's Army",
+      "era": "Frieza Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-150",
+      "name": "Cell, the Dark Parasite",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-150.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a Green/Yellow multicolor 〈Cell〉 card and you send this card from your Drop Area to your Warp : Draw 1 card, then add up to 1 card from your life to your hand."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a Green/Yellow multicolor 〈Cell〉 card, you have 4 or more energy, and you choose all of your non-Token Battle Cards and place them in their owners' Drop Areas : Play this card from your hand, and you can't play copies of this card for the turn."
+        }
+      ],
+      "power": "30000",
+      "character": "Cell: Xeno",
+      "specialTrait": "Android",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-151",
+      "name": "Jiren, Alien Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-151.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust",
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Arrival Green/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "If your Leader Card is a 《Universe 11》 card : Increase this card's energy cost by 3 for the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-152",
+      "name": "Great Ape Masked Saiyan, Primal Carnage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-152.png",
+      "rarity": "Secret Rare[SCR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Ultimate"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is mono-green and you remove this card in your Combo Area from the game : When this card is used in a combo, choose 1 of your opponent's Battle Cards, ignoring <BARRIER> , and KO it."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Play this card from your hand and it gains <DUAL ATTACK> and <TRIPLE STRIKE> for the turn."
+        }
+      ],
+      "power": "40000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan/Great Ape",
+      "era": "Dark Empire Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-153",
+      "name": "SS3 Gotenks, Blazing Fusion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-153.png",
+      "rarity": "Secret Rare[SCR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Ultimate",
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Reduce the energy cost of this card by 1 for each Battle Card with 15000 power in your Drop Area."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Negate the skills of all other Battle Cards."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is removed from your Battle Area by an opponent's skill, choose all of your opponent's Battle Cards and energy in Rest Mode, ignoring <BARRIER> , and place them in their owners' Drop Areas."
+        }
+      ],
+      "power": "40000",
+      "character": "Gotenks: Adolescence",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "BT10-154",
+      "name": "SS4 Gogeta, Peerless Fusion",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/BT10-154.png",
+      "rarity": "Secret Rare[SCR]",
+      "series": [
+        "Unison Warrior Series",
+        "Rise of the Unison Warrior"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Ultimate",
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You can't play Battle Cards, this card can't be removed from your Battle Area by skills, and you can't combo with cards in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |FIVE| , if all of your energy is the same color : Play this card from your hand, draw 2 cards, switch up to 2 of your energy to Active Mode, then your opponent chooses 2 cards in their hand and 2 of their Battle Cards and sends them to their owners' Warps."
+        }
+      ],
+      "power": "45000",
+      "character": "Gogeta: GT",
+      "specialTrait": "Saiyan",
+      "era": "Shadow Dragon Saga"
+    },
+    "back": {}
+  }
+]

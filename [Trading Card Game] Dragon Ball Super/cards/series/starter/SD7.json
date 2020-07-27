@@ -1,0 +1,233 @@
+[
+  {
+    "front": {
+      "id": "SD7-01",
+      "name": "Dragon Ball",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Switch this card to Rest Mode : Choose up to 2 <DRAGON BALL> cards from your deck or life and add them to your hand. Then shuffle any areas you looked through."
+        },
+        {
+          "modifiers": [
+            "Wish"
+          ],
+          "description": "When there are 7 <DRAGON BALL> cards in your Drop Area : Choose up to 1 ≪Desire≫ card in your Drop Area, add it to your hand, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Dragon Ball",
+      "specialTrait": "Shenron",
+      "era": "Special"
+    },
+    "back": {
+      "id": "SD7-01",
+      "name": "Miraculous Arrival Shenron",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "LEADER",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose one －"
+        },
+        {
+          "modifiers": [],
+          "description": "・Draw 1 card."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 ≪Desire≫ card in your hand with an energy cost less than or equal to your current energy and activate its <ACTIVATE MAIN> skill."
+        },
+        {
+          "modifiers": [],
+          "description": "・Remove 7 <DRAGON BALL> cards in your Drop Area from the game. If you do, choose 1 of your Battle Cards and it gets +10000 power and <TRIPLE ATTACK> for the duration of the turn, then flip this card over at the end of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Shenron",
+      "specialTrait": "Shenron",
+      "era": "Special"
+    }
+  },
+  {
+    "front": {
+      "id": "SD7-02",
+      "name": "Dimensional Warrior Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking.)"
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards.)"
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Sparking 7"
+          ],
+          "description": "(This skill takes effect when you have 7 or more cards in your Drop Area.) When you play this card, choose up to 1 of your opponent's Battle Cards and send it to its owner's Warp."
+        }
+      ],
+      "power": "20000",
+      "character": "Son Goku: Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD7-03",
+      "name": "Vegeta, Returned from Darkness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand.)"
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Burst 5"
+          ],
+          "description": "(You must place the top 5 cards of your deck in your Drop Area to activate this skill.) When you play this card, if your opponent has 11 or more cards in hand, your opponent chooses cards from their hand and sends them to their Warp until they have 10 cards in hand."
+        }
+      ],
+      "power": "19000",
+      "character": "Vegeta: Xeno",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD7-04",
+      "name": "Shenron, Figure of Majesty",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can't attack."
+        },
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn",
+            "Sparking 5"
+          ],
+          "description": "(This skill takes effect when you have 5 or more cards in your Drop Area.)  Draw 1 card and choose one －"
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose up to 2 of your energy and switch them to Active Mode."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose 1 Battle Card with an energy cost of 2 or less from your Drop Area and play it."
+        },
+        {
+          "modifiers": [],
+          "description": "・Choose your Leader Card or 1 of your Battle Cards, and it gets +5000 power and <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Shenron",
+      "specialTrait": "Shenron",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD7-05",
+      "name": "Mega Focus Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD7-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "～SHENRON’s ADVENT～【DBS-SD07】"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn",
+            "Burst 3"
+          ],
+          "description": "(You must place the top 3 cards of your deck in your Drop Area to activate this skill.) For the duration of the turn, this card gets +5000 power and can attack Battle Cards in Active Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku: Childhood",
+      "specialTrait": "Saiyan",
+      "era": "Fortuneteller Baba Saga"
+    },
+    "back": {}
+  }
+]

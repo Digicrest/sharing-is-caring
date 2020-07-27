@@ -1,0 +1,208 @@
+[
+  {
+    "front": {
+      "id": "SD12-01",
+      "name": "Vegito",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If it's your opponent's turn : When one of your blue Unison Cards would be placed in your Drop Area or one of your blue Battle Cards is removed from your Battle Area by an opponent's skill or KO'd, you may flip this card over. If you do, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Vegito",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {
+      "id": "SD12-01",
+      "name": "SSB Vegito, Godhood Transcended",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": ": Choose 1 of your blue Unison Cards and it gets +10000 power and <TRIPLE STRIKE> for the battle."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "If it's your opponent's turn : When one of your blue Unison Cards would be placed in your Drop Area or one of your blue Battle Cards is removed from your Battle Area by an opponent's skill or KO'd, switch up to 1 of your mono-blue energy to Active Mode and draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegito",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD12-02",
+      "name": "Gogeta, Pursuit of Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "UNISON",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is a blue 《Saiyan》 card and you have a blue 《Saiyan》 Battle Card in play in Rest Mode, your Leader Cards don't take damage from attacks."
+        },
+        {
+          "modifiers": [
+            "UNISON 0",
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your Leader Cards or Battle Cards and switch it to Rest Mode : Add a marker to this card."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Draw 1 card, then choose 1 of your opponent's Battle Cards with an energy cost greater than their current energy, ignoring <BARRIER> , and place it at the bottom of its owner's deck."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD12-03",
+      "name": "SSB Son Goku, Tenacious Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Add 1 card from your life to your hand : When this card attacks, it gets +11000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, look at up to 7 cards from the top of your deck, add up to 1 blue Unison Card with a specified cost of 2 among them to your hand, then shuffle your deck."
+        }
+      ],
+      "power": "4000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD12-04",
+      "name": "SSB Vegeta, Heroic Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is a blue 《Saiyan》 card, this card gains <CRITICAL> ."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is KO'd, draw 1 card, then add up to 1 blue Unison Card with a specified cost of 2 from your Drop Area to your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD12-05",
+      "name": "SS Trunks, Architect of Peace",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD12-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~Spirit of Potara~[DBS-SD12]"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": ", if your Leader Card is a blue 《Saiyan》 card : When this card is used in a combo, choose up to 1 blue 《Saiyan》 card with an energy cost of 2 or less in your hand, negate its skills for the turn, and play it in Rest Mode."
+        }
+      ],
+      "power": "5000",
+      "character": "Trunks: Future",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Future Trunks Saga"
+    },
+    "back": {}
+  }
+]

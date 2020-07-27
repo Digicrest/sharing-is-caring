@@ -1,0 +1,305 @@
+[
+  {
+    "front": {
+      "id": "EX02-01",
+      "name": "Time Patrol Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-01.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": "(If you have at least 3 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , look at up to 2 cards from the top of your deck. Choose up to 1 of them and add it to your hand. Then, place the remaining cards on the top or bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-01_PR",
+      "name": "Time Patrol Trunks",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-01_PR.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 3"
+          ],
+          "description": "(If you have at least 3 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , look at up to 2 cards from the top of your deck. Choose up to 1 of them and add it to your hand. Then, place the remaining cards on the top or bottom of your deck in any order."
+        }
+      ],
+      "power": "15000",
+      "character": "Trunks: Xeno",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-02",
+      "name": "Masked Saiyan, the Mysterious Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-02.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 5"
+          ],
+          "description": " <ONE> (If you have at least 5 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp.  At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , choose any number of  opponent Battle Cards without <BLOCKER> for which the total cost adds up to 5 or less and send them to their Warp."
+        }
+      ],
+      "power": "20000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-02_PR",
+      "name": "Masked Saiyan, the Mysterious Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-02_PR.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 5"
+          ],
+          "description": " <ONE> (If you have at least 5 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp.  At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , choose any number of  opponent Battle Cards without <BLOCKER> for which the total cost adds up to 5 or less and send them to their Warp."
+        }
+      ],
+      "power": "20000",
+      "character": "Masked Saiyan",
+      "specialTrait": "Saiyan",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-03",
+      "name": "Supreme Kai of Time, Continuity Keeper",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-03.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 black Battle Card with an energy cost of 5 or less from your deck and send it to your Warp and shuffle your deck. Then, at the beginning of your next turn, if this card is in play in your Battle Area, add the card that was sent to your Warp by this skill to your hand."
+        }
+      ],
+      "power": "10000",
+      "character": "Supreme Kai of Time",
+      "specialTrait": "God",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-04",
+      "name": "Time Ruler Towa",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-04.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 4"
+          ],
+          "description": "(If you have at least 4 cards in your Drop Area, you can play this card from your hand by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , choose up to 1 opponent Battle Card with an energy cost of 2 or less and gain control of it (Move the chosen card to your Battle Area in the same mode)."
+        }
+      ],
+      "power": "10000",
+      "character": "Towa",
+      "specialTrait": "Demon Realm Race",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-05",
+      "name": "Mira, From the Darkness",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-05.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Over Realm 4"
+          ],
+          "description": "(If you have at least 4 cards in your Drop Area, you can play this card from your hand by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <OVER REALM> can be activated once per turn)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card using <OVER REALM> , it gains <CRITICAL> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Mira",
+      "specialTrait": "Android",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-06",
+      "name": "Majin Twin Shun Shun",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-06.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is green or yellow, place up to 2 cards from the top of your deck in the Drop Area."
+        }
+      ],
+      "power": "5000",
+      "character": "Shun Shun",
+      "specialTrait": "Demon Realm Race",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX02-07",
+      "name": "Majin Twin Haru Haru",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX02-07.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION DECK BOX SET 02",
+        "-Dark Demon’s Villains-"
+      ],
+      "type": "BATTLE",
+      "color": "Black",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is red or blue, place up to 2 cards from the top of your deck in the Drop Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Haru Haru",
+      "specialTrait": "Demon Realm Race",
+      "era": "Dark Demon Realm Saga"
+    },
+    "back": {}
+  }
+]

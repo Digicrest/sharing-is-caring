@@ -1,0 +1,3927 @@
+[
+  {
+    "front": {
+      "id": "TB1-001",
+      "name": "Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-001.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": "(Treat 《Universe 7》 in all areas as if they had no specified cost)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " <ONCE PER TURN> When you attack with a 《Saiyan》 Battle Card, if that card is 《Universe 7》 or 《Universe 6》, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-001",
+      "name": "Saiyan Bond Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-001_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " <ONCE PER TURN> When you attack with a 《Saiyan》 Battle Card, if that card is 《Universe 7》 or 《Universe 6》, draw 1 card and choose the attacking card. The chosen card and this card gain +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-002",
+      "name": "Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-002.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-002",
+      "name": "Lady of Destruction Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-002_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If ＜Caulifla＞ is in play in your Battle Area, you don't have to place cards from your hand in the Drop Area as a result of this card's skill."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card. Then, place 1 card from your hand in the Drop Area and your opponent places 1 card from their hand in their Drop Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-003",
+      "name": "Backbone of Universe 7 Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-003.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is 《Universe 7》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-003_PR",
+      "name": "Backbone of Universe 7 Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-003_PR.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is 《Universe 7》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-004",
+      "name": "Universe 7 Saiyan Prince Vegeta ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-004.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <TRIPLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-004_SPR",
+      "name": "Universe 7 Saiyan Prince Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-004_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <TRIPLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-004_BD",
+      "name": "Universe 7 Saiyan Prince Vegeta ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-004_BD.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <TRIPLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-005",
+      "name": "Gale Strike Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-005.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-006",
+      "name": "Majin Buu, Full of Energy",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-006.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " <THREE> : Red ＜Majin Buu＞"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : This card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-007",
+      "name": "Surprise Attack Majin Buu",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-007.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 ＜Majin Buu＞ with 25000 or less power from your deck and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Majin Buu",
+      "specialTrait": "Majin/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-008",
+      "name": "Foreseeing Hit",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-008.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Hit",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-008_PR",
+      "name": "Foreseeing Hit",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-008_PR.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand."
+        }
+      ],
+      "power": "20000",
+      "character": "Hit",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-009",
+      "name": "Dimension Leaper Hit",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-009.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Send this card to the Warp : At the beginning of your next turn, if your Leader Card is 《Universe 6》, play this card from the Warp in its owner's Battle Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Hit",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-010",
+      "name": "Impeccable Super Saiyan Cabba",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-010.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can attack Battle Cards in Active Mode, and your opponent cannot activate <COUNTER> against this card's attack."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if your Leader Card is a red 《Saiyan》, this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-010_BD",
+      "name": "Impeccable Super Saiyan Cabba",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-010_BD.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card can attack Battle Cards in Active Mode, and your opponent cannot activate <COUNTER> against this card's attack."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if your Leader Card is a red 《Saiyan》, this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-011",
+      "name": "Cabba, Universe Mediator",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-011.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 6》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-011_BD",
+      "name": "Cabba, Universe Mediator",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-011_BD.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 6》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Cabba",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-012",
+      "name": "Bold Super Saiyan 2 Caulifla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-012.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |ONE| : ＜Caulifla＞"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 《Universe 6》 with 15000 or less power among them and play it. Then, shuffle your deck."
+        }
+      ],
+      "power": "20000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-012_PR",
+      "name": "Bold Super Saiyan 2 Caulifla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-012_PR.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |ONE| : ＜Caulifla＞"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 《Universe 6》 with 15000 or less power among them and play it. Then, shuffle your deck."
+        }
+      ],
+      "power": "20000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-013",
+      "name": "Sister Attack Saiyan Caulifla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-013.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is a red 《Saiyan》, you may choose 1 card in your life and add it to your hand. If you do so, this card gains +5000 power and <DOUBLE STRIKE> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-014",
+      "name": "Caulifla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-014.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Caulifla",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-015",
+      "name": "Relentless Super Saiyan Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-015.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |ONE| : ＜Kale＞"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, choose all Battle Cards with 25000 or less power other than this card or your ＜Caulifla＞, and KO them."
+        }
+      ],
+      "power": "25000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-016",
+      "name": "Sister Attack Saiyan Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-016.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if another 《Universe 6》 is in play in your Battle Area, draw 1 card and this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-016_BD",
+      "name": "Sister Attack Saiyan Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-016_BD.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if another 《Universe 6》 is in play in your Battle Area, draw 1 card and this card gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "10000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-017",
+      "name": "Dauntless Kale",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-017.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If ＜Caulifla＞ is in your Battle Area or Leader Area, you can play this card from your hand without paying its energy cost."
+        }
+      ],
+      "power": "5000",
+      "character": "Kale",
+      "specialTrait": "Saiyan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-018",
+      "name": "Ultimate Evolution Frost",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-018.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |TWO| : ＜Frost＞ (Play this card on top of the specified card)"
+        },
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": "(This card inflicts 3 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, choose up to 2 of your opponent's Battle Cards with 20000 or less power and switch them to Rest Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Frost",
+      "specialTrait": "Frieza Clan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-019",
+      "name": "Frost, The Tactician",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-019.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 ＜Frost＞ with 20000 or less power from your deck and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Frost",
+      "specialTrait": "Frieza Clan/Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-020",
+      "name": "Universe 6 Combination Botamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-020.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, choose all 《Universe 6》 in your Battle Area. They gain +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Botamo",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-021",
+      "name": "Universe 6 Combination Magetta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-021.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your Battle Cards with energy costs of 1 or less. They gain +10000 power for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Magetta",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-022",
+      "name": "Union Attack Botamo and Magetta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-022.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is 《Universe 6》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Botamo/Magetta",
+      "specialTrait": "Alien/Universe 6",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-023",
+      "name": "Strategies of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-023.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose all red 《Saiyan》 cards in your Battle Area. They gain <BARRIER> (They can't be chosen by the skills of your opponent's cards) until the end of your opponent's next turn."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-024",
+      "name": "Time Kicker",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-024.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack. If your Leader Card is 《Universe 6》, choose up to 1 attacking Battle Card and send it to the Warp. At the end of the turn, your opponent plays the card sent to the Warp with this skill in its owner's Battle Area from the Warp. (Cards stacked under the card are placed in the Drop Area)"
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-025",
+      "name": "Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-025.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": "(Treat 《Universe 7》 in all areas as if they had no specified cost)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " <ONCE PER TURN> When you combo with a 《Universe 7》 from your Battle Area during your turn, draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : Choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-025",
+      "name": "Son Gohan, Leader of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-025_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "《Universe 7》 in your Battle Area can combo when in Rest Mode."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": " <ONCE PER TURN> When you combo with a 《Universe 7》 from your Battle Area during your turn, draw 2 cards."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan : Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-026",
+      "name": "Bergamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-026.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-026",
+      "name": "Bergamo, Eldest Brother",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-026_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When ＜Lavender＞ and ＜Basil＞ are in play in your Battle Area, your opponent's Leader Card cannot attack this card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-027",
+      "name": "Ready to Fight Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-027.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 7》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-027_PR",
+      "name": "Ready to Fight Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-027_PR.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 7》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-028",
+      "name": "Results of Training Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-028.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " <FOUR> : 《Universe 7》 ＜Son Gohan : Adolescence＞"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 2 or more 《Universe 7》 in your Combo Area, this card gains <TRIPLE STRIKE> ."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, if your Leader Card is blue, choose up to 3 《Universe 7》 with energy costs of 3 or less from your hand and play them."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-029",
+      "name": "Focused Mind  Son Gohan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-029.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Look at up to 7 cards from the top of your deck and choose up to 1 《Universe 7》  among them. You may play that card by paying its energy cost. Then, shuffle your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Gohan: Adolescence",
+      "specialTrait": "Saiyan/Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-030",
+      "name": "Beerus, Universe 7 Divine Vanquisher",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-030.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, your opponent chooses any number of cards from their hand, Battle Area, or Energy Area for which the total cost adds up to 6 or more and places them in the Drop Area."
+        }
+      ],
+      "power": "25000",
+      "character": "Beerus",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-030_SPR",
+      "name": "Beerus, Universe 7 Divine Vanquisher",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-030_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, your opponent chooses any number of cards from their hand, Battle Area, or Energy Area for which the total cost adds up to 6 or more and places them in the Drop Area."
+        }
+      ],
+      "power": "25000",
+      "character": "Beerus",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-031",
+      "name": "Whis, Mentor of Beerus",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-031.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "The energy cost of ＜Beerus＞ in your hand is reduced by 1."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "There can only be up to 1 {Whis, Mentor of Beerus} in play in your Battle Area."
+        }
+      ],
+      "power": "15000",
+      "character": "Whis",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-032",
+      "name": "Focused Mind Piccolo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-032.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if you have 4 or more energy, this card gains +5000 power."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian/God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-032_BD",
+      "name": "Focused Mind Piccolo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-032_BD.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if you have 4 or more energy, this card gains +5000 power."
+        }
+      ],
+      "power": "15000",
+      "character": "Piccolo",
+      "specialTrait": "Namekian/God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-033",
+      "name": "Multi-Form Tien Shinhan",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-033.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card loses -5000 power for each ＜Tien Shinhan＞ in your Battle Area or Combo Area."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is 《Universe 7》 , you may place 1 card from your hand in the Drop Area. If you do so, choose up to 3 {Multi-Form Tien Shinhan} from your deck and play them. Then, shuffle your deck."
+        }
+      ],
+      "power": "25000",
+      "character": "Tien Shinhan",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-034",
+      "name": "Universe 9 Supreme Kai Roh",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-034.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 2 cards from the top of your deck, choose any number of 《Universe 9》 among them and add them to your energy in Rest Mode. Then, shuffle your deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Roh",
+      "specialTrait": "God/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-035",
+      "name": "Trio De Dangers Bergamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-035.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If this card is in Rest Mode, your opponent's Battle Cards can only attack this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When ＜Lavender＞ and ＜Basil＞ are in play in your Battle Area, all 《Trio De Dangers》 in your Battle Area gain <BARRIER> ."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is attacked, it gains +5000 power for the duration of the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-036",
+      "name": "Brothers of Terror Bergamo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-036.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "When ＜Lavender＞ and ＜Basil＞ are in play in your Battle Area, your opponent cannot place cards in their Energy Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Bergamo",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-037",
+      "name": "Trio De Dangers Lavender",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-037.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if another 《Trio De Dangers》 is in play in your Battle Area, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "10000",
+      "character": "Lavender",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-038",
+      "name": "Trio De Dangers Basil",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-038.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your turn, if another 《Trio De Dangers》 is in play in your Battle Area, this card gains +1000 power for each 1 energy you have and <DUAL ATTACK> ."
+        }
+      ],
+      "power": "15000",
+      "character": "Basil",
+      "specialTrait": "Alien/Trio De Dangers/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-039",
+      "name": "Iron Skin  Battler Chappil　",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-039.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is 《Universe 9》, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck. (Cards stacked under the card are placed in the Drop Area)"
+        }
+      ],
+      "power": "20000",
+      "character": "Chappil",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-040",
+      "name": "Universe 9 Striker Comfrey",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-040.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 《Universe 9》  in your hand with an energy cost less than or equal to your total energy and play it."
+        }
+      ],
+      "power": "15000",
+      "character": "Comfrey",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-041",
+      "name": "Universe 9 Striker Hop",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-041.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If another 《Universe 9》 is in play in your Battle Area, your opponent cannot activate <BLOCKER> during this card's attack."
+        }
+      ],
+      "power": "15000",
+      "character": "Hop",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-042",
+      "name": "Universe 9 Striker Oregano",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-042.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you may reveal 1 《Universe 9》 from your hand and place it at the bottom of your deck. If you do so, draw 2 cards."
+        }
+      ],
+      "power": "10000",
+      "character": "Oregano",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-043",
+      "name": "Universe 9 Striker Hyssop",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-043.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If a 《Universe 9》 is in play in your Battle Area, you can play this card from your hand without paying its energy cost."
+        }
+      ],
+      "power": "5000",
+      "character": "Hyssop",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-044",
+      "name": "Sorrel, The Small Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-044.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is 《Universe 9》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Sorrel",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-045",
+      "name": "Universe 9 Striker Roselle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-045.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 9》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Roselle",
+      "specialTrait": "Alien/Universe 9",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-046",
+      "name": "Spectrum Attack Obuni",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-046.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, draw 1 card and place 1 card from your hand at the bottom of your deck."
+        }
+      ],
+      "power": "15000",
+      "character": "Obuni",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-047",
+      "name": "Murichim",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-047.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Murichim",
+      "specialTrait": "Alien/Universe 10",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-048",
+      "name": "Dangers Triangle",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-048.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Field"
+          ],
+          "description": "(Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <FIELD> . When you do, place this card in the Drop Area)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If ＜Bergamo＞, ＜Lavender＞, and ＜Basil＞ are in play in your Battle Area, negate the skills of all of your opponent's Battle Cards with energy costs of 4 or less in their Battle Area."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-049",
+      "name": "Shining Blaster",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-049.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack. Then, if your Leader Card is 《Universe 9》, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and return it to its owner's hand. (Cards stacked under the card are placed in the Drop Area.)"
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-050",
+      "name": "Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-050.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": "(Treat 《Universe 7》 in all areas as if they had no specified cost)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "You cannot include non-《Universe 7》 cards in your deck."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card, and this card gains +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-050",
+      "name": "Sharpened Power Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-050_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card is attacked, you may place 2 《Universe 7》 from your hand into your Drop Area. If you do so, negate that attack and this skill for the duration of the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-051",
+      "name": "Brianne De Chateau",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-051.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, look at up to 2 cards from the top of your deck. Choose up to 1 《Maiden Squadron》 among them and add it to your hand. Then, place the remaining cards at the bottom of your deck in any order."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may draw 2 cards and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Brianne De Chateau",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-051",
+      "name": "Ribrianne, Maiden of Anger ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-051_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> If ＜Kakunsa＞ and ＜Rozie＞ are in play in your Battle Area, choose 1 of your opponent's Battle Cards and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Ribrianne",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-052",
+      "name": "Son Goku, Hope of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-052.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " <ONE> , place 2 《Universe 7》 from your hand in the Drop Area : 《Universe 7》 ＜Son Goku＞ with an energy cost of 5 or more."
+        },
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": "(Twice per turn, when this card attacks, switch this card to Active Mode after the battle)"
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if your Leader Card is green, choose up to 1 card from your opponent's hand or up to 1 of their Battle Cards and place it in the Drop Area."
+        }
+      ],
+      "power": "35000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-052_SPR",
+      "name": "Son Goku, Hope of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-052_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |ONE| , place 2 《Universe 7》 from your hand in the Drop Area : 《Universe 7》 ＜Son Goku＞ with an energy cost of 5 or more."
+        },
+        {
+          "modifiers": [
+            "Triple Attack"
+          ],
+          "description": "(Twice per turn, when this card attacks, switch this card to Active Mode after the battle)"
+        },
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if your Leader Card is green, choose up to 1 card from your opponent's hand or up to 1 of their Battle Cards and place it in the Drop Area."
+        }
+      ],
+      "power": "35000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-053",
+      "name": "Destructo Disk Krillin",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-053.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is 《Universe 7》, choose 1 card in your life and add it to your hand. If you do so, choose any number of your opponent's Battle Cards for which the total cost adds up to 3 or less and KO them."
+        }
+      ],
+      "power": "15000",
+      "character": "Krillin ",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-054",
+      "name": "Energy Guard Android 17",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-054.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, switch this card to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Android 17",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-055",
+      "name": "Infinite Energy Android 18",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-055.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of the battle after you combo with this card from your hand, if your Leader Card is 《Universe 7》, play this card in Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Android 18",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-056",
+      "name": "Maiden Squadron Leader Ribrianne",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-056.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |ONE| : ＜Brianne de Chateau＞"
+        },
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, choose up to 1 of your opponent's Battle Cards and KO it."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, if ＜Kakunsa＞ and ＜Rozie＞ are in play in your Battle Area, choose up to 2 cards from your opponent's hand and place them in the Drop Area."
+        }
+      ],
+      "power": "25000",
+      "character": "Ribrianne",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-057",
+      "name": "Girl Warrior Brianne De Chateau",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-057.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 《Maiden Squadron》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Brianne De Chateau",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-058",
+      "name": "Maiden Squadron Kakunsa",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-058.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If ＜Ribrianne＞ and ＜Rozie＞ are in play in your Battle Area, this card gains <DUAL ATTACK> ."
+        }
+      ],
+      "power": "20000",
+      "character": "Kakunsa",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-059",
+      "name": "Maiden Squadron Rozie",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-059.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, if ＜Ribrianne＞ and ＜Kakunsa＞ are in play in your Battle Area, switch this card to Active Mode."
+        }
+      ],
+      "power": "20000",
+      "character": "Rozie",
+      "specialTrait": "Alien/Maiden Squadron/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-060",
+      "name": "Zarbuto, Maiden Attendant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-060.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Universe 2》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Zarbuto",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-061",
+      "name": "Rabanra, Maiden Attendant ",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-061.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If a 《Universe 2》 is in play in your Battle Area, you can play this card from your hand without paying its energy cost."
+        }
+      ],
+      "power": "5000",
+      "character": "Rabanra",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-062",
+      "name": "Teleporting Jimeze",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-062.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Reduce the energy cost of 《Maiden Squadron》 in your hand by 2. (You must pay the specified cost even if it exceeds the reduced energy cost)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Place 1 card from your hand in the Drop Area : Send this card to the Warp, and play it from the Warp in its owner's Battle Area at the beginning of your next turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Jimeze",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-063",
+      "name": "Vikal, Master of the Sky",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-063.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader Card is 《Universe 2》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Vikal",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-064",
+      "name": "Zirloin, Maiden Attendant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-064.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": "(This card inflicts 2 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Choose 1 card in your life and add it to your hand : If your Leader Card is 《Universe 2》, choose 1 of your opponent's Battle Cards and KO it."
+        }
+      ],
+      "power": "20000",
+      "character": "Zirloin",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-065",
+      "name": "Attack Reflecting Prum",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-065.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        }
+      ],
+      "power": "15000",
+      "character": "Prum",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-066",
+      "name": "Hermilla, The Sniper",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-066.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> If"
+        }
+      ],
+      "power": "15000",
+      "character": "Hermilla",
+      "specialTrait": "Alien/Universe 2",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-067",
+      "name": "True Form Ganos",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-067.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Evolve"
+          ],
+          "description": " |TWO| ： ＜Ganos＞"
+        },
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When a card evolves into this card, choose up to 1 of your opponent's Battle Cards and KO it. Then, your opponent chooses 1 card in their hand and places it in the Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Ganos",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-068",
+      "name": "Trickster Ganos",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-068.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+        }
+      ],
+      "power": "15000",
+      "character": "Ganos",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-069",
+      "name": "Caway, Ki Master",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-069.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of the battle after you combo with this card from your hand, if your Leader Card is green, play this card in Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Caway",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-070",
+      "name": "Dercori",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-070.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Dercori",
+      "specialTrait": "Alien/Universe 4",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-071",
+      "name": "Maiden Transformation",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-071.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 2 《Maiden Squadron》 with energy costs of 4 or less in your Drop Area and play them."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-072",
+      "name": "Maiden Charge",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-072.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack. Then, if your Leader is 《Universe 2》, you may place 1 card from your hand in your Drop Area. If you do so, your opponent chooses 1 of their Battle Cards and KO-s it."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-073",
+      "name": "Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-073.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": "(Treat 《Universe 7》 in all areas as if they had no specified cost)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Place 1 《Universe 7》 from your hand in the Drop Area : Draw 2 cards."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-073",
+      "name": "Golden Frieza, The Final Assailant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-073_b.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Warrior of Universe 7"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Place 1 《Universe 7》 from your hand in the Drop Area : Draw 2 cards. Then, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-074",
+      "name": "Jiren",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-074.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks a Leader Card, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "TB1-074",
+      "name": "Jiren, The Ultimate Warrior",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-074_b.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, choose up to 2 《Universe 11》 in your Battle Area and switch them to Active Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "TB1-075",
+      "name": "Full Power Spirit Bomb Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-075.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your energy and switch it to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 2 cards in your life and add them to your hand : This card gains +10000 power for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-075_BD",
+      "name": "Full Power Spirit Bomb Son Goku",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-075_BD.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card, then choose up to 1 of your energy and switch it to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose 2 cards in your life and add them to your hand : This card gains +10000 power for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-076",
+      "name": "Master Roshi, Forged of Will",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-076.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card. ( <COUNTER> is activated from your hand by paying the card's energy cost)"
+        }
+      ],
+      "power": "5000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-076_PR",
+      "name": "Master Roshi, Forged of Will",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-076_PR.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card. ( <COUNTER> is activated from your hand by paying the card's energy cost)"
+        }
+      ],
+      "power": "5000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-076_BD",
+      "name": "Master Roshi, Forged of Will",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-076_BD.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card. ( <COUNTER> is activated from your hand by paying the card's energy cost)"
+        }
+      ],
+      "power": "5000",
+      "character": "Master Roshi",
+      "specialTrait": "Earthling/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-077",
+      "name": "Frieza, Emperor of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-077.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " <ONE> , place 1 《Universe 7》 from your hand in the Drop Area: 《Universe 7》 ＜Frieza＞ with an energy cost of 5 or more."
+        },
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is yellow, your opponent's <COUNTER> skills and non-keyword <AUTO> / <ACTIVATE> skills cannot be activated unless they place 1 card from their life in their Drop Area."
+        }
+      ],
+      "power": "30000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-077_SPR",
+      "name": "Frieza, Emperor of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-077_SPR.png",
+      "rarity": "Special Rare[SPR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " |ONE| , place 1 《Universe 7》 from your hand in the Drop Area : 《Universe 7》 ＜Frieza＞ with an energy cost of 5 or more."
+        },
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is yellow, your opponent's <COUNTER> skills and non-keyword <AUTO> / <ACTIVATE> skills cannot be activated unless they place 1 card from their life in their Drop Area."
+        }
+      ],
+      "power": "30000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-077_BD",
+      "name": "Frieza, Emperor of Universe 7",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-077_BD.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " <ONE> , place 1 《Universe 7》 from your hand in the Drop Area: 《Universe 7》 ＜Frieza＞ with an energy cost of 5 or more."
+        },
+        {
+          "modifiers": [
+            "Triple Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is yellow, your opponent's <COUNTER> skills and non-keyword <AUTO> / <ACTIVATE> skills cannot be activated unless they place 1 card from their life in their Drop Area."
+        }
+      ],
+      "power": "30000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-078",
+      "name": "Coldhearted Strike Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-078.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <BARRIER> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-078_BD",
+      "name": "Coldhearted Strike Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-078_BD.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <BARRIER> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-079",
+      "name": "Agony of Hell Frieza",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-079.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 ＜Frieza＞ in your Drop Area and add it to your hand."
+        }
+      ],
+      "power": "10000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-080",
+      "name": "Ally of Justice Toppo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-080.png",
+      "rarity": "Rare[R]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is 《Universe 11》, look at up to 10 cards from the top of your deck, choose up to 2 《Universe 11》 with energy costs of 3 or less from among them, and play them in Rest Mode. Then, shuffle your deck."
+        }
+      ],
+      "power": "20000",
+      "character": "Toppo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-081",
+      "name": "Absolute Justice Jiren",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-081.png",
+      "rarity": "Super Rare[SR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Quadruple Strike"
+          ],
+          "description": "(This card inflicts 4 damage instead of 1 when attacking)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Reduce the energy cost of this card in your hand by 1 for each 《Universe 11》 in your Battle Area. (You must pay the specified cost even if it exceeds the reduced energy cost)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your opponent's Battle Cards and energy in Rest Mode and place them in the Drop Area."
+        }
+      ],
+      "power": "35000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-082",
+      "name": "Secret Vitality Jiren",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-082.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if your Leader Card is 《Universe 11》, you may place 1 yellow card from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards in Rest Mode and KO them."
+        }
+      ],
+      "power": "15000",
+      "character": "Jiren",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-083",
+      "name": "Swift Warrior Dyspo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-083.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of the battle after you combo with this card from your hand, if your Leader Card is 《Universe 11》, play this card in Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Dyspo",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-084",
+      "name": "Hero Combination Vuon",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-084.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your turn, if another 《Universe 11》 is in play in your Battle Area, this card gains +5000 power."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, switch this card to Active Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Vuon",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-085",
+      "name": "Hero Combination Kunshi",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-085.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Choose 1 card in your life and add it to your hand : If another 《Universe 11》 is in play in your Battle Area, choose 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Kunshi",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-086",
+      "name": "Hero Combination Tupper",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-086.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, look at up to 3 cards from the top of your deck, choose up to 1 《Universe 11》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ],
+      "power": "5000",
+      "character": "Tupper",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-087",
+      "name": "Hero Combination Zoiray",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-087.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": "(When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If another 《Universe 11》 is in play in your Battle Area, this card is not KO-ed in battle once per turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Zoiray",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-088",
+      "name": "Ki Bomb Support Cocotte",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-088.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader is 《Universe 11》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Cocotte ",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-088_PR",
+      "name": "Ki Bomb Support Cocotte",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-088_PR.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Super Combo"
+          ],
+          "description": "(You can only include up to 4 cards with <SUPER COMBO> in your deck)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you combo with this card, if your Leader is 《Universe 11》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn."
+        }
+      ],
+      "power": "12000",
+      "character": "Cocotte ",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-089",
+      "name": "Hero Combination Kettol",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-089.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": "(This card can't be chosen by the skills of your opponent's cards)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If there are 2 or more 《Universe 11》 other than this card in play in your Battle Area, this card gains +5000 power and <DOUBLE STRIKE> . (This card inflicts 2 damage instead of 1 when attacking)"
+        }
+      ],
+      "power": "15000",
+      "character": "Kettol",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-090",
+      "name": "Hand Strike Kahseral",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-090.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": "(Once per turn, when this card attacks, switch this card to Active Mode after the battle)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, if another 《Universe 11》 is in play in your Battle Area, choose up to 1 of your opponent's energy in Rest Mode. That card cannot be switched to Active Mode until the beginning of your next turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Kahseral",
+      "specialTrait": "Alien/Pride Troopers/Universe 11",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-091",
+      "name": "Protean Being Majikayo",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-091.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": "(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)"
+        }
+      ],
+      "power": "15000",
+      "character": "Majikayo",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-092",
+      "name": "Super Reaction Narirama",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-092.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        }
+      ],
+      "power": "10000",
+      "character": "Narirama",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-092_BD",
+      "name": "Super Reaction Narirama",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-092_BD.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, draw 1 card."
+        }
+      ],
+      "power": "10000",
+      "character": "Narirama",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-093",
+      "name": "Cyborg Warrior Nigrisshi",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-093.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " <ONCE PER TURN> Choose 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Nigrisshi",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-094",
+      "name": "Katopesla",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-094.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [],
+          "description": "-"
+        }
+      ],
+      "power": "10000",
+      "character": "Katopesla",
+      "specialTrait": "Alien/Universe 3",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-095",
+      "name": "Universe 7  Representative",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-095.png",
+      "rarity": "Uncommon[UC]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card gains 《Universe 7》 in all areas."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Look at up to 7 cards from the top of your deck. Choose up to 1 《Universe 7》 among them and add it to your hand. Then, shuffle your deck."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-096",
+      "name": "Cocotte Zone",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-096.png",
+      "rarity": "Common[C]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "EXTRA",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack. Then, if your Leader Card is 《Universe 11》, choose up to 1 of your opponent's Battle Cards and switch it to Rest mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "TB1-097",
+      "name": "Son Goku, The Awakened Power",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/TB1-097.png",
+      "rarity": "Secret Rare[SCR]",
+      "series": [
+        "Themed Booster",
+        "～The Tournament Of Power～"
+      ],
+      "type": "BATTLE",
+      "color": "Green",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": " <ONE> , place 1 《Universe 7》 from your hand in the Drop Area : 《Universe 7》 ＜Son Goku＞ with an energy cost of 6 or more."
+        },
+        {
+          "modifiers": [
+            "Ultimate"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [],
+          "description": "c(When you deal life damage by attacking with this card, you win the game)"
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "This card's attack and skill cannot be negated."
+        }
+      ],
+      "power": "45000",
+      "character": "Son Goku",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "front": {
+      "id": "EX05-01",
+      "name": "Janemba, Lighthearted Destroyer",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-01.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET05",
+        "-Unity of Destruction- "
+      ],
+      "type": "BATTLE",
+      "color": "Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": ": Choose up to 1 《Agent of Destruction》 card with an energy cost of 4 that is both blue and yellow from your deck, play it in Rest Mode, shuffle your deck, then place this card at the bottom of its owner's deck."
+        }
+      ],
+      "power": "10000",
+      "character": "Janemba",
+      "specialTrait": "Evil Incarnate",
+      "era": "Janemba Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX05-02",
+      "name": "Boujack, Pirate's Pride",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-02.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET05",
+        "-Unity of Destruction- "
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Attack"
+          ],
+          "description": "Negate the attack and play this card."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "During your opponent's turn, if there is a card that is both blue and yellow in your energy, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, your opponent places the top card of their deck in their Drop Area."
+        }
+      ],
+      "power": "10000",
+      "character": "Boujack",
+      "specialTrait": "Boujack Brigade",
+      "era": "Boujack Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX05-03",
+      "name": "Janemba, Resonant Agent of Destruction",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-03.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET05",
+        "-Unity of Destruction- "
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Aegis Blue/Yellow",
+            "Once per turn"
+          ],
+          "description": "(If it's your opponent's turn, you can activate this during the Defense Step by placing cards in your hand in your Drop Area that match all colors specified by <AEGIS> : Choose up to 2 of your energy and switch them to Active Mode.)"
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card activates <AEGIS> , if there are no 《Evil Incarnate》 cards in play in your Battle Area other than this card, place 1 card from the top of your opponent's deck in their Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Janemba",
+      "specialTrait": "Evil Incarnate/Agent of Destruction",
+      "era": "Special"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX05-04",
+      "name": "Boujack, Resonant Agent of Destruction",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX05-04.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET05",
+        "-Unity of Destruction- "
+      ],
+      "type": "BATTLE",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Arrival Blue/Yellow"
+          ],
+          "description": "(Play this card from your hand when you have blue and yellow cards in your Combo Area.)"
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then place the top card of your opponent's deck in their Drop Area."
+        }
+      ],
+      "power": "20000",
+      "character": "Boujack",
+      "specialTrait": "Boujack Brigade/Agent of Destruction",
+      "era": "Special"
+    },
+    "back": {}
+  }
+]

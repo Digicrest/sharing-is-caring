@@ -1,0 +1,200 @@
+[
+  {
+    "front": {
+      "id": "SD10-01",
+      "name": "Baby Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-01.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Activate Main",
+            "Once per turn"
+          ],
+          "description": "Choose 1 card from your life and add it to your hand : Switch this card to Active Mode."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 2 or less : You may draw 2 cards, then choose up to 2 of your energy, switch them to Active Mode, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Baby/Vegeta: GT",
+      "specialTrait": "Machine Mutant/Saiyan",
+      "era": "Baby Saga"
+    },
+    "back": {
+      "id": "SD10-01",
+      "name": "Super Baby 2, Out for Revenge",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-01_b.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "LEADER",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Dual Attack"
+          ],
+          "description": "(Once per turn, when this card attacks, switch this card to Active Mode after the battle.)"
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Baby/Vegeta: GT",
+      "specialTrait": "Machine Mutant/Saiyan",
+      "era": "Baby Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "SD10-02",
+      "name": "SS3 Son Goku, the Last Straw",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-02.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "Choose 1 card in your life and add it to your hand : When this card attacks, it gets +10000 power and <DOUBLE STRIKE> for the duration of the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Son Goku: GT",
+      "specialTrait": "Saiyan",
+      "era": "Baby Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD10-03",
+      "name": "Super Baby 1, the Conqueror",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-03.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "BATTLE",
+      "color": "Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "Only 1 {Super Baby 1, the Conqueror} can be played in your Battle Area."
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is a yellow 〈Baby〉 card and your opponent has added a total of 2 or more cards from their life to their hand or Drop Area this turn : Play this card from your hand."
+        }
+      ],
+      "power": "15000",
+      "character": "Baby/Vegeta: GT",
+      "specialTrait": "Machine Mutant/Saiyan",
+      "era": "Baby Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD10-04",
+      "name": "Super Baby 2, Vengeful Rampage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-04.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "EX-Evolve"
+          ],
+          "description": ": Yellow 〈Baby〉 with an energy cost of 3. (Play this card on top of the specified card.)"
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Offering"
+          ],
+          "description": "(When you play this card, your opponent may choose 1 card from their life and place it in their Drop Area. If they don't, draw 2 cards.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose all of your opponent's Battle Cards ignoring <BARRIER> , and for the duration of the turn their skills are negated, and they can't be placed in a Combo Area from your opponent's Battle Area; this card gains <DUAL ATTACK> for the duration of the turn."
+        }
+      ],
+      "power": "25000",
+      "character": "Baby/Vegeta: GT",
+      "specialTrait": "Machine Mutant/Saiyan",
+      "era": "Baby Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "SD10-05",
+      "name": "Battle to the Death",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/SD10-05.png",
+      "rarity": "Starter Rare[ST]",
+      "series": [
+        "STARTER DECK",
+        "~PARASITIC OVERLORD~ [DBS-SD10]"
+      ],
+      "type": "EXTRA",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": "(If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)"
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If your Leader Card is yellow : Choose up to 3 cards in your life, add them to your hand, then choose up to 1 of your opponent's Battle Cards ignoring <BARRIER> , and it gets -25000 power for the duration of the turn."
+        }
+      ]
+    },
+    "back": {}
+  }
+]

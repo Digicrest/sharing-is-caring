@@ -1,0 +1,298 @@
+[
+  {
+    "front": {
+      "id": "EX11-01",
+      "name": "Vegeta",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-01.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Awaken"
+          ],
+          "description": "When your life is at 4 or less, or your opponent has 3 or more energy and you have a red Unison Card with a specified cost of 2 in play : You may draw 2 cards, choose cards in your life and add them to your hand until you have 6 life left, and flip this card over."
+        }
+      ],
+      "power": "10000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {
+      "id": "EX11-01",
+      "name": "Vegeta, Candidate of Destruction",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-01_b.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "LEADER",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card attacks, draw 1 card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When this card's power is decreased by a skill, it gains <DUAL ATTACK> for the turn."
+        }
+      ],
+      "power": "15000",
+      "character": "Vegeta",
+      "specialTrait": "Saiyan/Universe 7",
+      "era": "Universe Survival Saga"
+    }
+  },
+  {
+    "front": {
+      "id": "EX11-02",
+      "name": "Gotenks, Unison of Rage",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-02.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "UNISON",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When your Leader Card's power is decreased by a skill, it gets +10000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON +1",
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 card in your life and add it to your hand, then choose 1 of your Leader Cards and it gets -5000 power for the turn."
+        },
+        {
+          "modifiers": [
+            "UNISON -2",
+            "Activate Main"
+          ],
+          "description": "Choose 1 of your Leader Cards and it gets -5000 power for the turn : Look at your opponent's hand, choose up to 1 multicolor Battle Card or Battle Card with 10000 power or less in it, and place it in its owner's Drop Area."
+        }
+      ],
+      "power": "15000"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX11-03",
+      "name": "Whis, Destruction's Conductor",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-03.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If your Leader Card is a red 〈Vegeta〉 card, reduce the energy cost of this card in your hand by 2."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Look at up to 5 cards from the top of your deck, choose up to 1 red Unison Card with a specified cost of 2 or up to 1 red 《Universe 7》 card with an energy cost of 4 or less among them, add it to your hand, then shuffle your deck."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 of your Leader Cards and it gets -5000 power for the turn, and this card gets +5000 power for the turn."
+        }
+      ],
+      "power": "5000",
+      "character": "Whis",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX11-04",
+      "name": "Beerus, Wrath of the Gods",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-04.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Critical"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": "(Only 1 copy of this card can be played in your Battle Area.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": ", if your Leader Card is a red 〈Vegeta〉 card : At the end of a battle in which you combo with this card from your hand, play this card in Rest Mode."
+        }
+      ],
+      "power": "15000",
+      "character": "Beerus",
+      "specialTrait": "God/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX11-05",
+      "name": "Android 17, High Alert",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-05.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Blocker"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "If you have a red Unison Card with a specified cost of 2 in play and you have no Battle Cards in play : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, if your Leader Card's power is currently being increased or decreased, switch this card to Active Mode."
+        }
+      ],
+      "power": "10000",
+      "character": "Android 17",
+      "specialTrait": "Android/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX11-06",
+      "name": "Frieza, Fair-Weather Fiend",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-06.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "BATTLE",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Double Strike"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Unique"
+          ],
+          "description": "(Only 1 copy of this card can be played in your Battle Area.)"
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": ", if your Leader Card is red and you have a red Unison Card with a specified cost of 2 in play : At the end of a battle in which you combo with this card from your hand, play this card."
+        },
+        {
+          "modifiers": [
+            "Auto",
+            "Once per turn"
+          ],
+          "description": "When your opponent activates a <COUNTER> skill, choose up to 1 of their Battle Cards, ignoring <BARRIER> , and it gets -30000 power for the turn."
+        }
+      ],
+      "power": "20000",
+      "character": "Frieza",
+      "specialTrait": "Frieza Clan/Universe 7",
+      "era": "Universe Survival Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX11-07",
+      "name": "Omen of Awakening",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX11-07.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET 11",
+        "-Universe 7 Unison-"
+      ],
+      "type": "EXTRA",
+      "color": "Red",
+      "skills": [
+        {
+          "modifiers": [
+            "Counter Play"
+          ],
+          "description": "If your Leader Card is red and you choose 1 card in your life and place it in your Drop Area : If the Battle Card being played has 20000 power or less, it is placed in its owner's Drop Area instead of being played."
+        },
+        {
+          "modifiers": [
+            "Permanent"
+          ],
+          "description": "If you have a red Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 1."
+        }
+      ]
+    },
+    "back": {}
+  }
+]

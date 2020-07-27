@@ -1,0 +1,268 @@
+[
+  {
+    "front": {
+      "id": "EX08-01",
+      "name": "Son Goten, Strong of Heart",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-01.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Green",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 〈Broly〉 card : When you combo with this card, choose up to 1 red Extra Card with <FIELD> and an energy cost of 2 from your deck, place it in your Drop Area, then shuffle your deck. If you placed a card in your Drop Area, choose up to 1 of your energy, switch it to Active Mode, and if you have 5 or less cards in your hand, draw 1 card."
+        }
+      ],
+      "power": "15000",
+      "character": "Son Goten",
+      "specialTrait": "Saiyan/Earthling",
+      "era": "Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-02",
+      "name": "Meticulous Scheming",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-02.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "EXTRA",
+      "color": "Blue/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "If your Leader Card is a 〈Zamasu〉 card and it's your opponent's turn : Choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less, place it in your opponent's energy in Rest Mode, then if you placed an opponent's card in their energy, at the end of the turn your opponent chooses 1 of their energy and places it in its owner's Drop Area."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Draw 1 card, then choose 1 card in your opponent's hand, place it in their energy in Rest Mode, then if you placed an opponent's card in their energy, at the end of the turn your opponent chooses 1 of their energy and places it in its owner's Drop Area."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-03",
+      "name": "Super Baby 2, the Malicious Tyrant",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-03.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card from your hand, if your Leader Card is a 〈Baby〉 card, choose all 〈Baby〉 and 《Brainwashed》 cards in your Battle Area and Leader Area, and they get +5000 power for the duration of the turn; choose up to 1 of your opponent's Leader Cards and negate its non-keyword skills for the duration of the turn."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "If your Leader Card is a 〈Baby〉 card and you choose 2 cards in your hand and place them at the bottom of your deck in any order : When you combo with this card, draw 2 cards."
+        }
+      ],
+      "power": "20000",
+      "character": "Baby/Vegeta : GT",
+      "specialTrait": "Machine Mutant/Saiyan",
+      "era": "Baby Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-04",
+      "name": "SS Gogeta, All-Out Assault",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-04.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "BATTLE",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Barrier"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": " |THREE| , if your Leader Card is a blue 〈Gogeta : Br〉 card and you have at least 1 red 〈Son Goku : Br〉 card and 1 red 〈Vegeta : Br〉 card in your Drop Area, choose all red 〈Son Goku : Br〉 and 〈Vegeta : Br〉 cards in your Drop Area and shuffle them into your deck : Play this card from your hand."
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "At the end of your turn, place up to 2 cards from the top of your deck in your energy, then negate this skill for the duration of the game."
+        }
+      ],
+      "power": "25000",
+      "character": "Gogeta : Br",
+      "specialTrait": "Saiyan",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-05",
+      "name": "Combination Attack",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-05.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "EXTRA",
+      "color": "Red/Blue",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Battle"
+          ],
+          "description": "Choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less, return it to its owner's hand, then choose up to 1 of your red or blue energy and switch it to Active Mode."
+        }
+      ]
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-06",
+      "name": "SS Broly, All-Out Assault",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-06.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "BATTLE",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Arrival Green/Yellow"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Auto"
+          ],
+          "description": "When you play this card, or when this card is switched to Active Mode by a skill during your turn, choose one-"
+        },
+        {
+          "modifiers": [],
+          "description": "・ Choose 1 Battle Card with an energy cost greater than or equal to your opponent's current energy and KO it."
+        },
+        {
+          "modifiers": [],
+          "description": "・ Draw 1 card, then choose up to 1 of your opponent's cards and switch it to Rest Mode."
+        }
+      ],
+      "power": "25000",
+      "character": "Broly : Br",
+      "specialTrait": "Saiyan/Frieza's Army",
+      "era": "DBS : Broly Saga"
+    },
+    "back": {}
+  },
+  {
+    "front": {
+      "id": "EX08-07",
+      "name": "Wailing Spirit",
+      "artwork": "http://www.dbs-cardgame.com/images/cardlist/cardimg/EX08-07.png",
+      "rarity": "Expansion Rare[EX]",
+      "series": [
+        "EXPANSION SET",
+        "Magnificent Collection",
+        "-Fusion Hero- / -Forsaken Warrior-"
+      ],
+      "type": "EXTRA",
+      "color": "Green/Yellow",
+      "skills": [
+        {
+          "modifiers": [
+            "Energy-Exhaust"
+          ],
+          "description": ""
+        },
+        {
+          "modifiers": [
+            "Activate Main"
+          ],
+          "description": "Choose up to 1 〈Broly : Br〉 card with an original energy cost of 4 from your deck, negate its <AUTO> skill for the duration of the turn, play it, then shuffle your deck."
+        }
+      ]
+    },
+    "back": {}
+  }
+]
